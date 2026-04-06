@@ -4367,17 +4367,17 @@ cik,ticker,company_name,exchange,collected_at,status
 0001887944,SHIM,Shimmick Corp,Nasdaq,2026-04-06 08:54:41,done
 0001059142,GHI,Greystone Housing Impact Investors LP,NYSE,2026-04-06 08:54:42,done
 0000882071,PFO,Flaherty & Crumrine PREFERRED & INCOME OPPORTUNITY FUND INC,NYSE,2026-04-06 08:54:42,done
-0002024459,CHAR,Charlton Aria Acquisition Corp,Nasdaq,2026-04-06 08:54:43,done
+0002024459,CHAR,Charlton Aria Acquisition Corp,Nasdaq,2026-04-06 10:48:03,done
 0001997403,ZENA,"ZenaTech, Inc.",Nasdaq,2026-04-06 08:54:43,done
-0002030829,PGAC,PANTAGES CAPITAL ACQUISITION Corp,Nasdaq,2026-04-06 08:54:44,done
+0002030829,PGAC,PANTAGES CAPITAL ACQUISITION Corp,Nasdaq,2026-04-06 10:48:14,done
 0002047235,WSBK,"Winchester Bancorp, Inc./MD/",Nasdaq,2026-04-06 08:54:45,done
-0002070900,QUMS,Quantumsphere Acquisition Corp,Nasdaq,2026-04-06 08:54:45,done
+0002070900,QUMS,Quantumsphere Acquisition Corp,Nasdaq,2026-04-06 10:49:19,done
 0000845606,CXE,MFS HIGH INCOME MUNICIPAL TRUST,NYSE,2026-04-06 08:54:46,done
 0001585855,GGZ,Gabelli Global Small & Mid Cap Value Trust,NYSE,2026-04-06 08:54:46,done
 0001808997,AOUT,"American Outdoor Brands, Inc.",Nasdaq,2026-04-06 08:54:47,done
 0001496292,IHD,Voya Emerging Markets High Dividend Equity Fund,NYSE,2026-04-06 08:54:47,done
 0001041368,RVSB,RIVERVIEW BANCORP INC,Nasdaq,2026-04-06 08:54:48,done
-0001282957,GLU,GABELLI GLOBAL UTILITY & INCOME TRUST,NYSE,2026-04-06 08:54:49,done
+0001282957,GLU,GABELLI GLOBAL UTILITY & INCOME TRUST,NYSE,2026-04-06 09:17:13,done
 0001983736,GOAI,Eva Live Inc,Nasdaq,2026-04-06 08:54:49,done
 0001337068,MGYR,"Magyar Bancorp, Inc.",Nasdaq,2026-04-06 08:54:50,done
 0000075398,PAI,Western Asset Investment Grade Income Fund Inc.,NYSE,2026-04-06 08:54:50,done
@@ -4391,7 +4391,7 @@ cik,ticker,company_name,exchange,collected_at,status
 0001231457,GNLX,GENELUX Corp,Nasdaq,2026-04-06 08:54:55,done
 0001649744,DLTH,DULUTH HOLDINGS INC.,Nasdaq,2026-04-06 08:54:56,done
 0001777393,CHPT,"ChargePoint Holdings, Inc.",NYSE,2026-04-06 08:54:57,done
-0001889983,KVAC,Keen Vision Acquisition Corp.,Nasdaq,2026-04-06 08:54:57,done
+0001889983,KVAC,Keen Vision Acquisition Corp.,Nasdaq,2026-04-06 10:41:15,done
 0000779336,IAF,"ABRDN AUSTRALIA EQUITY FUND, INC.",NYSE,2026-04-06 08:54:58,done
 0001659494,COE,51Talk Online Education Group,NYSE,2026-04-06 08:54:59,done
 0001861795,DH,Definitive Healthcare Corp.,Nasdaq,2026-04-06 08:55:00,done
@@ -4421,14 +4421,14 @@ cik,ticker,company_name,exchange,collected_at,status
 0001787414,BSBK,Bogota Financial Corp.,Nasdaq,2026-04-06 08:55:20,done
 0000894871,AREN,"Arena Group Holdings, Inc.",NYSE,2026-04-06 08:55:21,done
 0000034067,BOOM,DMC Global Inc.,Nasdaq,2026-04-06 08:55:21,done
-0001805526,DFDV,DeFi Development Corp.,Nasdaq,2026-04-06 08:55:22,done
+0001805526,DFDV,DeFi Development Corp.,Nasdaq,2026-04-06 10:39:30,done
 0001865107,AKA,A.K.A. BRANDS HOLDING CORP.,NYSE,2026-04-06 08:55:22,done
 0000882300,SBI,WESTERN ASSET INTERMEDIATE MUNI FUND INC.,NYSE,2026-04-06 08:55:23,done
 0000875657,ULBI,ULTRALIFE CORP,Nasdaq,2026-04-06 08:55:24,done
 0001341235,ALDX,"Aldeyra Therapeutics, Inc.",Nasdaq,2026-04-06 08:55:24,done
 0001285650,CGO,CALAMOS GLOBAL TOTAL RETURN FUND,Nasdaq,2026-04-06 08:55:25,done
 0001661998,QTTB,Q32 Bio Inc.,Nasdaq,2026-04-06 08:55:25,done
-0001779474,MAPS,"WM TECHNOLOGY, INC.",Nasdaq,2026-04-06 08:55:26,done
+0001779474,MAPS,"WM TECHNOLOGY, INC.",Nasdaq,2026-04-06 09:33:20,done
 0001213037,CRDF,"Cardiff Oncology, Inc.",Nasdaq,2026-04-06 08:55:27,done
 0001279014,ERH,ALLSPRING UTILITIES & HIGH INCOME FUND,NYSE,2026-04-06 08:55:27,done
 0001500435,GPRO,"GoPro, Inc.",Nasdaq,2026-04-06 08:55:29,done
@@ -4436,13 +4436,13 @@ cik,ticker,company_name,exchange,collected_at,status
 0001325702,MX,MAGNACHIP SEMICONDUCTOR Corp,NYSE,2026-04-06 08:55:31,done
 0001697851,REKR,"Rekor Systems, Inc.",Nasdaq,2026-04-06 08:55:33,done
 0001948455,ISPR,Ispire Technology Inc.,Nasdaq,2026-04-06 08:55:34,done
-0001906364,FGMC,FG Merger II Corp.,Nasdaq,2026-04-06 08:55:34,done
+0001906364,FGMC,FG Merger II Corp.,Nasdaq,2026-04-06 10:41:23,done
 0001941131,TORO,TORO CORP.,Nasdaq,2026-04-06 08:55:35,done
 0001040896,IDN,"Intellicheck, Inc.",Nasdaq,2026-04-06 08:55:36,done
-0001941536,BAER,"Bridger Aerospace Group Holdings, Inc.",Nasdaq,2026-04-06 08:55:36,done
+0001941536,BAER,"Bridger Aerospace Group Holdings, Inc.",Nasdaq,2026-04-06 10:43:58,done
 0001541119,SFBC,"Sound Financial Bancorp, Inc.",Nasdaq,2026-04-06 08:55:37,done
 0000913277,CLAR,Clarus Corp,Nasdaq,2026-04-06 08:55:38,done
-0002024460,CHPG,ChampionsGate Acquisition Corp,Nasdaq,2026-04-06 08:55:38,done
+0002024460,CHPG,ChampionsGate Acquisition Corp,Nasdaq,2026-04-06 10:48:04,done
 0001818093,SKIN,Beauty Health Co,Nasdaq,2026-04-06 08:55:39,done
 0000810943,PCF,HIGH INCOME SECURITIES FUND,NYSE,2026-04-06 08:55:39,done
 0001498382,HURA,"TuHURA Biosciences, Inc./NV",Nasdaq,2026-04-06 08:55:40,done
@@ -4459,21 +4459,21 @@ cik,ticker,company_name,exchange,collected_at,status
 0000813623,SWZ,Total Return Securities Fund,NYSE,2026-04-06 08:55:48,done
 0000768899,TBI,"TrueBlue, Inc.",NYSE,2026-04-06 08:55:49,done
 0001856725,RANI,"Rani Therapeutics Holdings, Inc.",Nasdaq,2026-04-06 08:55:50,done
-0001956648,NOEM,CO2 Energy Transition Corp.,Nasdaq,2026-04-06 08:55:51,done
-0001614806,RPT,Rithm Property Trust Inc.,NYSE,2026-04-06 08:55:51,done
+0001956648,NOEM,CO2 Energy Transition Corp.,Nasdaq,2026-04-06 10:44:00,done
+0001614806,RPT,Rithm Property Trust Inc.,NYSE,2026-04-06 09:17:28,done
 0001438231,DMRC,Digimarc CORP,Nasdaq,2026-04-06 08:55:52,done
-0002017950,DTSQ,DT Cloud Star Acquisition Corp,Nasdaq,2026-04-06 08:55:53,done
+0002017950,DTSQ,DT Cloud Star Acquisition Corp,Nasdaq,2026-04-06 10:47:53,done
 0001876766,LICN,Lichen International Ltd,Nasdaq,2026-04-06 08:55:53,done
 0001674335,JELD,"JELD-WEN Holding, Inc.",NYSE,2026-04-06 08:55:54,done
 0000055529,KEQU,KEWAUNEE SCIENTIFIC CORP /DE/,Nasdaq,2026-04-06 08:55:55,done
 0000751365,VIRC,VIRCO MFG CORPORATION,Nasdaq,2026-04-06 08:55:56,done
-0001884046,SPKL,Spark I Acquisition Corp,Nasdaq,2026-04-06 08:55:56,done
+0001884046,SPKL,Spark I Acquisition Corp,Nasdaq,2026-04-06 10:41:09,done
 0001723464,BHST,BIOHARVEST SCIENCES INC.,Nasdaq,2026-04-06 08:55:57,done
 0001176334,MMLP,MARTIN MIDSTREAM PARTNERS L.P.,Nasdaq,2026-04-06 08:55:58,done
 0001512931,MRCC,MONROE CAPITAL Corp,Nasdaq,2026-04-06 08:55:59,done
-0001894693,SVRE,SaverOne 2014 Ltd.,Nasdaq,2026-04-06 08:55:59,done
+0001894693,SVRE,SaverOne 2014 Ltd.,Nasdaq,2026-04-06 10:41:17,done
 0001519469,AEC,ANFIELD ENERGY INC.,Nasdaq,2026-04-06 08:56:00,done
-0001850059,FSHP,Flag Ship Acquisition Corp,Nasdaq,2026-04-06 08:56:00,done
+0001850059,FSHP,Flag Ship Acquisition Corp,Nasdaq,2026-04-06 10:39:50,done
 0001746967,RMI,"RiverNorth Opportunistic Municipal Income Fund, Inc.",NYSE,2026-04-06 08:56:01,done
 0001472215,JLS,Nuveen Mortgage & Income Fund/MA/,NYSE,2026-04-06 08:56:01,done
 0001460329,FLNT,"Fluent, Inc.",Nasdaq,2026-04-06 08:56:02,done
@@ -4490,19 +4490,19 @@ cik,ticker,company_name,exchange,collected_at,status
 0001819574,BARK,"Bark, Inc.",NYSE,2026-04-06 08:56:10,done
 0001726445,SEER,"Seer, Inc.",Nasdaq,2026-04-06 08:56:11,done
 0001953366,STHO,Star Holdings,Nasdaq,2026-04-06 08:56:12,done
-0001571776,CHMI,Cherry Hill Mortgage Investment Corp,NYSE,2026-04-06 08:56:13,done
+0001571776,CHMI,Cherry Hill Mortgage Investment Corp,NYSE,2026-04-06 09:14:40,done
 0001400438,LGO,Largo Inc.,Nasdaq,2026-04-06 08:56:14,done
-0002000366,SCAG,Scage Future,Nasdaq,2026-04-06 08:56:15,done
+0002000366,SCAG,Scage Future,Nasdaq,2026-04-06 10:44:18,done
 0001425355,SUIG,SUI Group Holdings Ltd.,Nasdaq,2026-04-06 08:56:15,done
 0001835022,COYA,"Coya Therapeutics, Inc.",Nasdaq,2026-04-06 08:56:16,done
 0001687451,ZKIN,"ZK International Group Co., Ltd.",Nasdaq,2026-04-06 08:56:17,done
 0001397016,OPXS,Optex Systems Holdings Inc,Nasdaq,2026-04-06 08:56:18,done
 0001437925,MRDN,Meridian Holdings Inc./NV,Nasdaq,2026-04-06 08:56:18,done
 0000023197,CMTL,COMTECH TELECOMMUNICATIONS CORP /DE/,Nasdaq,2026-04-06 08:56:20,done
-0002049248,LCCC,Lakeshore Acquisition III Corp.,Nasdaq,2026-04-06 08:56:20,done
+0002049248,LCCC,Lakeshore Acquisition III Corp.,Nasdaq,2026-04-06 10:49:15,done
 0001680873,HFFG,HF Foods Group Inc.,Nasdaq,2026-04-06 08:56:21,done
 0001779578,BGM,BGM Group Ltd.,Nasdaq,2026-04-06 08:56:22,done
-0002012807,RFAI,RF Acquisition Corp II,Nasdaq,2026-04-06 08:56:22,done
+0002012807,RFAI,RF Acquisition Corp II,Nasdaq,2026-04-06 10:47:51,done
 0002019793,SAFX,"XCF Global, Inc.",Nasdaq,2026-04-06 08:56:23,done
 0001378701,GDL,GDL FUND,NYSE,2026-04-06 08:56:23,done
 0001597095,TOUR,Tuniu Corp,Nasdaq,2026-04-06 08:56:24,done
@@ -4516,38 +4516,38 @@ cik,ticker,company_name,exchange,collected_at,status
 0001043186,SLNG,"Stabilis Solutions, Inc.",Nasdaq,2026-04-06 08:56:30,done
 0000717806,FUSB,"FIRST US BANCSHARES, INC.",Nasdaq,2026-04-06 08:56:31,done
 0001070732,EVF,Eaton Vance Senior Income Trust,NYSE,2026-04-06 08:56:32,done
-0002077033,MMTX,Miluna Acquisition Corp,Nasdaq,2026-04-06 08:56:32,done
-0002044523,ORIQ,Origin Investment Corp I,Nasdaq,2026-04-06 08:56:33,done
+0002077033,MMTX,Miluna Acquisition Corp,Nasdaq,2026-04-06 10:49:20,done
+0002044523,ORIQ,Origin Investment Corp I,Nasdaq,2026-04-06 10:49:14,done
 0001993431,MCRP,Micropolis AI Robotics,NYSE,2026-04-06 08:56:33,done
 0000928465,DIT,AMCON DISTRIBUTING CO,NYSE,2026-04-06 08:56:34,done
 0001393584,AMWL,American Well Corp,NYSE,2026-04-06 08:56:35,done
-0001927719,CRGO,Freightos Ltd,Nasdaq,2026-04-06 08:56:35,done
+0001927719,CRGO,Freightos Ltd,Nasdaq,2026-04-06 10:43:57,done
 0001036044,INVE,"Identiv, Inc.",Nasdaq,2026-04-06 08:56:36,done
 0001984124,LUD,Luda Technology Group Ltd,NYSE,2026-04-06 08:56:37,done
 0001683553,SPRB,"SPRUCE BIOSCIENCES, INC.",Nasdaq,2026-04-06 08:56:37,done
-0002051380,PEW,GrabAGun Digital Holdings Inc.,NYSE,2026-04-06 08:56:38,done
+0002051380,PEW,GrabAGun Digital Holdings Inc.,NYSE,2026-04-06 10:49:15,done
 0001891101,BRCC,BRC Inc.,NYSE,2026-04-06 08:56:39,done
 0001609809,MCRB,"Seres Therapeutics, Inc.",Nasdaq,2026-04-06 08:56:39,done
 0001514490,RGT,"ROYCE GLOBAL TRUST, INC.",NYSE,2026-04-06 08:56:40,done
 0002070954,SMJF,SMJ International Holdings Inc.,NYSE,2026-04-06 08:56:40,done
-0002024203,CAPN,Cayson Acquisition Corp,Nasdaq,2026-04-06 08:56:41,done
-0001429260,FBIO,"Fortress Biotech, Inc.",Nasdaq,2026-04-06 08:56:41,done
-0001868640,RDZN,Roadzen Inc.,Nasdaq,2026-04-06 08:56:42,done
+0002024203,CAPN,Cayson Acquisition Corp,Nasdaq,2026-04-06 10:48:00,done
+0001429260,FBIO,"Fortress Biotech, Inc.",Nasdaq,2026-04-06 09:15:40,done
+0001868640,RDZN,Roadzen Inc.,Nasdaq,2026-04-06 10:41:02,done
 0000845611,GCV,GABELLI CONVERTIBLE & INCOME SECURITIES FUND INC,NYSE,2026-04-06 08:56:43,done
 0001499832,TSQ,"Townsquare Media, Inc.",NYSE,2026-04-06 08:56:44,done
 0000715446,ANIX,Anixa Biosciences Inc,Nasdaq,2026-04-06 08:56:44,done
 0001936224,SRFM,SURF AIR MOBILITY INC.,NYSE,2026-04-06 08:56:45,done
-0001841425,VGAS,"Verde Clean Fuels, Inc.",Nasdaq,2026-04-06 08:56:46,done
+0001841425,VGAS,"Verde Clean Fuels, Inc.",Nasdaq,2026-04-06 10:39:37,done
 0000072633,NRT,NORTH EUROPEAN OIL ROYALTY TRUST,NYSE,2026-04-06 08:56:46,done
-0002026767,ALIS,Calisa Acquisition Corp,Nasdaq,2026-04-06 08:56:47,done
+0002026767,ALIS,Calisa Acquisition Corp,Nasdaq,2026-04-06 10:48:05,done
 0001790177,RFM,"RiverNorth Flexible Municipal Income Fund, Inc.",NYSE,2026-04-06 08:56:47,done
-0001818644,LIDR,"AEye, Inc.",Nasdaq,2026-04-06 08:56:48,done
-0001716951,OCCI,"OFS Credit Company, Inc.",Nasdaq,2026-04-06 08:56:48,done
+0001818644,LIDR,"AEye, Inc.",Nasdaq,2026-04-06 10:39:31,done
+0001716951,OCCI,"OFS Credit Company, Inc.",Nasdaq,2026-04-06 09:33:18,done
 0001620463,LONA,"LeonaBio, Inc.",Nasdaq,2026-04-06 08:56:49,done
 0000795800,NEXM,NexMetals Mining Corp.,Nasdaq,2026-04-06 08:56:49,done
 0002019505,HIT,"Health In Tech, Inc.",Nasdaq,2026-04-06 08:56:50,done
 0001199004,FMN,Federated Hermes Premier Municipal Income Fund,NYSE,2026-04-06 08:56:51,done
-0002020987,YHNA,YHN Acquisition I Ltd,Nasdaq,2026-04-06 08:56:51,done
+0002020987,YHNA,YHN Acquisition I Ltd,Nasdaq,2026-04-06 10:47:57,done
 0001266806,VANI,"Vivani Medical, Inc.",Nasdaq,2026-04-06 08:56:52,done
 0001556727,FNWB,First Northwest Bancorp,Nasdaq,2026-04-06 08:56:53,done
 0001782223,PYXS,"Pyxis Oncology, Inc.",Nasdaq,2026-04-06 08:56:53,done
@@ -4562,25 +4562,25 @@ cik,ticker,company_name,exchange,collected_at,status
 0000090168,SIF,SIFCO INDUSTRIES INC,NYSE,2026-04-06 08:56:59,done
 0001000230,OCC,OPTICAL CABLE CORP,Nasdaq,2026-04-06 08:57:00,done
 0001636422,HCAT,"Health Catalyst, Inc.",Nasdaq,2026-04-06 08:57:01,done
-0002001699,HPAI,Helport AI Ltd,Nasdaq,2026-04-06 08:57:01,done
-0002010653,FVN,Future Vision II Acquisition Corp.,Nasdaq,2026-04-06 08:57:02,done
-0001851961,GCTS,"GCT Semiconductor Holding, Inc.",NYSE,2026-04-06 08:57:03,done
-0002043630,APAC,StoneBridge Acquisition II Corp,Nasdaq,2026-04-06 08:57:03,done
+0002001699,HPAI,Helport AI Ltd,Nasdaq,2026-04-06 10:44:22,done
+0002010653,FVN,Future Vision II Acquisition Corp.,Nasdaq,2026-04-06 10:47:49,done
+0001851961,GCTS,"GCT Semiconductor Holding, Inc.",NYSE,2026-04-06 10:39:52,done
+0002043630,APAC,StoneBridge Acquisition II Corp,Nasdaq,2026-04-06 10:49:14,done
 0001069530,FLNA,"FILANA THERAPEUTICS, INC.",Nasdaq,2026-04-06 08:57:04,done
 0000054187,MAYS,MAYS J W INC,Nasdaq,2026-04-06 08:57:05,done
 0000785557,DLHC,DLH Holdings Corp.,Nasdaq,2026-04-06 08:57:05,done
-0002076192,WSTN,Westin Acquisition Corp,Nasdaq,2026-04-06 08:57:06,done
+0002076192,WSTN,Westin Acquisition Corp,Nasdaq,2026-04-06 10:49:19,done
 0001849296,OKYO,OKYO Pharma Ltd,Nasdaq,2026-04-06 08:57:06,done
 0001296774,NCTY,The9 LTD,Nasdaq,2026-04-06 08:57:07,done
 0000926423,MIND,"MIND TECHNOLOGY, INC",Nasdaq,2026-04-06 08:57:08,done
 0001702924,WRAP,"WRAP TECHNOLOGIES, INC.",Nasdaq,2026-04-06 08:57:08,done
 0000879535,DTF,DTF TAX-FREE INCOME 2028 TERM FUND INC,NYSE,2026-04-06 08:57:09,done
 0000069422,INTG,INTERGROUP CORP,Nasdaq,2026-04-06 08:57:09,done
-0002036973,UYSC,UY Scuti Acquisition Corp.,Nasdaq,2026-04-06 08:57:10,done
+0002036973,UYSC,UY Scuti Acquisition Corp.,Nasdaq,2026-04-06 10:49:13,done
 0000924383,GNSS,Genasys Inc.,Nasdaq,2026-04-06 08:57:12,done
 0001472341,GDO,WESTERN ASSET GLOBAL CORPORATE OPPORTUNITY FUND INC.,NYSE,2026-04-06 08:57:12,done
 0001985139,LSE,"Leishen Energy Holding Co., Ltd.",Nasdaq,2026-04-06 08:57:13,done
-0001490349,PFX,PhenixFIN Corp,Nasdaq,2026-04-06 08:57:13,done
+0001490349,PFX,PhenixFIN Corp,Nasdaq,2026-04-06 09:17:22,done
 0001769731,AMTD,AMTD IDEA GROUP,NYSE,2026-04-06 08:57:14,done
 0001878313,MAIA,"MAIA Biotechnology, Inc.",NYSE,2026-04-06 08:57:15,done
 0001609065,PBHC,"Pathfinder Bancorp, Inc.",Nasdaq,2026-04-06 08:57:16,done
@@ -4592,7 +4592,7 @@ cik,ticker,company_name,exchange,collected_at,status
 0002011208,SPAI,Safe Pro Group Inc.,Nasdaq,2026-04-06 08:57:21,done
 0000875582,NTIC,NORTHERN TECHNOLOGIES INTERNATIONAL CORP,Nasdaq,2026-04-06 08:57:22,done
 0000891482,FLL,FULL HOUSE RESORTS INC,Nasdaq,2026-04-06 08:57:23,done
-0002059165,SSEA,STARRY SEA ACQUISITION CORP,Nasdaq,2026-04-06 08:57:24,done
+0002059165,SSEA,STARRY SEA ACQUISITION CORP,Nasdaq,2026-04-06 10:49:18,done
 0001453593,XTNT,"Xtant Medical Holdings, Inc.",NYSE,2026-04-06 08:57:25,done
 0001386301,RSSS,"Research Solutions, Inc.",Nasdaq,2026-04-06 08:57:26,done
 0001933567,NRXS,"Neuraxis, INC",NYSE,2026-04-06 08:57:27,done
@@ -4608,45 +4608,45 @@ cik,ticker,company_name,exchange,collected_at,status
 0002013186,TNMG,TNL Mediagene,Nasdaq,2026-04-06 08:57:38,done
 0001854139,ZVIA,Zevia PBC,NYSE,2026-04-06 08:57:39,done
 0002028177,YOUL,Youlife Group Inc.,Nasdaq,2026-04-06 08:57:39,done
-0002051587,BSAA,BEST SPAC I Acquisition Corp.,Nasdaq,2026-04-06 08:57:40,done
+0002051587,BSAA,BEST SPAC I Acquisition Corp.,Nasdaq,2026-04-06 10:49:16,done
 0000918541,NNBR,NN INC,Nasdaq,2026-04-06 08:57:41,done
 0001476840,EXFY,"Expensify, Inc.",Nasdaq,2026-04-06 08:57:42,done
 0001919246,PTHS,Pelthos Therapeutics Inc.,NYSE,2026-04-06 08:57:43,done
-0001462418,ASPS,ALTISOURCE PORTFOLIO SOLUTIONS S.A.,Nasdaq,2026-04-06 08:57:44,done
+0001462418,ASPS,ALTISOURCE PORTFOLIO SOLUTIONS S.A.,Nasdaq,2026-04-06 09:17:19,done
 0001895597,ICG,Intchains Group Ltd,Nasdaq,2026-04-06 08:57:45,done
 0001660334,VRCA,Verrica Pharmaceuticals Inc.,Nasdaq,2026-04-06 08:57:45,done
 0001378140,OPTT,"Ocean Power Technologies, Inc.",NYSE,2026-04-06 08:57:47,done
 0000839470,WWR,"WESTWATER RESOURCES, INC.",NYSE,2026-04-06 08:57:48,done
-0001145255,HNNA,HENNESSY ADVISORS INC,Nasdaq,2026-04-06 08:57:49,done
-0002053927,WTG,Wintergreen Acquisition Corp.,Nasdaq,2026-04-06 08:57:50,done
+0001145255,HNNA,HENNESSY ADVISORS INC,Nasdaq,2026-04-06 09:17:12,done
+0002053927,WTG,Wintergreen Acquisition Corp.,Nasdaq,2026-04-06 10:49:17,done
 0001170311,PNI,PIMCO NEW YORK MUNICIPAL INCOME FUND II,NYSE,2026-04-06 08:57:50,done
 0001758766,STEM,"STEM, INC.",NYSE,2026-04-06 08:57:51,done
-0001918414,NBRG,Newbridge Acquisition Ltd,Nasdaq,2026-04-06 08:57:51,done
+0001918414,NBRG,Newbridge Acquisition Ltd,Nasdaq,2026-04-06 10:43:56,done
 0000798081,LAKE,LAKELAND INDUSTRIES INC,Nasdaq,2026-04-06 08:57:52,done
-0002002045,GCL,GCL Global Holdings Ltd,Nasdaq,2026-04-06 08:57:53,done
+0002002045,GCL,GCL Global Holdings Ltd,Nasdaq,2026-04-06 10:47:46,done
 0001844505,QTI,"QT IMAGING HOLDINGS, INC.",Nasdaq,2026-04-06 08:57:54,done
 0000917225,XPL,SOLITARIO RESOURCES CORP.,NYSE,2026-04-06 08:57:55,done
 0001607997,NMS,Nuveen Minnesota Quality Municipal Income Fund,NYSE,2026-04-06 08:57:55,done
 0000008146,ALOT,"AstroNova, Inc.",Nasdaq,2026-04-06 08:57:57,done
 0001117171,CBAT,"CBAK Energy Technology, Inc.",Nasdaq,2026-04-06 08:57:58,done
 0001643953,PRPL,"Purple Innovation, Inc.",Nasdaq,2026-04-06 08:57:59,done
-0002064177,BPAC,Blueport Acquisition Ltd,Nasdaq,2026-04-06 08:57:59,done
-0001982444,BDMD,Baird Medical Investment Holdings Ltd,Nasdaq,2026-04-06 08:58:00,done
+0002064177,BPAC,Blueport Acquisition Ltd,Nasdaq,2026-04-06 10:49:18,done
+0001982444,BDMD,Baird Medical Investment Holdings Ltd,Nasdaq,2026-04-06 10:44:12,done
 0001339970,ATYR,aTYR PHARMA INC,Nasdaq,2026-04-06 08:58:01,done
-0001842566,AISP,"Airship AI Holdings, Inc.",Nasdaq,2026-04-06 08:58:02,done
+0001842566,AISP,"Airship AI Holdings, Inc.",Nasdaq,2026-04-06 10:39:37,done
 0001826889,BODI,"Beachbody Company, Inc.",Nasdaq,2026-04-06 08:58:02,done
 0000949961,IOR,INCOME OPPORTUNITY REALTY INVESTORS INC /TX/,NYSE,2026-04-06 08:58:03,done
 0001857853,COOK,"Traeger, Inc.",NYSE,2026-04-06 08:58:04,done
 0001979887,XCH,XCHG Ltd,Nasdaq,2026-04-06 08:58:05,done
 0001742770,VIOT,"Viomi Technology Co., Ltd",Nasdaq,2026-04-06 08:58:06,done
 0001287098,MXCT,"MAXCYTE, INC.",Nasdaq,2026-04-06 08:58:06,done
-0001862150,CING,Cingulate Inc.,Nasdaq,2026-04-06 08:58:07,done
+0001862150,CING,Cingulate Inc.,Nasdaq,2026-04-06 10:40:16,done
 0001437226,MHH,"Mastech Digital, Inc.",NYSE,2026-04-06 08:58:08,done
 0001812447,SKYQ,Sky Quarry Inc.,Nasdaq,2026-04-06 08:58:09,done
 0001320350,LNSR,"LENSAR, Inc.",Nasdaq,2026-04-06 08:58:13,done
 0001529113,XTIA,"XTI Aerospace, Inc.",Nasdaq,2026-04-06 08:58:14,done
 0001746473,PLRX,"PLIANT THERAPEUTICS, INC.",Nasdaq,2026-04-06 08:58:14,done
-0001719406,NRXP,"NRX Pharmaceuticals, Inc.",Nasdaq,2026-04-06 08:58:15,done
+0001719406,NRXP,"NRX Pharmaceuticals, Inc.",Nasdaq,2026-04-06 09:33:19,done
 0001534969,SERA,"SERA PROGNOSTICS, INC.",Nasdaq,2026-04-06 08:58:16,done
 0001979332,CPBI,"Central Plains Bancshares, Inc.",Nasdaq,2026-04-06 08:58:17,done
 0001772720,SPRU,SPRUCE POWER HOLDING CORP,NYSE,2026-04-06 08:58:18,done
@@ -4657,13 +4657,13 @@ cik,ticker,company_name,exchange,collected_at,status
 0001600983,KSCP,"Knightscope, Inc.",Nasdaq,2026-04-06 08:58:22,done
 0000318833,TISI,TEAM INC,NYSE,2026-04-06 08:58:23,done
 0001572616,GUTS,"FRACTYL HEALTH, INC.",Nasdaq,2026-04-06 08:58:24,done
-0001865506,ZEO,Zeo Energy Corp.,Nasdaq,2026-04-06 08:58:25,done
+0001865506,ZEO,Zeo Energy Corp.,Nasdaq,2026-04-06 10:40:24,done
 0001991592,INLF,INLIF Ltd,Nasdaq,2026-04-06 08:58:26,done
 0001444192,GRCE,"Grace Therapeutics, Inc.",Nasdaq,2026-04-06 08:58:27,done
-0001861841,ARBE,Arbe Robotics Ltd.,Nasdaq,2026-04-06 08:58:28,done
+0001861841,ARBE,Arbe Robotics Ltd.,Nasdaq,2026-04-06 10:40:12,done
 0001720250,KNDI,"Kandi Technologies Group, Inc.",Nasdaq,2026-04-06 08:58:29,done
 0001362190,AEYE,AUDIOEYE INC,Nasdaq,2026-04-06 08:58:30,done
-0001998043,PDCC,Pearl Diver Credit Co Inc.,NYSE,2026-04-06 08:58:31,done
+0001998043,PDCC,Pearl Diver Credit Co Inc.,NYSE,2026-04-06 10:44:16,done
 0001819411,GANX,"Gain Therapeutics, Inc.",Nasdaq,2026-04-06 08:58:32,done
 0001699382,PMVP,"PMV Pharmaceuticals, Inc.",Nasdaq,2026-04-06 08:58:32,done
 0001041859,PLCE,"Childrens Place, Inc.",Nasdaq,2026-04-06 08:58:33,done
@@ -4675,17 +4675,17 @@ cik,ticker,company_name,exchange,collected_at,status
 0001001171,BYFC,BROADWAY FINANCIAL CORP \DE\,Nasdaq,2026-04-06 08:58:40,done
 0001626878,XBIT,XBiotech Inc.,Nasdaq,2026-04-06 08:58:42,done
 0001872302,NA,Nano Labs Ltd,Nasdaq,2026-04-06 08:58:42,done
-0001830188,UHG,"United Homes Group, Inc.",Nasdaq,2026-04-06 08:58:43,done
+0001830188,UHG,"United Homes Group, Inc.",Nasdaq,2026-04-06 10:39:34,done
 0001069394,FSI,FLEXIBLE SOLUTIONS INTERNATIONAL INC,NYSE,2026-04-06 08:58:44,done
 0000014177,BRID,BRIDGFORD FOODS CORP,Nasdaq,2026-04-06 08:58:45,done
 0000709283,QMCO,QUANTUM CORP /DE/,Nasdaq,2026-04-06 08:58:46,done
 0001089872,GAIA,"GAIA, INC",Nasdaq,2026-04-06 08:58:48,done
 0000908187,PCM,"PCM FUND, INC.",NYSE,2026-04-06 08:58:48,done
 0001849867,CLST,"Catalyst Bancorp, Inc.",Nasdaq,2026-04-06 08:58:49,done
-0000064463,SLNH,"Soluna Holdings, Inc",Nasdaq,2026-04-06 08:58:50,done
+0000064463,SLNH,"Soluna Holdings, Inc",Nasdaq,2026-04-06 09:15:49,done
 0001750106,AEI,Alset Inc.,Nasdaq,2026-04-06 08:58:51,done
-0001675033,GECC,Great Elm Capital Corp.,Nasdaq,2026-04-06 08:58:52,done
-0002035016,RIBB,Ribbon Acquisition Corp.,Nasdaq,2026-04-06 08:58:52,done
+0001675033,GECC,Great Elm Capital Corp.,Nasdaq,2026-04-06 09:17:32,done
+0002035016,RIBB,Ribbon Acquisition Corp.,Nasdaq,2026-04-06 10:49:12,done
 0001226616,MNOV,MEDICINOVA INC,Nasdaq,2026-04-06 08:58:54,done
 0002030617,PMI,"Picard Medical, Inc.",NYSE,2026-04-06 08:58:55,done
 0001853825,DTCX,"Datacentrex, Inc.",Nasdaq,2026-04-06 08:58:56,done
@@ -4693,1312 +4693,1312 @@ cik,ticker,company_name,exchange,collected_at,status
 0001954694,LGCL,Lucas GC Ltd,Nasdaq,2026-04-06 08:58:58,done
 0001360565,WFCF,"Where Food Comes From, Inc.",Nasdaq,2026-04-06 08:58:59,done
 0001433607,NSPR,"InspireMD, Inc.",Nasdaq,2026-04-06 08:59:00,done
-0001703644,GPMT,Granite Point Mortgage Trust Inc.,NYSE,2026-04-06 08:59:01,done
+0001703644,GPMT,Granite Point Mortgage Trust Inc.,NYSE,2026-04-06 09:33:17,done
 0001031316,FSP,FRANKLIN STREET PROPERTIES CORP /MA/,NYSE,2026-04-06 08:59:02,done
-0001517767,CCIF,Carlyle Credit Income Fund,NYSE,2026-04-06 08:59:03,done
+0001517767,CCIF,Carlyle Credit Income Fund,NYSE,2026-04-06 09:17:22,done
 0000100726,UFI,UNIFI INC,NYSE,2026-04-06 08:59:04,done
-0001759186,COEP,"Coeptis Therapeutics Holdings, Inc.",Nasdaq,2026-04-06 08:59:05,done
-0001954594,HAO,Haoxi Health Technology Ltd,Nasdaq,,pending
-0001818844,DWTX,"Dogwood Therapeutics, Inc.",Nasdaq,,pending
-0001708688,IFRX,InflaRx N.V.,Nasdaq,,pending
-0001765850,AURE,Aurelion Inc.,Nasdaq,,pending
-0001504678,LOOP,"Loop Industries, Inc.",Nasdaq,,pending
-0001755058,ZBAI,ATIF Holdings Ltd,Nasdaq,,pending
-0001993727,SNT,Senstar Technologies Corp,Nasdaq,,pending
-0000814676,CPSH,CPS TECHNOLOGIES CORP/DE/,Nasdaq,,pending
-0000847411,CXH,MFS INVESTMENT GRADE MUNICIPAL TRUST,NYSE,,pending
-0001272842,AIRG,AIRGAIN INC,Nasdaq,,pending
-0000864240,SYPR,SYPRIS SOLUTIONS INC,Nasdaq,,pending
-0002030277,LFS,"LEIFRAS Co., Ltd.",Nasdaq,,pending
-0001484612,OM,"Outset Medical, Inc.",Nasdaq,,pending
-0001534708,BLNE,"Beeline Holdings, Inc.",Nasdaq,,pending
-0001713863,RFL,"Rafael Holdings, Inc.",NYSE,,pending
-0001677940,BYSI,BeyondSpring Inc.,Nasdaq,,pending
-0000791718,EEA,"EUROPEAN EQUITY FUND, INC / MD",NYSE,,pending
-0001455365,CGTX,COGNITION THERAPEUTICS INC,Nasdaq,,pending
-0001889123,FLD,"Fold Holdings, Inc.",Nasdaq,,pending
-0001494891,SRTS,"Sensus Healthcare, Inc.",Nasdaq,,pending
-0000846671,VLT,Invesco High Income Trust II,NYSE,,pending
-0001274737,XGN,EXAGEN INC.,Nasdaq,,pending
-0000806172,SOTK,SONO TEK CORP,Nasdaq,,pending
-0001883814,SLND,"Southland Holdings, Inc.",NYSE,,pending
-0001877333,THCH,TH International Ltd,Nasdaq,,pending
-0001738699,WKEY,Wisekey International Holding S.A.,Nasdaq,,pending
-0001604868,GRWG,GrowGeneration Corp.,Nasdaq,,pending
-0001965473,CCG,Cheche Group Inc.,Nasdaq,,pending
-0000883107,SLSN,"SOLESENCE, INC.",Nasdaq,,pending
-0001829280,FORA,Forian Inc.,Nasdaq,,pending
-0001156041,AGIG,"ABUNDIA GLOBAL IMPACT GROUP, INC.",NYSE,,pending
-0001547546,LFT,"Lument Finance Trust, Inc.",NYSE,,pending
-0001288855,OPHC,"OptimumBank Holdings, Inc.",NYSE,,pending
-0002048271,WSHP,WeShop Holdings Ltd,Nasdaq,,pending
-0001378950,PRTS,"CarParts.com, Inc.",Nasdaq,,pending
-0000881787,CRT,CROSS TIMBERS ROYALTY TRUST,NYSE,,pending
-0001822523,AFCG,Advanced Flower Capital Inc.,Nasdaq,,pending
-0001828161,FTCI,"FTC Solar, Inc.",Nasdaq,,pending
-0002009312,AGH,Aureus Greenway Holdings Inc,Nasdaq,,pending
-0001557523,PGZ,Principal Real Estate Income Fund,NYSE,,pending
-0001516899,YTRA,"Yatra Online, Inc.",Nasdaq,,pending
-0001006837,VATE,INNOVATE Corp.,NYSE,,pending
-0001891856,GENK,"GEN Restaurant Group, Inc.",Nasdaq,,pending
-0001602409,FNGR,"FingerMotion, Inc.",Nasdaq,,pending
-0001133311,TZOO,TRAVELZOO,Nasdaq,,pending
-0001720580,ACET,"Adicet Bio, Inc.",Nasdaq,,pending
-0001939965,SLMT,Brera Holdings PLC,Nasdaq,,pending
-0001505413,VOC,VOC Energy Trust,NYSE,,pending
-0001520048,PVL,Permianville Royalty Trust,NYSE,,pending
-0001436229,BTCS,BTCS Inc.,Nasdaq,,pending
-0001644771,RSF,"RiverNorth Capital & Income Fund, Inc.",NYSE,,pending
-0001831096,GEG,"Great Elm Group, Inc.",Nasdaq,,pending
-0001533998,DRIO,DarioHealth Corp.,Nasdaq,,pending
-0001998781,IBAC,IB Acquisition Corp.,Nasdaq,,pending
-0001420720,IBIO,"iBio, Inc.",Nasdaq,,pending
-0001131343,ATHE,ALTERITY THERAPEUTICS LTD,Nasdaq,,pending
-0001580864,VRM,"Vroom, Inc.",Nasdaq,,pending
-0001967631,NAMI,Jinxin Technology Holding Co,Nasdaq,,pending
-0001454938,TEAD,Teads Holding Co.,Nasdaq,,pending
-0001943802,FSEA,"First Seacoast Bancorp, Inc.",Nasdaq,,pending
-0001757840,INDO,Indonesia Energy Corp Ltd,NYSE,,pending
-0001834105,IBO,IMPACT BIOMEDICAL INC.,NYSE,,pending
-0001495231,IZEA,"IZEA Worldwide, Inc.",Nasdaq,,pending
-0001874875,HOUR,"Hour Loop, Inc",Nasdaq,,pending
-0002010788,EXOZ,EXOZYMES INC.,Nasdaq,,pending
-0000707605,ASRV,AMERISERV FINANCIAL INC /PA/,Nasdaq,,pending
-0001082324,VHC,VirnetX Holding Corp,Nasdaq,,pending
-0001971115,RYDE,Ryde Group Ltd,NYSE,,pending
-0000716643,RGS,REGIS CORP,Nasdaq,,pending
-0000353184,AIRT,AIR T INC,Nasdaq,,pending
-0001930021,HOVR,New Horizon Aircraft Ltd.,Nasdaq,,pending
-0001856031,SEAT,Vivid Seats Inc.,Nasdaq,,pending
-0001940177,PODC,"PodcastOne, Inc.",Nasdaq,,pending
-0000027367,DXR,DAXOR CORP,Nasdaq,,pending
-0000811641,ICCC,IMMUCELL CORP /DE/,Nasdaq,,pending
-0001898643,MOB,Mobilicom Ltd,Nasdaq,,pending
-0001509745,CYPH,CYPHERPUNK TECHNOLOGIES INC.,Nasdaq,,pending
-0000005981,AVD,AMERICAN VANGUARD CORP,NYSE,,pending
-0002014955,SDM,Smart Digital Group Ltd,Nasdaq,,pending
-0002032950,HSPT,Horizon Space Acquisition II Corp.,Nasdaq,,pending
-0001877939,CTM,"Castellum, Inc.",NYSE,,pending
-0001817004,NXXT,"NEXTNRG, INC.",Nasdaq,,pending
-0001904501,ZTEK,Zentek Ltd.,Nasdaq,,pending
-0000012040,BDL,FLANIGANS ENTERPRISES INC,NYSE,,pending
-0001823878,MYPS,"PLAYSTUDIOS, Inc.",Nasdaq,,pending
-0001974044,MNY,MoneyHero Ltd,Nasdaq,,pending
-0002014254,KBSX,FST Corp.,Nasdaq,,pending
-0001026980,APWC,ASIA PACIFIC WIRE & CABLE CORP LTD,Nasdaq,,pending
-0001994214,NOMA,Nomadar Corp.,Nasdaq,,pending
-0001031235,SELF,"Global Self Storage, Inc.",Nasdaq,,pending
-0001819253,BTMD,biote Corp.,Nasdaq,,pending
-0001731388,EDRY,EuroDry Ltd.,Nasdaq,,pending
-0001769697,FNUC,Frontier Nuclear & Minerals Inc.,Nasdaq,,pending
-0001477845,ANVS,"Annovis Bio, Inc.",NYSE,,pending
-0001753673,SJ,Scienjoy Holding Corp,Nasdaq,,pending
-0001881592,NSTS,"NSTS Bancorp, Inc.",Nasdaq,,pending
-0001928948,HTCO,High-Trend International Group,Nasdaq,,pending
-0001822359,DCGO,DocGo Inc.,Nasdaq,,pending
-0001868395,YIBO,Planet Image International Ltd,Nasdaq,,pending
-0001907184,ELBM,Electra Battery Materials Corp,Nasdaq,,pending
-0001783328,TCRX,"TScan Therapeutics, Inc.",Nasdaq,,pending
-0001024672,ELTK,ELTEK LTD,Nasdaq,,pending
-0000910406,HAIN,HAIN CELESTIAL GROUP INC,Nasdaq,,pending
-0001835579,IMA,"ImageneBio, Inc.",Nasdaq,,pending
-0000101984,UEIC,UNIVERSAL ELECTRONICS INC,Nasdaq,,pending
-0002000530,GMHS,Gamehaus Holdings Inc.,Nasdaq,,pending
-0001491419,LVO,"LiveOne, Inc.",Nasdaq,,pending
-0000863900,MXE,MEXICO EQUITY & INCOME FUND INC,NYSE,,pending
-0000849146,LFVN,Lifevantage Corp,Nasdaq,,pending
-0001822791,CLNN,Clene Inc.,Nasdaq,,pending
-0001313536,SOHOB,SOTHERLY HOTELS LP,Nasdaq,,pending
-0001738827,KLXE,"KLX Energy Services Holdings, Inc.",Nasdaq,,pending
-0001399520,STKS,"ONE Group Hospitality, Inc.",Nasdaq,,pending
-0000101594,USEG,US ENERGY CORP,Nasdaq,,pending
-0001637715,OKUR,"OnKure Therapeutics, Inc.",Nasdaq,,pending
-0002000410,EURK,Eureka Acquisition Corp,Nasdaq,,pending
-0001888654,FEAM,"5E Advanced Materials, Inc.",Nasdaq,,pending
-0001275158,NDLS,NOODLES & Co,Nasdaq,,pending
-0001738906,YI,"111, Inc.",Nasdaq,,pending
-0001467761,FIEE,"FiEE, Inc.",Nasdaq,,pending
-0000838131,JMM,Nuveen Multi-Market Income Fund,NYSE,,pending
-0000018255,CATO,CATO CORP,NYSE,,pending
-0001784254,MDIA,Mediaco Holding Inc.,Nasdaq,,pending
-0001500375,HFBL,"Home Federal Bancorp, Inc. of Louisiana",Nasdaq,,pending
-0001574094,RNXT,"RenovoRx, Inc.",Nasdaq,,pending
-0002053456,TGE,Generation Essentials Group,NYSE,,pending
-0001953021,MPU,Mega Matrix Inc,NYSE,,pending
-0001789769,TIL,"Instil Bio, Inc.",Nasdaq,,pending
-0001775898,UCL,uCloudlink Group Inc.,Nasdaq,,pending
-0001719714,MREO,Mereo BioPharma Group plc,Nasdaq,,pending
-0001992818,ZOOZ,ZOOZ Strategy Ltd.,Nasdaq,,pending
-0001808110,DDC,DDC Enterprise Ltd,NYSE,,pending
-0001535955,LPCN,Lipocine Inc.,Nasdaq,,pending
-0001666071,CDLX,"Cardlytics, Inc.",Nasdaq,,pending
-0001781174,ACRV,"Acrivon Therapeutics, Inc.",Nasdaq,,pending
-0001972234,VHUB,"VenHub Global, Inc.",Nasdaq,,pending
-0000732026,TRT,TRIO-TECH INTERNATIONAL,NYSE,,pending
-0001506184,IMMP,IMMUTEP Ltd,Nasdaq,,pending
-0001997201,PSIG,PS International Group Ltd.,Nasdaq,,pending
-0001839530,XBP,"XBP Global Holdings, Inc.",Nasdaq,,pending
-0001638097,ENTX,Entera Bio Ltd.,Nasdaq,,pending
-0001840229,INKT,"MiNK Therapeutics, Inc.",Nasdaq,,pending
-0000889348,CVU,CPI AEROSTRUCTURES INC,NYSE,,pending
-0001841761,GROV,"Grove Collaborative Holdings, Inc.",NYSE,,pending
-0001951667,CTNT,CHEETAH NET SUPPLY CHAIN SERVICE INC.,Nasdaq,,pending
-0001849466,TCBS,"Texas Community Bancshares, Inc.",Nasdaq,,pending
-0000728385,BCHT,Birchtech Corp.,NYSE,,pending
-0001173204,CNVS,Cineverse Corp.,Nasdaq,,pending
-0001723935,STG,Sunlands Technology Group,NYSE,,pending
-0001690080,FRMM,FORUM MARKETS Inc,Nasdaq,,pending
-0001886190,GGR,Gogoro Inc.,Nasdaq,,pending
-0001826397,AVX,AVAX ONE TECHNOLOGY LTD.,Nasdaq,,pending
-0001080340,LOAN,"MANHATTAN BRIDGE CAPITAL, INC",Nasdaq,,pending
-0000896493,GPUS,"Hyperscale Data, Inc.",NYSE,,pending
-0001847806,GNS,Genius Group Ltd,NYSE,,pending
-0000933972,SCWO,374Water Inc.,Nasdaq,,pending
-0001715925,HYFT,MindWalk Holdings Corp.,Nasdaq,,pending
-0001901336,ALCY,Alchemy Investments Acquisition Corp 1,Nasdaq,,pending
-0001785279,MGX,"Metagenomi Therapeutics, Inc.",Nasdaq,,pending
-0001795091,OSTX,OS Therapies Inc,NYSE,,pending
-0001805521,FFAI,FARADAY FUTURE INTELLIGENT ELECTRIC INC.,Nasdaq,,pending
-0000946936,DSWL,DESWELL INDUSTRIES INC,Nasdaq,,pending
-0000008177,AAME,ATLANTIC AMERICAN CORP,Nasdaq,,pending
-0001127537,LUNG,Pulmonx Corp,Nasdaq,,pending
-0001652935,ACTU,"ACTUATE THERAPEUTICS, INC.",Nasdaq,,pending
-0001682241,MATH,Metalpha Technology Holding Ltd,Nasdaq,,pending
-0001132105,SPWH,"SPORTSMAN'S WAREHOUSE HOLDINGS, INC.",Nasdaq,,pending
-0001319183,FMY,FIRST TRUST MORTGAGE INCOME FUND,NYSE,,pending
-0001840877,COCH,"Envoy Medical, Inc.",Nasdaq,,pending
-0002029471,HMR,Heidmar Maritime Holdings Corp.,Nasdaq,,pending
-0001540159,EDSA,"Edesa Biotech, Inc.",Nasdaq,,pending
-0001718500,AXIL,"Axil Brands, Inc.",NYSE,,pending
-0001560258,ECOR,"electroCore, Inc.",Nasdaq,,pending
-0002000775,BKHA,Black Hawk Acquisition Corp,Nasdaq,,pending
-0001171759,RRGB,RED ROBIN GOURMET BURGERS INC,Nasdaq,,pending
-0002032341,CYAB,"CYABRA, INC.",Nasdaq,,pending
-0002000230,BRIA,BrilliA Inc,NYSE,,pending
-0001040130,PETS,PETMED EXPRESS INC,Nasdaq,,pending
-0000880984,ACFN,"ACORN ENERGY, INC.",Nasdaq,,pending
-0001888525,UBXG,U-BX Technology Ltd.,Nasdaq,,pending
-0001842556,EONR,EON Resources Inc.,NYSE,,pending
-0001833498,MDAI,"Spectral AI, Inc.",Nasdaq,,pending
-0000828146,LINK,INTERLINK ELECTRONICS INC,Nasdaq,,pending
-0000849145,HGBL,Heritage Global Inc.,Nasdaq,,pending
-0002028201,COLA,Columbus Acquisition Corp/Cayman Islands,Nasdaq,,pending
-0001933021,PLUT,Plutus Financial Group Ltd,Nasdaq,,pending
-0001867834,BRAG,Bragg Gaming Group Inc.,Nasdaq,,pending
-0001676047,NTRB,NutriBand Inc.,Nasdaq,,pending
-0001682220,SACH,Sachem Capital Corp.,NYSE,,pending
-0001769256,XHG,XChange TEC.INC,Nasdaq,,pending
-0001918661,ESHA,ESH Acquisition Corp.,Nasdaq,,pending
-0001805651,MKTW,"MARKETWISE, INC.",Nasdaq,,pending
-0002001794,CIGL,Concorde International Group Ltd.,Nasdaq,,pending
-0000827187,SNBR,Sleep Number Corp,Nasdaq,,pending
-0001881551,STI,Solidion Technology Inc.,Nasdaq,,pending
-0001005101,MGLD,"Marygold Companies, Inc.",NYSE,,pending
-0001087294,CPIX,CUMBERLAND PHARMACEUTICALS INC,Nasdaq,,pending
-0001640043,PXS,Pyxis Tankers Inc.,Nasdaq,,pending
-0000012239,DOMH,Dominari Holdings Inc.,Nasdaq,,pending
-0001779372,BEAT,"HeartBeam, Inc.",Nasdaq,,pending
-0000798528,OMEX,ODYSSEY MARINE EXPLORATION INC,Nasdaq,,pending
-0001138723,ARAY,ACCURAY INC,Nasdaq,,pending
-0001737995,STSS,Sharps Technology Inc.,Nasdaq,,pending
-0001708527,ELUT,ELUTIA INC.,Nasdaq,,pending
-0001120370,BWEN,"BROADWIND, INC.",Nasdaq,,pending
-0001034760,WYY,WIDEPOINT CORP,NYSE,,pending
-0001775734,BENF,Beneficient,Nasdaq,,pending
-0001043961,PRPO,"Precipio, Inc.",Nasdaq,,pending
-0002034520,GIBO,GIBO HOLDINGS Ltd,Nasdaq,,pending
-0001849380,ONMD,OneMedNet Corp,Nasdaq,,pending
-0002067767,OTH,OFF THE HOOK YS INC.,NYSE,,pending
-0001873875,IXHL,Incannex Healthcare Inc.,Nasdaq,,pending
-0000320017,LSTA,"LISATA THERAPEUTICS, INC.",Nasdaq,,pending
-0001903382,BHM,"Bluerock Homes Trust, Inc.",NYSE,,pending
-0001518461,AMPG,"AmpliTech Group, Inc.",Nasdaq,,pending
-0001645666,KZR,"Kezar Life Sciences, Inc.",Nasdaq,,pending
-0001851484,CTOR,"CITIUS ONCOLOGY, INC.",Nasdaq,,pending
-0001820190,SCLX,Scilex Holding Co,Nasdaq,,pending
-0000884269,APT,ALPHA PRO TECH LTD,NYSE,,pending
-0001844417,ESLA,"Estrella Immunopharma, Inc.",Nasdaq,,pending
-0001808220,GOCO,"GoHealth, Inc.",Nasdaq,,pending
-0002051820,MLCI,Mount Logan Capital Inc.,Nasdaq,,pending
-0001962481,BOF,BranchOut Food Inc.,Nasdaq,,pending
-0002046656,HCHL,Happy City Holdings Ltd,Nasdaq,,pending
-0000722572,FKWL,FRANKLIN WIRELESS CORP,Nasdaq,,pending
-0001140215,REED,"REED'S, INC.",NYSE,,pending
-0001866501,WBX,Wallbox N.V.,NYSE,,pending
-0002033515,SORA,AsiaStrategy,Nasdaq,,pending
-0002063863,ELWT,"Elauwit Connection, Inc.",Nasdaq,,pending
-0001978528,QETA,Quetta Acquisition Corp,Nasdaq,,pending
-0001739410,RLYB,Rallybio Corp,Nasdaq,,pending
-0001487197,BRFH,BARFRESH FOOD GROUP INC.,Nasdaq,,pending
-0002027360,RCT,RedCloud Holdings plc,Nasdaq,,pending
-0001904286,MIRA,"MIRA PHARMACEUTICALS, INC.",Nasdaq,,pending
-0001971532,TELO,"Telomir Pharmaceuticals, Inc.",Nasdaq,,pending
-0001487918,OFS,OFS Capital Corp,Nasdaq,,pending
-0001471727,SRXH,"SRx Health Solutions, Inc.",NYSE,,pending
-0002031009,SKBL,Skyline Builders Group Holding Ltd,Nasdaq,,pending
-0001085243,VTSI,"VirTra, Inc",Nasdaq,,pending
-0001725332,ALAR,Alarum Technologies Ltd.,Nasdaq,,pending
-0002000756,KWM,K Wave Media Ltd.,Nasdaq,,pending
-0001737339,JG,Aurora Mobile Ltd,Nasdaq,,pending
-0001750593,DUO,Fangdd Network Group Ltd.,Nasdaq,,pending
-0001499780,GLBS,GLOBUS MARITIME LTD,Nasdaq,,pending
-0000876717,FCO,"ABRDN GLOBAL INCOME FUND, INC.",NYSE,,pending
-0001952853,MAMO,Massimo Group,Nasdaq,,pending
-0001857030,INCR,Intercure Ltd.,Nasdaq,,pending
-0001095981,PSTV,"PLUS THERAPEUTICS, INC.",Nasdaq,,pending
-0001799448,ALGS,"Aligos Therapeutics, Inc.",Nasdaq,,pending
-0001800637,RYM,"RYTHM, Inc.",Nasdaq,,pending
-0001045742,LIVE,LIVE VENTURES Inc,Nasdaq,,pending
-0001383395,SQNS,SEQUANS COMMUNICATIONS,NYSE,,pending
-0001488039,ATOS,"ATOSSA THERAPEUTICS, INC.",Nasdaq,,pending
-0001619544,JFU,9F Inc.,Nasdaq,,pending
-0000911147,CNTY,CENTURY CASINOS INC /CO/,Nasdaq,,pending
-0001262104,LITS,"Lite Strategy, Inc.",Nasdaq,,pending
-0001724009,PRT,PermRock Royalty Trust,NYSE,,pending
-0002019435,BGL,Blue Gold Ltd,Nasdaq,,pending
-0001975641,ZYBT,Zhengye Biotechnology Holding Ltd,Nasdaq,,pending
-0001389545,NBY,"NovaBay Pharmaceuticals, Inc.",NYSE,,pending
-0001835385,MBBC,"Marathon Bancorp, Inc. /MD/",Nasdaq,,pending
-0001780731,EPOW,E-Power Inc.,Nasdaq,,pending
-0001982960,KNRX,KNOREX LTD.,NYSE,,pending
-0000061004,LGL,LGL GROUP INC,NYSE,,pending
-0001333493,EHTH,"eHealth, Inc.",Nasdaq,,pending
-0000850027,GRF,"EAGLE CAPITAL GROWTH FUND, INC.",NYSE,,pending
-0000716634,RDI,READING INTERNATIONAL INC,Nasdaq,,pending
-0001855467,MOBX,"MOBIX LABS, INC",Nasdaq,,pending
-0001979484,ABVE,Above Food Ingredients Inc.,Nasdaq,,pending
-0001571934,TAOX,TAO Synergies Inc.,Nasdaq,,pending
-0001039280,NTWK,NETSOL TECHNOLOGIES INC,Nasdaq,,pending
-0002039273,JAGU,Jaguar Uranium Corp.,NYSE,,pending
-0001800392,MLGO,MicroAlgo Inc.,Nasdaq,,pending
-0000846913,FTEK,"FUEL TECH, INC.",Nasdaq,,pending
-0000008504,UAVS,AgEagle Aerial Systems Inc.,NYSE,,pending
-0002018145,RDAC,Rising Dragon Acquisition Corp.,Nasdaq,,pending
-0001785530,HOWL,"Werewolf Therapeutics, Inc.",Nasdaq,,pending
-0001944885,APLM,Apollomics Inc.,Nasdaq,,pending
-0002049187,KMRK,K-TECH SOLUTIONS CO LTD,Nasdaq,,pending
-0001210708,STRR,"Star Equity Holdings, Inc.",Nasdaq,,pending
-0001604464,ATRA,"Atara Biotherapeutics, Inc.",Nasdaq,,pending
-0001993097,MASK,3 E Network Technology Group Ltd,Nasdaq,,pending
-0001175151,CTSO,Cytosorbents Corp,Nasdaq,,pending
-0001409375,OESX,"ORION ENERGY SYSTEMS, INC.",Nasdaq,,pending
-0001500198,NMTC,NEUROONE MEDICAL TECHNOLOGIES Corp,Nasdaq,,pending
-0001667313,ZDGE,"Zedge, Inc.",NYSE,,pending
-0001519472,SMXT,"SolarMax Technology, Inc.",Nasdaq,,pending
-0001696558,JRSH,"Jerash Holdings (US), Inc.",Nasdaq,,pending
-0001988776,MRNO,Murano Global Investments Plc,Nasdaq,,pending
-0001968043,NCEW,New Century Logistics (BVI) Ltd,Nasdaq,,pending
-0001801661,SKLZ,Skillz Inc.,NYSE,,pending
-0001270436,COHN,Cohen & Co Inc.,NYSE,,pending
-0001523836,LITB,"LightInTheBox Holding Co., Ltd.",NYSE,,pending
-0001178253,SCYX,SCYNEXIS INC,Nasdaq,,pending
-0001674440,YYAI,AIRWA INC.,Nasdaq,,pending
-0001549084,EKSO,"EKSO BIONICS HOLDINGS, INC.",Nasdaq,,pending
-0001291855,SPCB,SuperCom Ltd,Nasdaq,,pending
-0000788611,NTRP,"NextTrip, Inc.",Nasdaq,,pending
-0000718332,RAVE,"RAVE RESTAURANT GROUP, INC.",Nasdaq,,pending
-0001951229,RITR,Reitar Logtech Holdings Ltd,Nasdaq,,pending
-0001907223,GRML,Greenland Mines Ltd,Nasdaq,,pending
-0001661059,NXTC,"NextCure, Inc.",Nasdaq,,pending
-0000081955,RAND,RAND CAPITAL CORP,Nasdaq,,pending
-0001987189,SLGB,Smart Logistics Global Ltd,Nasdaq,,pending
-0001053691,CRVO,CervoMed Inc.,Nasdaq,,pending
-0001971828,ENGS,Energys Group Ltd,Nasdaq,,pending
-0001356093,CREX,"CREATIVE REALITIES, INC.",Nasdaq,,pending
-0001449792,PPSI,"PIONEER POWER SOLUTIONS, INC.",Nasdaq,,pending
-0001591890,FGNX,FG Nexus Inc.,Nasdaq,,pending
-0000803578,AIFF,"FIREFLY NEUROSCIENCE, INC.",Nasdaq,,pending
-0001780201,LVLU,"Lulu's Fashion Lounge Holdings, Inc.",Nasdaq,,pending
-0001752828,CELU,Celularity Inc,Nasdaq,,pending
-0001843656,RMCO,Royalty Management Holding Corp,Nasdaq,,pending
-0001947210,ROLR,"High Roller Technologies, Inc.",NYSE,,pending
-0001829802,SNSE,"Sensei Biotherapeutics, Inc.",Nasdaq,,pending
-0001504379,CSTE,Caesarstone Ltd.,Nasdaq,,pending
-0000723603,CULP,CULP INC,Nasdaq,,pending
-0001507957,IPWR,Ideal Power Inc.,Nasdaq,,pending
-0002030834,ONEG,OneConstruction Group Ltd,Nasdaq,,pending
-0001873454,RYET,Ruanyun Edai Technology Inc.,Nasdaq,,pending
-0000766792,CVV,CVD EQUIPMENT CORP,Nasdaq,,pending
-0001774675,SKIL,Skillsoft Corp.,NYSE,,pending
-0001427925,TLPH,"TALPHERA, INC.",Nasdaq,,pending
-0001819438,GWH,"ESS Tech, Inc.",NYSE,,pending
-0001041024,RMTI,"ROCKWELL MEDICAL, INC.",Nasdaq,,pending
-0002033383,FUSE,Fusemachines Inc.,Nasdaq,,pending
-0000056701,KOSS,KOSS CORP,Nasdaq,,pending
-0001953984,BCG,"Binah Capital Group, Inc.",Nasdaq,,pending
-0001297341,KFFB,Kentucky First Federal Bancorp,Nasdaq,,pending
-0001785424,KPLT,"Katapult Holdings, Inc.",Nasdaq,,pending
-0001665300,PHUN,"Phunware, Inc.",Nasdaq,,pending
-0000863894,VERU,VERU INC.,Nasdaq,,pending
-0001846839,STKE,SOL Strategies Inc.,Nasdaq,,pending
-0001949257,RADX,Radiopharm Theranostics Ltd,Nasdaq,,pending
-0001017303,TACT,TRANSACT TECHNOLOGIES INC,Nasdaq,,pending
-0001065078,NTIP,"NETWORK-1 TECHNOLOGIES, INC.",NYSE,,pending
-0002010959,AHMA,AMBITIONS ENTERPRISE MANAGEMENT CO. L.L.C,Nasdaq,,pending
-0001355848,TOON,"Kartoon Studios, Inc.",NYSE,,pending
-0001805833,SST,"System1, Inc.",NYSE,,pending
-0001993463,YSXT,"YSX Tech Co., Ltd",Nasdaq,,pending
-0001846715,WAVE,Eco Wave Power Global AB (publ),Nasdaq,,pending
-0000722313,NSYS,NORTECH SYSTEMS INC,Nasdaq,,pending
-0001420565,RNTX,"Rein Therapeutics, Inc.",Nasdaq,,pending
-0001928340,GDHG,GOLDEN HEAVEN GROUP HOLDINGS LTD.,Nasdaq,,pending
-0001350102,ASTI,"Ascent Solar Technologies, Inc.",Nasdaq,,pending
-0000843006,ACCS,ACCESS Newswire Inc.,NYSE,,pending
-0000754811,GROW,U S GLOBAL INVESTORS INC,Nasdaq,,pending
-0001932737,AIIO,ROBO.AI INC.,Nasdaq,,pending
-0001158780,PLUR,Pluri Inc.,Nasdaq,,pending
-0001081745,INLX,"INTELLINETICS, INC.",NYSE,,pending
-0001969475,BAYA,Bayview Acquisition Corp,Nasdaq,,pending
-0001993400,FATN,Fatpipe Inc/UT,Nasdaq,,pending
-0000867840,POCI,"PRECISION OPTICS CORPORATION, INC.",Nasdaq,,pending
-0001370416,WPRT,WESTPORT FUEL SYSTEMS INC.,Nasdaq,,pending
-0001852973,BRLS,Borealis Foods Inc.,Nasdaq,,pending
-0001388320,ATNM,"Actinium Pharmaceuticals, Inc.",NYSE,,pending
-0001420529,AACG,ATA Creativity Global,Nasdaq,,pending
-0001944902,OMH,Ohmyhome Ltd,Nasdaq,,pending
-0000912061,NHTC,NATURAL HEALTH TRENDS CORP,Nasdaq,,pending
-0001957489,ABLV,Able View Global Inc.,Nasdaq,,pending
-0001040161,PXLW,"PIXELWORKS, INC",Nasdaq,,pending
-0001328792,TPCS,TECHPRECISION CORP,Nasdaq,,pending
-0002009714,TMDE,TMD Energy Ltd,NYSE,,pending
-0001575793,WATT,Energous Corp,Nasdaq,,pending
-0000900391,NTZ,NATUZZI S P A,NYSE,,pending
-0001102993,LPSN,LIVEPERSON INC,Nasdaq,,pending
-0002026353,ATHR,"Aether Holdings, Inc.",Nasdaq,,pending
-0001005516,BOSC,BOS BETTER ONLINE SOLUTIONS LTD,Nasdaq,,pending
-0001088034,USIO,"Usio, Inc.",Nasdaq,,pending
-0000793524,REFR,RESEARCH FRONTIERS INC,Nasdaq,,pending
-0001712178,NAAS,NaaS Technology Inc.,Nasdaq,,pending
-0002016337,PTLE,PTL Ltd,Nasdaq,,pending
-0001720893,BTAI,"BioXcel Therapeutics, Inc.",Nasdaq,,pending
-0001872525,SWAG,"Stran & Company, Inc.",Nasdaq,,pending
-0001196298,NEPH,NEPHROS INC,Nasdaq,,pending
-0002032755,PFAI,Pinnacle Food Group Ltd,Nasdaq,,pending
-0001871983,ANGH,Anghami Inc,Nasdaq,,pending
-0001998056,PC,Premium Catering (Holdings) Ltd,Nasdaq,,pending
-0001934642,MDBH,"MDB Capital Holdings, LLC",Nasdaq,,pending
-0000880406,HERZ,"Herzfeld Credit Income Fund, Inc",Nasdaq,,pending
-0000101295,UG,UNITED GUARDIAN INC,Nasdaq,,pending
-0001963439,TURB,"Turbo Energy, S.A.",Nasdaq,,pending
-0001561921,TELA,"TELA Bio, Inc.",Nasdaq,,pending
-0002029138,SAGT,SAGTEC GLOBAL Ltd,Nasdaq,,pending
-0001859199,AIRE,reAlpha Tech Corp.,Nasdaq,,pending
-0002013807,FOXX,Foxx Development Holdings Inc.,Nasdaq,,pending
-0001711754,INMB,"Inmune Bio, Inc.",Nasdaq,,pending
-0001346830,TVRD,"Tvardi Therapeutics, Inc.",Nasdaq,,pending
-0001825024,OPAD,Offerpad Solutions Inc.,NYSE,,pending
-0001472091,PDSB,PDS Biotechnology Corp,Nasdaq,,pending
-0001966678,ZDAI,"DirectBooking Technology Co., Ltd.",Nasdaq,,pending
-0001877971,POM,POMDOCTOR Ltd,Nasdaq,,pending
-0001788028,JSPR,"Jasper Therapeutics, Inc.",Nasdaq,,pending
-0001898766,TPET,Trio Petroleum Corp,NYSE,,pending
-0001828253,EVAX,Evaxion A/S,Nasdaq,,pending
-0001419951,DTST,Data Storage Corp,Nasdaq,,pending
-0000719733,KTCC,KEY TRONIC CORP,Nasdaq,,pending
-0001760233,GIFT,"GIFTIFY, INC.",Nasdaq,,pending
-0001682639,HYPD,"HYPERION DEFI, INC.",Nasdaq,,pending
-0001872090,YXT,YXT.COM GROUP HOLDING Ltd,Nasdaq,,pending
-0001818274,ARAI,Arrive AI Inc.,Nasdaq,,pending
-0001339005,FEMY,FEMASYS INC,Nasdaq,,pending
-0001462223,NIXX,"Nixxy, Inc.",Nasdaq,,pending
-0001837607,AEON,"AEON Biopharma, Inc.",NYSE,,pending
-0000833021,CIF,MFS INTERMEDIATE HIGH INCOME FUND,NYSE,,pending
-0001983550,TDTH,Trident Digital Tech Holdings Ltd,Nasdaq,,pending
-0000829323,INUV,"Inuvo, Inc.",NYSE,,pending
-0001698530,XCUR,"EXICURE, INC.",Nasdaq,,pending
-0000025895,CRWS,CROWN CRAFTS INC,Nasdaq,,pending
-0001708599,SER,"Serina Therapeutics, Inc.",NYSE,,pending
-0001841209,HOLO,MicroCloud Hologram Inc.,Nasdaq,,pending
-0001848275,TOP,TOP Financial Group Ltd,Nasdaq,,pending
-0001385818,AYTU,"AYTU BIOPHARMA, INC",Nasdaq,,pending
-0001982448,BLIV,BeLive Holdings,Nasdaq,,pending
-0001578348,ICMB,"Investcorp Credit Management BDC, Inc.",Nasdaq,,pending
-0001967822,CGTL,Creative Global Technology Holdings Ltd,Nasdaq,,pending
-0001584371,ICCM,IceCure Medical Ltd.,Nasdaq,,pending
-0000034563,FARM,FARMER BROTHERS CO,Nasdaq,,pending
-0001733868,CNF,CNFinance Holdings Ltd.,NYSE,,pending
-0001610820,BCTX,BriaCell Therapeutics Corp.,Nasdaq,,pending
-0000040570,JOB,GEE Group Inc.,NYSE,,pending
-0001321834,QCLS,"Q/C TECHNOLOGIES, INC.",Nasdaq,,pending
-0001015739,AWRE,AWARE INC /MA/,Nasdaq,,pending
-0002001288,PN,Skycorp Solar Group Ltd,Nasdaq,,pending
-0001847064,PSQH,"PSQ Holdings, Inc.",NYSE,,pending
-0001721484,LGVN,Longeveron Inc.,Nasdaq,,pending
-0002060083,FOFO,"Hang Feng Technology Innovation Co., Ltd.",Nasdaq,,pending
-0001041657,UONE,"URBAN ONE, INC.",Nasdaq,,pending
-0001335105,LIXT,"LIXTE BIOTECHNOLOGY HOLDINGS, INC.",Nasdaq,,pending
-0001963088,ATCH,"AtlasClear Holdings, Inc.",NYSE,,pending
-0001724542,CLPS,CLPS Inc,Nasdaq,,pending
-0000813298,DXLG,"DESTINATION XL GROUP, INC.",Nasdaq,,pending
-0001891944,PMEC,Primech Holdings Ltd,Nasdaq,,pending
-0001369290,MYO,"MYOMO, INC.",NYSE,,pending
-0000862692,CCEL,CRYO CELL INTERNATIONAL INC,NYSE,,pending
-0000921299,KYNB,"KYNTRA BIO, INC.",Nasdaq,,pending
-0000093314,VNRX,VOLITIONRX LTD,NYSE,,pending
-0000725363,CVM,CEL SCI CORP,NYSE,,pending
-0001579157,VNCE,VINCE HOLDING CORP.,Nasdaq,,pending
-0002027160,VNTG,Vantage Corp (Singapore),NYSE,,pending
-0001371782,MVO,MV Oil Trust,NYSE,,pending
-0001966750,ZBAO,Zhibao Technology Inc.,Nasdaq,,pending
-0001653909,BIRD,"Allbirds, Inc.",Nasdaq,,pending
-0000878932,EQS,"EQUUS TOTAL RETURN, INC.",NYSE,,pending
-0001806904,EZGO,EZGO Technologies Ltd.,Nasdaq,,pending
-0001398805,BEEM,Beam Global,Nasdaq,,pending
-0001649739,BAFN,BayFirst Financial Corp.,Nasdaq,,pending
-0002012600,RYOJ,"rYojbaba Co., Ltd.",Nasdaq,,pending
-0001807389,CPOP,"Pop Culture Group Co., Ltd",Nasdaq,,pending
-0002029039,NSRX,Nasus Pharma Ltd,NYSE,,pending
-0002021688,UFG,Uni-Fuels Holdings Ltd,Nasdaq,,pending
-0001173313,ABVC,"ABVC BIOPHARMA, INC.",Nasdaq,,pending
-0002011053,SUUN,POWERBANK Corp,Nasdaq,,pending
-0001769484,BIOX,Bioceres Crop Solutions Corp.,Nasdaq,,pending
-0002027722,GRAN,Grande Group Ltd/HK,Nasdaq,,pending
-0002044327,CFND,C1 Fund Inc.,NYSE,,pending
-0001840317,VEEA,VEEA INC.,Nasdaq,,pending
-0001996192,LSH,Lakeside Holding Ltd,Nasdaq,,pending
-0001326205,IGC,"IGC Pharma, Inc.",NYSE,,pending
-0001796898,MAXN,"Maxeon Solar Technologies, Ltd.",Nasdaq,,pending
-0001948436,JL,J-Long Group Ltd,Nasdaq,,pending
-0001890361,ASPC,ASPAC III Acquisition Corp.,Nasdaq,,pending
-0000351998,DAIO,DATA I/O CORP,Nasdaq,,pending
-0000779544,ARKR,ARK RESTAURANTS CORP,Nasdaq,,pending
-0001442620,RCON,"Recon Technology, Ltd",Nasdaq,,pending
-0001782303,BOLD,"Boundless Bio, Inc.",Nasdaq,,pending
-0001935418,FMST,Foremost Clean Energy Ltd.,Nasdaq,,pending
-0001213809,DYAI,DYADIC INTERNATIONAL INC,Nasdaq,,pending
-0001684688,ATCX,ATLAS CRITICAL MINERALS Corp,Nasdaq,,pending
-0001875091,NRSN,NeuroSense Therapeutics Ltd.,Nasdaq,,pending
-0001709819,FEDU,Four Seasons Education (Cayman) Inc.,NYSE,,pending
-0001425287,WKHS,Workhorse Group Inc.,Nasdaq,,pending
-0000025743,TXMD,"TherapeuticsMD, Inc.",Nasdaq,,pending
-0000899782,NOM,NUVEEN MISSOURI QUALITY MUNICIPAL INCOME FUND,NYSE,,pending
-0001007019,JVA,COFFEE HOLDING CO INC,Nasdaq,,pending
-0002006986,ADGM,"Adagio Medical Holdings, Inc.",Nasdaq,,pending
-0001914805,BANL,CBL International Ltd,Nasdaq,,pending
-0001840780,LOCL,Local Bounti Corporation/DE,NYSE,,pending
-0001442236,QRHC,Quest Resource Holding Corp,Nasdaq,,pending
-0001831979,SDST,Stardust Power Inc.,Nasdaq,,pending
-0001119083,MNDO,MIND CTI LTD,Nasdaq,,pending
-0001940674,SMX,SMX (Security Matters) Public Ltd Co,Nasdaq,,pending
-0001597846,GRNQ,Greenpro Capital Corp.,Nasdaq,,pending
-0002064764,PLSM,Pulsenmore Ltd.,Nasdaq,,pending
-0001117057,PLAG,Planet Green Holdings Corp.,NYSE,,pending
-0001544227,TPST,"Tempest Therapeutics, Inc.",Nasdaq,,pending
-0001787518,DFNS,T3 Defense Inc.,Nasdaq,,pending
-0001649009,CHAI,"Core AI Holdings, Inc.",Nasdaq,,pending
-0001954269,GSIW,Garden Stage Ltd,Nasdaq,,pending
-0001753162,FTHM,Fathom Holdings Inc.,Nasdaq,,pending
-0001714562,GAME,"GameSquare Holdings, Inc.",Nasdaq,,pending
-0001030471,UTSI,UTSTARCOM HOLDINGS CORP.,Nasdaq,,pending
-0001645460,CUE,"Cue Biopharma, Inc.",Nasdaq,,pending
-0001481241,PSHG,Performance Shipping Inc.,Nasdaq,,pending
-0000919567,RCG,"RENN Fund, Inc.",NYSE,,pending
-0000066418,MXC,MEXCO ENERGY CORP,NYSE,,pending
-0000352955,CKX,"CKX LANDS, INC.",NYSE,,pending
-0001411685,VTGN,"Vistagen Therapeutics, Inc.",Nasdaq,,pending
-0002028293,RAIN,"Rain Enhancement Technologies Holdco, Inc.",Nasdaq,,pending
-0001901799,BTM,Bitcoin Depot Inc.,Nasdaq,,pending
-0001602842,ORIO,Orion Digital Corp.,Nasdaq,,pending
-0001899005,BMR,Beamr Imaging Ltd.,Nasdaq,,pending
-0001191070,NEUP,Neuphoria Therapeutics Inc.,Nasdaq,,pending
-0001828185,BRNS,Barinthus Biotherapeutics plc.,Nasdaq,,pending
-0001999860,WYHG,Wing Yip Food Holdings Group Ltd,Nasdaq,,pending
-0001509646,FENG,Phoenix New Media Ltd,NYSE,,pending
-0001828972,BZFD,"BuzzFeed, Inc.",Nasdaq,,pending
-0001807887,LASE,Laser Photonics Corp,Nasdaq,,pending
-0001074871,MODD,"Modular Medical, Inc.",Nasdaq,,pending
-0002024258,POAS,Phaos Technology (Cayman) Holdings Ltd,NYSE,,pending
-0001595527,NYC,American Strategic Investment Co.,NYSE,,pending
-0001123494,HBIO,HARVARD BIOSCIENCE INC,Nasdaq,,pending
-0001649989,OTLK,"Outlook Therapeutics, Inc.",Nasdaq,,pending
-0001650696,LSF,"Laird Superfood, Inc.",NYSE,,pending
-0001083743,FLUX,"Flux Power Holdings, Inc.",Nasdaq,,pending
-0001847846,EUDA,EUDA Health Holdings Ltd,Nasdaq,,pending
-0000087050,NEON,Neonode Inc.,Nasdaq,,pending
-0001943444,TRSG,Tungray Technologies Inc,Nasdaq,,pending
-0001743971,MOGU,MOGU Inc.,NYSE,,pending
-0001616262,RMCF,"Rocky Mountain Chocolate Factory, Inc.",Nasdaq,,pending
-0001843165,YHC,LQR House Inc.,Nasdaq,,pending
-0001563568,EVTV,"Envirotech Vehicles, Inc.",Nasdaq,,pending
-0001108205,CRIS,CURIS INC,Nasdaq,,pending
-0002032779,EHLD,Euroholdings Ltd.,Nasdaq,,pending
-0001734750,MOVE,"Corvex, Inc.",Nasdaq,,pending
-0000797542,VBIX,Viewbix Inc.,Nasdaq,,pending
-0001401914,DARE,"Dare Bioscience, Inc.",Nasdaq,,pending
-0001814215,BURU,"Nuburu, Inc.",NYSE,,pending
-0001874097,CYN,Cyngn Inc.,Nasdaq,,pending
-0001847986,DFLI,Dragonfly Energy Holdings Corp.,Nasdaq,,pending
-0001854270,SNTI,"Senti Biosciences, Inc.",Nasdaq,,pending
-0001821175,MSGM,Motorsport Games Inc.,Nasdaq,,pending
-0000855683,MLSS,MILESTONE SCIENTIFIC INC.,NYSE,,pending
-0001770088,WIMI,WiMi Hologram Cloud Inc.,Nasdaq,,pending
-0001787297,PASG,"Passage BIO, Inc.",Nasdaq,,pending
-0001821468,YQ,17 Education & Technology Group Inc.,Nasdaq,,pending
-0001743340,TC,Token Cat Ltd,Nasdaq,,pending
-0001056285,TBHC,"BRAND HOUSE COLLECTIVE, INC.",Nasdaq,,pending
-0000946563,RVP,RETRACTABLE TECHNOLOGIES INC,NYSE,,pending
-0001707303,DOGZ,Dogness (International) Corp,Nasdaq,,pending
-0001991605,YMT,Yimutian Inc.,Nasdaq,,pending
-0001886894,SNAL,"Snail, Inc.",Nasdaq,,pending
-0001355839,IPM,INTELLIGENT PROTECTION MANAGEMENT CORP.,Nasdaq,,pending
-0001802457,ORGN,"Origin Materials, Inc.",Nasdaq,,pending
-0001566044,VYNE,VYNE Therapeutics Inc.,Nasdaq,,pending
-0001379006,NNVC,"NANOVIRICIDES, INC.",NYSE,,pending
-0002002453,STAK,STAK Inc.,Nasdaq,,pending
-0001516551,SKYE,"Skye Bioscience, Inc.",Nasdaq,,pending
-0001819493,XOS,"Xos, Inc.",Nasdaq,,pending
-0000948708,SMSI,"SMITH MICRO SOFTWARE, INC.",Nasdaq,,pending
-0001232582,AHT,ASHFORD HOSPITALITY TRUST INC,NYSE,,pending
-0001817740,AUST,Austin Gold Corp.,NYSE,,pending
-0002038378,ACCL,Acco Group Holdings Ltd,Nasdaq,,pending
-0001912847,USEA,United Maritime Corp,Nasdaq,,pending
-0001307579,LIQT,LIQTECH INTERNATIONAL INC,Nasdaq,,pending
-0001883437,EPSM,Epsium Enterprise Ltd,Nasdaq,,pending
-0002044241,THH,TryHard Holdings Ltd,Nasdaq,,pending
-0001743905,RVSN,Rail Vision Ltd.,Nasdaq,,pending
-0001348362,LEXX,Lexaria Bioscience Corp.,Nasdaq,,pending
-0001417926,IVF,"INVO Fertility, Inc.",Nasdaq,,pending
-0001282224,DLPN,"Dolphin Entertainment, Inc.",Nasdaq,,pending
-0001771885,QNTM,Quantum Biopharma Ltd.,Nasdaq,,pending
-0000909724,TLF,TANDY LEATHER FACTORY INC,Nasdaq,,pending
-0001534154,AUID,authID Inc.,Nasdaq,,pending
-0001712762,BIAF,"bioAffinity Technologies, Inc.",Nasdaq,,pending
-0001139685,AIDX,"20/20 Biolabs, Inc.",Nasdaq,,pending
-0002017758,LHAI,Linkhome Holdings Inc.,Nasdaq,,pending
-0001967478,CAPT,Captivision Inc.,Nasdaq,,pending
-0001505155,UPLD,"Upland Software, Inc.",Nasdaq,,pending
-0002020737,CABR,"Caring Brands, Inc.",Nasdaq,,pending
-0001392694,SURG,"SurgePays, Inc.",Nasdaq,,pending
-0001995116,RECT,Rectitude Holdings Ltd.,Nasdaq,,pending
-0001862463,AMOD,"ALPHA MODUS HOLDINGS, INC.",Nasdaq,,pending
-0001888980,LRE,"LEAD REAL ESTATE CO., LTD",Nasdaq,,pending
-0001863990,MSAI,"MultiSensor AI Holdings, Inc.",Nasdaq,,pending
-0000736012,INTZ,INTRUSION INC,Nasdaq,,pending
-0001860871,TVGN,Tevogen Bio Holdings Inc.,Nasdaq,,pending
-0001938109,PAPL,Pineapple Financial Inc.,NYSE,,pending
-0001321851,SEED,Origin Agritech LTD,Nasdaq,,pending
-0001589061,GYRO,"Gyrodyne, LLC",Nasdaq,,pending
-0001844971,GREE,Greenidge Generation Holdings Inc.,Nasdaq,,pending
-0001969401,LGCB,Linkage Global Inc,Nasdaq,,pending
-0002039060,RBNE,Robin Energy Ltd.,Nasdaq,,pending
-0001546383,JXG,JX Luxventure Group Inc.,Nasdaq,,pending
-0000787253,NAII,NATURAL ALTERNATIVES INTERNATIONAL INC,Nasdaq,,pending
-0001860657,ALLR,"Allarity Therapeutics, Inc.",Nasdaq,,pending
-0001701261,FAMI,"Farmmi, Inc.",Nasdaq,,pending
-0001841330,KTTA,Pasithea Therapeutics Corp.,Nasdaq,,pending
-0001991332,MKDW,MKDWELL Tech Inc.,Nasdaq,,pending
-0001006045,IRIX,IRIDEX CORP,Nasdaq,,pending
-0002040290,LGPS,LOGPROSTYLE INC.,NYSE,,pending
-0001837493,IINN,Inspira Technologies OXY B.H.N. Ltd,Nasdaq,,pending
-0001382574,SCNX,"Scienture Holdings, Inc.",Nasdaq,,pending
-0001094038,MRKR,"Marker Therapeutics, Inc.",Nasdaq,,pending
-0001720161,CTRM,Castor Maritime Inc.,Nasdaq,,pending
-0001756064,OBAI,"Our Bond, Inc.",Nasdaq,,pending
-0001004989,SGRP,"SPAR Group, Inc.",Nasdaq,,pending
-0001472072,CCM,Concord Medical Services Holdings Ltd,NYSE,,pending
-0001843588,REE,REE Automotive Ltd.,Nasdaq,,pending
-0001791725,HUDI,"Huadi International Group Co., Ltd.",Nasdaq,,pending
-0001838716,GNTA,Genenta Science S.p.A.,Nasdaq,,pending
-0001778982,HUIZ,Huize Holding Ltd,Nasdaq,,pending
-0001916241,PRZO,ParaZero Technologies Ltd.,Nasdaq,,pending
-0000045919,HHS,HARTE HANKS INC,Nasdaq,,pending
-0002011458,ZGM,Zenta Group Co Ltd,Nasdaq,,pending
-0001897532,PASW,"Ping An Biomedical Co., Ltd.",Nasdaq,,pending
-0001105101,GIGM,GIGAMEDIA Ltd,Nasdaq,,pending
-0001169034,BHV,BLACKROCK VIRGINIA MUNICIPAL BOND TRUST,NYSE,,pending
-0001912966,RGNT,REGENTIS BIOMATERIALS LTD.,NYSE,,pending
-0001709628,CSAI,"CLOUDASTRUCTURE, INC.",Nasdaq,,pending
-0001959994,COOT,Australian Oilseeds Holdings Ltd,Nasdaq,,pending
-0001654595,MDRR,"Medalist Diversified, Inc.",Nasdaq,,pending
-0001782309,EDTK,Skillful Craftsman Education Technology Ltd,Nasdaq,,pending
-0001853044,AERT,"Aeries Technology, Inc.",Nasdaq,,pending
-0000102109,UUU,"UNIVERSAL SAFETY PRODUCTS, INC.",NYSE,,pending
-0001708441,MYND,"Mynd.ai, Inc.",NYSE,,pending
-0001066764,BESS,Bimergen Energy Corp,NYSE,,pending
-0001506251,CTXR,"Citius Pharmaceuticals, Inc.",Nasdaq,,pending
-0001826660,WETH,Wetouch Technology Inc.,Nasdaq,,pending
-0001355096,QVCGA,"QVC Group, Inc.",Nasdaq,,pending
-0001716338,JF,J & Friends Holdings Ltd,Nasdaq,,pending
-0001735041,GTEC,Greenland Technologies Holding Corp.,Nasdaq,,pending
-0001903995,MGIH,Millennium Group International Holdings Ltd,Nasdaq,,pending
-0001790169,ZSTK,ZeroStack Corp.,Nasdaq,,pending
-0001916416,INTJ,Intelligent Group Ltd,Nasdaq,,pending
-0000908311,CMCT,Creative Media & Community Trust Corp,Nasdaq,,pending
-0001567264,INTS,"INTENSITY THERAPEUTICS, INC.",Nasdaq,,pending
-0001944399,PDC,Perpetuals.com Ltd,Nasdaq,,pending
-0000351789,ELSE,ELECTRO SENSORS INC,Nasdaq,,pending
-0001990950,SELX,Semilux International Ltd.,Nasdaq,,pending
-0001296484,TOPS,TOP SHIPS INC.,NYSE,,pending
-0001781446,GAUZ,Gauzy Ltd.,Nasdaq,,pending
-0002030522,MWYN,"Marwynn Holdings, Inc.",Nasdaq,,pending
-0001427570,HIND,"Vyome Holdings, Inc",Nasdaq,,pending
-0001009891,AIRI,AIR INDUSTRIES GROUP,NYSE,,pending
-0000010048,BRN,BARNWELL INDUSTRIES INC,NYSE,,pending
-0001179821,BGI,BIRKS GROUP INC.,NYSE,,pending
-0001777319,CISO,"CISO Global, Inc.",Nasdaq,,pending
-0001533040,PHIO,Phio Pharmaceuticals Corp.,Nasdaq,,pending
-0001960847,TOPP,Toppoint Holdings Inc.,NYSE,,pending
-0001707910,REBN,"Reborn Coffee, Inc.",Nasdaq,,pending
-0001412486,COCP,"Cocrystal Pharma, Inc.",Nasdaq,,pending
-0001905920,GLXG,Galaxy Payroll Group Ltd,Nasdaq,,pending
-0001668010,DBGI,"Digital Brands Group, Inc.",Nasdaq,,pending
-0001502292,PRHI,"Presurance Holdings, Inc.",Nasdaq,,pending
-0002074123,CCHH,CCH Holdings Ltd,Nasdaq,,pending
-0001826011,BNZI,"Banzai International, Inc.",Nasdaq,,pending
-0001130598,TRAW,"Traws Pharma, Inc.",Nasdaq,,pending
-0001865494,IOBT,"IO Biotech, Inc.",Nasdaq,,pending
-0001740279,INAB,"IN8BIO, INC.",Nasdaq,,pending
-0001875609,SWVL,Swvl Holdings Corp,Nasdaq,,pending
-0002041829,CHOW,ChowChow Cloud International Holdings Ltd,NYSE,,pending
-0001816815,BON,Bon Natural Life Ltd,Nasdaq,,pending
-0002025942,CURX,Curanex Pharmaceuticals Inc,Nasdaq,,pending
-0001562733,SNYR,Synergy CHC Corp.,Nasdaq,,pending
-0001517496,SLAI,SOLAI Ltd,NYSE,,pending
-0001958777,FBLG,"FibroBiologics, Inc.",Nasdaq,,pending
-0001957001,FEBO,Fenbo Holdings Ltd,Nasdaq,,pending
-0001847075,SAIH,SAIHEAT Ltd,Nasdaq,,pending
-0001997296,MDCX,Medicus Pharma Ltd.,Nasdaq,,pending
-0001552670,TAOP,Taoping Inc.,Nasdaq,,pending
-0001706524,UGRO,"urban-gro, Inc.",Nasdaq,,pending
-0001056358,MTEX,MANNATECH INC,Nasdaq,,pending
-0001716166,VVOS,"Vivos Therapeutics, Inc.",Nasdaq,,pending
-0001999297,DSY,Big Tree Cloud Holdings Ltd,Nasdaq,,pending
-0001659617,MBRX,"Moleculin Biotech, Inc.",Nasdaq,,pending
-0000109657,GTBP,"GT Biopharma, Inc.",Nasdaq,,pending
-0001948697,SPPL,SIMPPLE LTD.,Nasdaq,,pending
-0001826892,BCAB,"BioAtla, Inc.",Nasdaq,,pending
-0001058307,NXPL,NextPlat Corp,Nasdaq,,pending
-0001760903,BNKK,"BONK, INC.",Nasdaq,,pending
-0001684425,PETZ,"TDH Holdings, Inc.",Nasdaq,,pending
-0000825324,GTIM,Good Times Restaurants Inc.,Nasdaq,,pending
-0001763950,LTRN,Lantern Pharma Inc.,Nasdaq,,pending
-0001964946,YAAS,Youxin Technology Ltd,Nasdaq,,pending
-0001893645,PLRZ,Polyrizon Ltd.,Nasdaq,,pending
-0000838875,WVVI,WILLAMETTE VALLEY VINEYARDS INC,Nasdaq,,pending
-0001711786,HOTH,"Hoth Therapeutics, Inc.",Nasdaq,,pending
-0002034400,BTTC,Black Titan Corp,Nasdaq,,pending
-0001956166,MSW,Ming Shing Group Holdings Ltd,Nasdaq,,pending
-0000925741,BCDA,"BioCardia, Inc.",Nasdaq,,pending
-0001895618,GXAI,GAXOS.AI INC.,Nasdaq,,pending
-0001964314,JBDI,JBDI Holdings Ltd,Nasdaq,,pending
-0000314227,TOMZ,"TOMI Environmental Solutions, Inc.",Nasdaq,,pending
-0001474167,COSM,Cosmos Health Inc.,Nasdaq,,pending
-0001718939,IDAI,T Stamp Inc,Nasdaq,,pending
-0001873093,GDTC,CytoMed Therapeutics Ltd,Nasdaq,,pending
-0001969863,SUGP,SU Group Holdings Ltd,Nasdaq,,pending
-0001679628,JUNS,"JUPITER NEUROSCIENCES, INC.",Nasdaq,,pending
-0001926293,GCDT,Green Circle Decarbonize Technology Ltd,NYSE,,pending
-0000744825,AMS,AMERICAN SHARED HOSPITAL SERVICES,NYSE,,pending
-0001869467,SVRN,OceanPal Inc.,Nasdaq,,pending
-0001610590,MBAI,Check-Cap Ltd,Nasdaq,,pending
-0001840425,OSRH,"OSR Holdings, Inc.",Nasdaq,,pending
-0001972529,BTOC,Armlogi Holding Corp.,Nasdaq,,pending
-0002013320,ELOG,Eastern International Ltd.,Nasdaq,,pending
-0001804469,GFAI,"Guardforce AI Co., Ltd.",Nasdaq,,pending
-0001962011,KAPA,"Kairos Pharma, LTD.",NYSE,,pending
-0001852440,JZ,Jianzhi Education Technology Group Co Ltd,Nasdaq,,pending
-0001937993,CVKD,"Cadrenal Therapeutics, Inc.",Nasdaq,,pending
-0001329606,CETY,"Clean Energy Technologies, Inc.",Nasdaq,,pending
-0001279704,CLRB,"Cellectar Biosciences, Inc.",Nasdaq,,pending
-0001965143,NVNI,Nvni Group Ltd,Nasdaq,,pending
-0001981519,MMA,MIXED MARTIAL ARTS GROUP LTD,NYSE,,pending
-0001959726,AZI,Autozi Internet Technology (Global) Ltd.,Nasdaq,,pending
-0000062362,MARPS,MARINE PETROLEUM TRUST,Nasdaq,,pending
-0001872964,MTEK,Maris Tech Ltd.,Nasdaq,,pending
-0000812796,SNGX,"SOLIGENIX, INC.",Nasdaq,,pending
-0002009233,AGRZ,Agroz Inc.,Nasdaq,,pending
-0000888721,TRIB,TRINITY BIOTECH PLC,Nasdaq,,pending
-0001498403,BLRX,BioLineRx Ltd.,Nasdaq,,pending
-0002053641,ETS,Elite Express Holding Inc.,Nasdaq,,pending
-0001854445,GGRP,"Glimpse Group, Inc.",Nasdaq,,pending
-0001948443,RAY,Raytech Holding Ltd,Nasdaq,,pending
-0001378590,BLIN,"Bridgeline Digital, Inc.",Nasdaq,,pending
-0000007623,ARTW,ARTS WAY MANUFACTURING CO INC,Nasdaq,,pending
-0001411690,BNGO,"Bionano Genomics, Inc.",Nasdaq,,pending
-0001708341,AGAE,Allied Gaming & Entertainment Inc.,Nasdaq,,pending
-0000924168,EFOI,"ENERGY FOCUS, INC/DE",Nasdaq,,pending
-0000031667,EDUC,EDUCATIONAL DEVELOPMENT CORP,Nasdaq,,pending
-0001621832,AQMS,"Aqua Metals, Inc.",Nasdaq,,pending
-0001799290,EBON,Ebang International Holdings Inc.,Nasdaq,,pending
-0001784970,NXTT,Next Technology Holding Inc.,Nasdaq,,pending
-0002030763,WGRX,"Wellgistics Health, Inc.",Nasdaq,,pending
-0001854572,IZM,ICZOOM Group Inc.,Nasdaq,,pending
-0001736243,ACXP,"Acurx Pharmaceuticals, Inc.",Nasdaq,,pending
-0001534248,CMMB,Chemomab Therapeutics Ltd.,Nasdaq,,pending
-0001948294,NWGL,CL Workshop Group Ltd,Nasdaq,,pending
-0001831868,ICU,SeaStar Medical Holding Corp,Nasdaq,,pending
-0002025218,DLXY,Delixy Holdings Ltd,Nasdaq,,pending
-0001864531,VSEE,"VSEE HEALTH, INC.",Nasdaq,,pending
-0001671502,QNRX,"Quoin Pharmaceuticals, Ltd.",Nasdaq,,pending
-0001781397,EEIQ,EpicQuest Education Group International Ltd,Nasdaq,,pending
-0001796514,BTCT,BTC Digital Ltd.,Nasdaq,,pending
-0001926792,SFHG,SAMFINE CREATION HOLDINGS GROUP Ltd,Nasdaq,,pending
-0001580149,BIVI,BIOVIE INC.,Nasdaq,,pending
-0001897245,HWH,HWH International Inc.,Nasdaq,,pending
-0001783036,NCEL,NewcelX Ltd.,Nasdaq,,pending
-0001803407,OST,"Ostin Technology Group Co., Ltd.",Nasdaq,,pending
-0001061069,AWX,AVALON HOLDINGS CORP,NYSE,,pending
-0002004489,BMGL,Basel Medical Group Ltd,Nasdaq,,pending
-0001096275,WKSP,Worksport Ltd,Nasdaq,,pending
-0001718224,BTBD,"BT Brands, Inc.",Nasdaq,,pending
-0001707919,CENN,Cenntro Inc.,Nasdaq,,pending
-0001333822,LEDS,SemiLEDs Corp,Nasdaq,,pending
-0001527728,LNAI,Lunai Bioworks Inc.,Nasdaq,,pending
-0001104038,VRME,"VerifyMe, Inc.",Nasdaq,,pending
-0001980210,WFF,WF Holding Ltd,Nasdaq,,pending
-0001941158,WETO,Wetour Robotics Ltd,Nasdaq,,pending
-0001023994,OLOX,OLENOX INDUSTRIES INC.,Nasdaq,,pending
-0001969928,TJGC,TJGC GROUP Ltd,Nasdaq,,pending
-0001607962,LFWD,Lifeward Ltd.,Nasdaq,,pending
-0001970544,ITOC,iTonic Holdings Ltd,Nasdaq,,pending
-0000019871,CVR,CHICAGO RIVET & MACHINE CO,NYSE,,pending
-0001631282,DTSS,DATASEA INC.,Nasdaq,,pending
-0001014763,AIMD,"Ainos, Inc.",Nasdaq,,pending
-0001858685,BFRI,Biofrontera Inc.,Nasdaq,,pending
-0001673481,SEGG,Sports Entertainment Gaming Global Corp,Nasdaq,,pending
-0001821806,LESL,"Leslie's, Inc.",Nasdaq,,pending
-0000771999,DSS,"DSS, INC.",NYSE,,pending
-0000313364,MTR,MESA ROYALTY TRUST/TX,NYSE,,pending
-0001742927,RVPH,"REVIVA PHARMACEUTICALS HOLDINGS, INC.",Nasdaq,,pending
-0001861622,JTAI,Jet.AI Inc.,Nasdaq,,pending
-0001908705,GLE,Global Engine Group Holding Ltd,Nasdaq,,pending
-0001269026,SINT,"Sintx Technologies, Inc.",Nasdaq,,pending
-0000082473,IHT,INNSUITES HOSPITALITY TRUST,NYSE,,pending
-0001534133,CALC,"CalciMedica, Inc.",Nasdaq,,pending
-0001026662,CLWT,EURO TECH HOLDINGS CO LTD,Nasdaq,,pending
-0000720154,NOTV,"Inotiv, Inc.",Nasdaq,,pending
-0001141284,ASNS,ACTELIS NETWORKS INC,Nasdaq,,pending
-0000894158,TOVX,"Theriva Biologics, Inc.",NYSE,,pending
-0001713539,KXIN,Kaixin Holdings,Nasdaq,,pending
-0000749647,IMNN,"Imunon, Inc.",Nasdaq,,pending
-0001836242,TKLF,"Tokyo Lifestyle Co., Ltd.",Nasdaq,,pending
-0001083220,XELB,"XCel Brands, Inc.",Nasdaq,,pending
-0001687277,RETO,"ReTo Eco-Solutions, Inc.",Nasdaq,,pending
-0001759614,YJ,Yunji Inc.,Nasdaq,,pending
-0001933951,INEO,INNEOVA Holdings Ltd,Nasdaq,,pending
-0001941500,MWG,Multi Ways Holdings Ltd,NYSE,,pending
-0000890394,PRSO,Peraso Inc.,Nasdaq,,pending
-0001680378,SNES,"SenesTech, Inc.",Nasdaq,,pending
-0001840416,SSM,Sono Group N.V.,Nasdaq,,pending
-0001346610,SOS,SOS Ltd,NYSE,,pending
-0001828098,STKH,Steakholder Foods Ltd.,Nasdaq,,pending
-0001927578,NTCL,NetClass Technology Inc,Nasdaq,,pending
-0001314196,OLB,"OLB GROUP, INC.",Nasdaq,,pending
-0001849221,PMNT,Perfect Moment Ltd.,NYSE,,pending
-0001819704,MRM,Medirom Healthcare Technologies Inc.,Nasdaq,,pending
-0002004024,LHSW,Lianhe Sowell International Group Ltd,Nasdaq,,pending
-0001641281,BOLT,"Bolt Biotherapeutics, Inc.",Nasdaq,,pending
-0001961847,INHD,INNO HOLDINGS INC.,Nasdaq,,pending
-0001807166,AMST,Amesite Inc.,Nasdaq,,pending
-0001911545,GITS,"Global Interactive Technologies, Inc.",Nasdaq,,pending
-0002027262,FTRK,Fast Track Group,Nasdaq,,pending
-0002018462,PCLA,PicoCELA Inc.,Nasdaq,,pending
-0001995704,CUPR,Cuprina Holdings (Cayman) LTD,Nasdaq,,pending
-0000840715,CLRO,CLEARONE INC,Nasdaq,,pending
-0001660046,IMRN,Immuron Ltd,Nasdaq,,pending
-0001815566,IFBD,"Infobird Co., Ltd",Nasdaq,,pending
-0001574232,ADXN,Addex Therapeutics Ltd.,Nasdaq,,pending
-0001938534,FBGL,FBS Global Ltd,Nasdaq,,pending
-0001938186,JYD,Jayud Global Logistics Ltd,Nasdaq,,pending
-0001621221,ARTL,"ARTELO BIOSCIENCES, INC.",Nasdaq,,pending
-0000022701,SUNE,"SUNation Energy, Inc.",Nasdaq,,pending
-0001769768,EJH,E-Home Household Service Holdings Ltd,Nasdaq,,pending
-0000032621,MSN,EMERSON RADIO CORP,NYSE,,pending
-0001624326,PAVM,PAVmed Inc.,Nasdaq,,pending
-0001631487,CLGN,CollPlant Biotechnologies Ltd,Nasdaq,,pending
-0001829635,RNAZ,"Transcode Therapeutics, Inc.",Nasdaq,,pending
-0002024114,TGHL,GrowHub Ltd,Nasdaq,,pending
-0001938046,MGRX,"MANGOCEUTICALS, INC.",Nasdaq,,pending
-0001781983,APRE,"Aprea Therapeutics, Inc.",Nasdaq,,pending
-0001870600,SBDS,"Solo Brands, Inc.",NYSE,,pending
-0001734005,APM,Aptorum Group Ltd,Nasdaq,,pending
-0001920092,GELS,Gelteq Ltd,Nasdaq,,pending
-0001627282,CWD,CaliberCos Inc.,Nasdaq,,pending
-0001819794,HTOO,Fusion Fuel Green PLC,Nasdaq,,pending
-0001560293,TNON,"Tenon Medical, Inc.",Nasdaq,,pending
-0000875355,TULP,"BLOOMIA HOLDINGS, INC.",Nasdaq,,pending
-0001779476,KRKR,36Kr Holdings Inc.,Nasdaq,,pending
-0001990251,WCT,Wellchange Holdings Co Ltd,Nasdaq,,pending
-0001641631,XAIR,"Beyond Air, Inc.",Nasdaq,,pending
-0001157075,PMCB,"PharmaCyte Biotech, Inc.",Nasdaq,,pending
-0001644903,YCBD,"cbdMD, Inc.",NYSE,,pending
-0001875547,LCFY,Locafy Ltd,Nasdaq,,pending
-0001574565,EVGN,Evogene Ltd.,Nasdaq,,pending
-0001527352,NXL,"Nexalin Technology, Inc.",Nasdaq,,pending
-0002007702,HKPD,"Cellyan Biotechnology Co., Ltd",Nasdaq,,pending
-0000885462,GURE,"GULF RESOURCES, INC.",Nasdaq,,pending
-0001971387,LIMN,"Liminatus Pharma, Inc.",Nasdaq,,pending
-0001604191,GRDX,GridAI Technologies Corp.,Nasdaq,,pending
-0001739174,PHGE,BiomX Inc.,NYSE,,pending
-0001864943,FGI,FGI Industries Ltd.,Nasdaq,,pending
-0001187953,CELZ,"CREATIVE MEDICAL TECHNOLOGY HOLDINGS, INC.",Nasdaq,,pending
-0000944075,SCKT,"SOCKET MOBILE, INC.",Nasdaq,,pending
-0001958399,HCAI,"Huachen AI Parking Management Technology Holding Co., Ltd",Nasdaq,,pending
-0001468492,HSCS,HeartSciences Inc.,Nasdaq,,pending
-0001042187,YHGJ,YUNHONG GREEN CTI LTD.,Nasdaq,,pending
-0001982012,TLIH,Ten-League International Holdings Ltd,Nasdaq,,pending
-0001550913,MKZR,"MacKenzie Realty Capital, Inc.",Nasdaq,,pending
-0001820875,CXAI,CXApp Inc.,Nasdaq,,pending
-0001930179,ARBB,ARB IOT Group Ltd,Nasdaq,,pending
-0001095435,ATON,AlphaTON Capital Corp,Nasdaq,,pending
-0002020228,MSGY,Masonglory Ltd,Nasdaq,,pending
-0002024656,FMFC,Kandal M Venture Ltd,Nasdaq,,pending
-0001527702,IQST,iQSTEL Inc,Nasdaq,,pending
-0001976443,SYNX,Silynxcom Ltd.,NYSE,,pending
-0001635077,ACON,"Aclarion, Inc.",Nasdaq,,pending
-0001785566,ZCMD,Zhongchao Inc.,Nasdaq,,pending
-0001648960,MYSE,"Myseum, Inc.",Nasdaq,,pending
-0001661053,NVNO,enVVeno Medical Corp,Nasdaq,,pending
-0001716770,WAFU,Wah Fu Education Group Ltd,Nasdaq,,pending
-0001410428,XWEL,"XWELL, Inc.",Nasdaq,,pending
-0001372514,KPRX,KIORA PHARMACEUTICALS INC,Nasdaq,,pending
-0001934245,NWTG,"Newton Golf Company, Inc.",Nasdaq,,pending
-0002036307,OFAL,OFA Group,Nasdaq,,pending
-0001880343,AMZE,"AMAZE HOLDINGS, INC.",NYSE,,pending
-0001854480,DEVS,DevvStream Corp.,Nasdaq,,pending
-0001536196,CANF,Can-Fite BioPharma Ltd.,NYSE,,pending
-0001584831,OXBR,OXBRIDGE RE HOLDINGS Ltd,Nasdaq,,pending
-0001817511,SOPA,SOCIETY PASS INCORPORATED.,Nasdaq,,pending
-0001671584,APVO,Aptevo Therapeutics Inc.,Nasdaq,,pending
-0001711012,AIHS,Senmiao Technology Ltd,Nasdaq,,pending
-0001107421,TCRT,"Alaunos Therapeutics, Inc.",Nasdaq,,pending
-0001864055,ABTS,Abits Group Inc,Nasdaq,,pending
-0001998560,MIMI,Mint Inc Ltd,Nasdaq,,pending
-0001905956,TGL,TREASURE GLOBAL INC,Nasdaq,,pending
-0001958133,DXST,Decent Holding Inc.,Nasdaq,,pending
-0001829247,BFRG,"BullFrog AI Holdings, Inc.",Nasdaq,,pending
-0001681682,NDRA,ENDRA Life Sciences Inc.,Nasdaq,,pending
-0001505497,BRTX,"BioRestorative Therapies, Inc.",Nasdaq,,pending
-0001781162,MNTS,Momentus Inc.,Nasdaq,,pending
-0001533743,PCSA,"Processa Pharmaceuticals, Inc.",Nasdaq,,pending
-0002058584,DKI,DarkIris Inc.,Nasdaq,,pending
-0001419275,RVYL,RYVYL Inc.,Nasdaq,,pending
-0000923601,RIME,"Algorhythm Holdings, Inc.",Nasdaq,,pending
-0001066923,FTFT,Future FinTech Group Inc.,Nasdaq,,pending
-0001995075,MGN,Megan Holdings Ltd.,Nasdaq,,pending
-0001534525,XBIO,"Xenetic Biosciences, Inc.",Nasdaq,,pending
-0001019034,BKYI,BIO KEY INTERNATIONAL INC,Nasdaq,,pending
-0001490161,SOWG,Sow Good Inc.,Nasdaq,,pending
-0001614744,PPBT,PURPLE BIOTECH LTD.,Nasdaq,,pending
-0001979407,ORKT,ORANGEKLOUD TECHNOLOGY INC.,Nasdaq,,pending
-0001894954,XPON,Expion360 Inc.,Nasdaq,,pending
-0000073290,BMRA,BIOMERICA INC,Nasdaq,,pending
-0001983324,RMSG,Real Messenger Corp,Nasdaq,,pending
-0001541157,AKTX,Akari Therapeutics Plc,Nasdaq,,pending
-0001099160,BBGI,BEASLEY BROADCAST GROUP INC,Nasdaq,,pending
-0001023549,XTLB,XTL BIOPHARMACEUTICALS LTD,Nasdaq,,pending
-0002002236,SPHL,SPRINGVIEW HOLDINGS LTD,Nasdaq,,pending
-0001879754,EHGO,EShallGo Inc.,Nasdaq,,pending
-0002020027,CLIK,Click Holdings Ltd.,Nasdaq,,pending
-0000748592,ERNA,Ernexa Therapeutics Inc.,Nasdaq,,pending
-0001985062,PBM,PSYENCE BIOMEDICAL LTD.,Nasdaq,,pending
-0001557798,CIIT,"Tianci International, Inc.",Nasdaq,,pending
-0001709626,NCNA,NuCana plc,Nasdaq,,pending
-0000793628,CHNR,CHINA NATURAL RESOURCES INC,Nasdaq,,pending
-0001757715,ATER,"Aterian, Inc.",Nasdaq,,pending
-0000885307,JCTC,JEWETT CAMERON TRADING CO LTD,Nasdaq,,pending
-0001701963,VS,Versus Systems Inc.,Nasdaq,,pending
-0001870144,CDIO,"Cardio Diagnostics Holdings, Inc.",Nasdaq,,pending
-0002032545,CJMB,CALLAN JMB INC.,Nasdaq,,pending
-0001808377,LUCY,Innovative Eyewear Inc,Nasdaq,,pending
-0001903595,TBH,"Brag House Holdings, Inc.",Nasdaq,,pending
-0001546296,IPDN,"Professional Diversity Network, Inc.",Nasdaq,,pending
-0001892322,HTCR,"HeartCore Enterprises, Inc.",Nasdaq,,pending
-0002024876,EDHL,Everbright Digital Holding Ltd.,Nasdaq,,pending
-0001755237,CYCN,"Cyclerion Therapeutics, Inc.",Nasdaq,,pending
-0000887151,CAPS,Capstone Holding Corp.,Nasdaq,,pending
-0001494558,AMBO,Ambow Education Holding Ltd.,NYSE,,pending
-0001997637,IOTR,iOThree Ltd,Nasdaq,,pending
-0001941029,ADVB,Advanced Biomed Inc.,Nasdaq,,pending
-0001948864,HCWC,HEALTHY CHOICE WELLNESS CORP.,NYSE,,pending
-0001737523,BGLC,BioNexus Gene Lab Corp,Nasdaq,,pending
-0001875016,YMAT,"J-Star Holding Co., Ltd.",Nasdaq,,pending
-0001874252,QUCY,MAINZ BIOMED N.V.,Nasdaq,,pending
-0001770236,MITQ,MOVING iMAGE TECHNOLOGIES INC.,NYSE,,pending
-0001680048,MBIO,"MUSTANG BIO, INC.",Nasdaq,,pending
-0001932072,LOBO,LOBO TECHNOLOGIES LTD.,Nasdaq,,pending
-0001435064,CETX,CEMTREX INC,Nasdaq,,pending
-0001936817,HXHX,Haoxin Holdings Ltd,Nasdaq,,pending
-0001468929,NXGL,"NEXGEL, INC.",Nasdaq,,pending
-0001805594,JWEL,Jowell Global Ltd.,Nasdaq,,pending
-0001938865,WAI,Top KingWin Ltd,Nasdaq,,pending
-0001905511,JCSE,JE Cleantech Holdings Ltd,Nasdaq,,pending
-0001787803,WNW,Meiwu Technology Co Ltd,Nasdaq,,pending
-0002033770,DAIC,"CID Holdco, Inc.",Nasdaq,,pending
-0001826376,GSUN,Golden Sun Technology Group Ltd.,Nasdaq,,pending
-0001881472,MEGL,Magic Empire Global Ltd,Nasdaq,,pending
-0001725430,INBS,INTELLIGENT BIO SOLUTIONS INC.,Nasdaq,,pending
-0000746210,TWAV,"TaoWeave, Inc.",Nasdaq,,pending
-0002003977,CRE,Cre8 Enterprise Ltd,Nasdaq,,pending
-0001584547,GP,GREENPOWER MOTOR Co INC.,Nasdaq,,pending
-0001810467,SNTG,Sentage Holdings Inc.,Nasdaq,,pending
-0001937737,MLEC,Moolec Science SA,Nasdaq,,pending
-0001402328,SBFM,Sunshine Biopharma Inc.,Nasdaq,,pending
-0001574235,PULM,"Pulmatrix, Inc.",Nasdaq,,pending
-0001591956,ANY,Sphere 3D Corp.,Nasdaq,,pending
-0001178697,SONM,"DNA X, Inc.",Nasdaq,,pending
-0001662774,QNCX,"Quince Therapeutics, Inc.",Nasdaq,,pending
-0001789299,WTO,UTime Ltd,Nasdaq,,pending
-0001413745,YDKG,Yueda Digital Holding,Nasdaq,,pending
-0001514183,SILO,"Silo Pharma, Inc.",Nasdaq,,pending
-0001958713,MI,NFT Ltd,NYSE,,pending
-0002003061,STFS,Star Fashion Culture Holdings Ltd,Nasdaq,,pending
-0001695295,HYFM,"HYDROFARM HOLDINGS GROUP, INC.",Nasdaq,,pending
-0001446159,AGPU,Axe Compute Inc.,Nasdaq,,pending
-0000105744,GBR,"New Concept Energy, Inc.",NYSE,,pending
-0001617867,AMIX,"Autonomix Medical, Inc.",Nasdaq,,pending
-0001991261,SKK,SKK Holdings Ltd,Nasdaq,,pending
-0002041338,TDIC,Dreamland Ltd,Nasdaq,,pending
-0001814963,ILAG,Intelligent Living Application Group Inc.,Nasdaq,,pending
-0001640384,LMFA,"LM FUNDING AMERICA, INC.",Nasdaq,,pending
-0001892292,MSS,Maison Solutions Inc.,Nasdaq,,pending
-0001847345,ASBP,"Aspire Biopharma Holdings, Inc.",Nasdaq,,pending
-0001887673,WLDS,Wearable Devices Ltd.,Nasdaq,,pending
-0000721693,CREG,Smart Powerr Corp.,Nasdaq,,pending
-0001588084,TANH,TANTECH HOLDINGS LTD,Nasdaq,,pending
-0001868419,CYCU,"Cycurion, Inc.",Nasdaq,,pending
-0001637147,ZSPC,"zSpace, Inc.",Nasdaq,,pending
-0001621672,SLE,"Super League Enterprise, Inc.",Nasdaq,,pending
-0001853070,SOAR,"Volato Group, Inc.",NYSE,,pending
-0002030954,XHLD,"TEN Holdings, Inc.",Nasdaq,,pending
-0001497253,VIVS,"VivoSim Labs, INC.",Nasdaq,,pending
-0001810560,REVB,"REVELATION BIOSCIENCES, INC.",Nasdaq,,pending
-0001793895,CDTG,CDT Environmental Technology Investment Holdings Ltd,Nasdaq,,pending
-0001855509,VEEE,"Twin Vee PowerCats, Co.",Nasdaq,,pending
-0001898604,VSTD,Vestand Inc.,Nasdaq,,pending
-0001622345,POLA,"Polar Power, Inc.",Nasdaq,,pending
-0001701478,AZTR,"Azitra, Inc.",NYSE,,pending
-0001964664,ORIS,ORIENTAL RISE HOLDINGS Ltd,Nasdaq,,pending
-0002022416,SLXN,Silexion Therapeutics Corp,Nasdaq,,pending
-0001979610,WXM,WF International Ltd.,Nasdaq,,pending
-0001638287,MTVA,MetaVia Inc.,Nasdaq,,pending
-0001747661,ZNB,Zeta Network Group,Nasdaq,,pending
-0001889823,DFSC,DEFSEC Technologies Inc.,Nasdaq,,pending
-0001825452,ONFO,"Onfolio Holdings, Inc",Nasdaq,,pending
-0001001907,ASTC,ASTROTECH Corp,Nasdaq,,pending
-0001857044,INDP,"Indaptus Therapeutics, Inc.",Nasdaq,,pending
-0001738758,CHR,"Cheer Holding, Inc.",Nasdaq,,pending
-0001677077,ALZN,"Alzamend Neuro, Inc.",Nasdaq,,pending
-0001957413,DCX,Digital Currency X Technology Inc.,Nasdaq,,pending
-0001811216,BAOS,Baosheng Media Group Holdings Ltd,Nasdaq,,pending
-0001585608,JAGX,"Jaguar Health, Inc.",Nasdaq,,pending
-0001853816,DRMA,"Dermata Therapeutics, Inc.",Nasdaq,,pending
-0001553846,RDHL,RedHill Biopharma Ltd.,Nasdaq,,pending
-0001590418,FCUV,FOCUS UNIVERSAL INC.,Nasdaq,,pending
-0001650101,ATXG,ADDENTAX GROUP CORP.,Nasdaq,,pending
-0001692415,CODX,"Co-Diagnostics, Inc.",Nasdaq,,pending
-0001946563,SXTP,"60 DEGREES PHARMACEUTICALS, INC.",Nasdaq,,pending
-0001757499,SHPH,"Shuttle Pharmaceuticals Holdings, Inc.",Nasdaq,,pending
-0001814067,LXEH,Lixiang Education Holding Co. Ltd.,Nasdaq,,pending
-0001367083,SNOA,"Sonoma Pharmaceuticals, Inc.",Nasdaq,,pending
-0001959023,RENX,RenX Enterprises Corp.,Nasdaq,,pending
-0000744452,BNBX,BNB PLUS CORP.,Nasdaq,,pending
-0001582554,MTNB,"Matinas BioPharma Holdings, Inc.",NYSE,,pending
-0001815021,BQ,Boqii Holding Ltd,NYSE,,pending
-0001026785,HIHO,HIGHWAY HOLDINGS LTD,Nasdaq,,pending
-0001603978,AQB,AQUABOUNTY TECHNOLOGIES INC,Nasdaq,,pending
-0001812727,EZRA,"Reliance Global Group, Inc.",Nasdaq,,pending
-0001776067,OCG,Oriental Culture Holding LTD,Nasdaq,,pending
-0001630212,ALBT,Avalon GloboCare Corp.,Nasdaq,,pending
-0001691221,FRSX,Foresight Autonomous Holdings Ltd.,Nasdaq,,pending
-0001975940,FLYE,"Fly-E Group, Inc.",Nasdaq,,pending
-0001986247,BYAH,"Park Ha Biological Technology Co., Ltd.",Nasdaq,,pending
-0000882291,AEMD,AETHLON MEDICAL INC,Nasdaq,,pending
-0001735556,BTOG,BIT ORIGIN Ltd,Nasdaq,,pending
-0001615219,DCOY,Decoy Therapeutics Inc.,Nasdaq,,pending
-0001946703,WBUY,WEBUY GLOBAL LTD,Nasdaq,,pending
-0001837254,MEHA,Functional Brands Inc.,Nasdaq,,pending
-0001789192,NXTS,Nexentis Technologies Inc.,Nasdaq,,pending
-0001595353,GLMD,Galmed Pharmaceuticals Ltd.,Nasdaq,,pending
-0001824293,GRI,"GRI Bio, Inc.",Nasdaq,,pending
-0001930510,VCIG,VCI Global Ltd,Nasdaq,,pending
-0001080657,SQFT,"Presidio Property Trust, Inc.",Nasdaq,,pending
-0001469443,RKDA,"Arcadia Biosciences, Inc.",Nasdaq,,pending
-0001978527,GVH,Globavend Holdings Ltd,Nasdaq,,pending
-0001976695,MNDR,Mobile-health Network Solutions,Nasdaq,,pending
-0001923780,NCL,Northann Corp.,NYSE,,pending
-0000832489,GOVX,"GeoVax Labs, Inc.",Nasdaq,,pending
-0001839285,HCTI,"Healthcare Triangle, Inc.",Nasdaq,,pending
-0001743745,GNLN,"Greenlane Holdings, Inc.",Nasdaq,,pending
-0001713210,ATPC,Agape ATP Corp,Nasdaq,,pending
-0001821424,UK,Ucommune International Ltd,Nasdaq,,pending
-0002022308,KIDZ,"Classover Holdings, Inc.",Nasdaq,,pending
-0001358190,ITP,"IT TECH PACKAGING, INC.",NYSE,,pending
-0001780785,CNEY,CN ENERGY GROUP. INC.,Nasdaq,,pending
-0001849820,KITT,"Nauticus Robotics, Inc.",Nasdaq,,pending
-0001792030,IMCC,IM Cannabis Corp.,Nasdaq,,pending
-0001106644,CPHI,"CHINA PHARMA HOLDINGS, INC.",NYSE,,pending
-0002012096,PMAX,Powell Max Ltd,Nasdaq,,pending
-0001595248,GNPX,"Genprex, Inc.",Nasdaq,,pending
-0001130166,BGMS,"Bio Green Med Solution, Inc.",Nasdaq,,pending
-0002018529,NCT,Intercont (Cayman) Ltd,Nasdaq,,pending
-0000946644,AIM,AIM ImmunoTech Inc.,NYSE,,pending
-0002015691,ELPW,Elong Power Holding Ltd.,Nasdaq,,pending
-0001554818,AUUD,AUDDIA INC.,Nasdaq,,pending
-0001956741,ZONE,"CleanCore Solutions, Inc.",NYSE,,pending
-0002018222,JEM,707 Cayman Holdings Ltd.,Nasdaq,,pending
-0001701756,SDOT,Sadot Group Inc.,Nasdaq,,pending
-0001422892,SGLY,Singularity Future Technology Ltd.,Nasdaq,,pending
-0001788230,IPST,"IP STRATEGY HOLDINGS, INC.",Nasdaq,,pending
-0001687542,FRGT,"Freight Technologies, Inc.",Nasdaq,,pending
-0001589149,GWAV,"Greenwave Technology Solutions, Inc.",Nasdaq,,pending
-0001951294,VSME,VS MEDIA Holdings Ltd,Nasdaq,,pending
-0001756180,NCRA,"NOCERA, INC.",Nasdaq,,pending
-0001781193,QH,QUHUO Ltd,Nasdaq,,pending
-0001414767,NCPL,Netcapital Inc.,Nasdaq,,pending
-0001532619,PW,Power REIT,NYSE,,pending
-0001397183,IVDA,"Iveda Solutions, Inc.",Nasdaq,,pending
-0001995574,ICON,Icon Energy Corp,Nasdaq,,pending
-0001326706,FEED,"ENvue Medical, Inc.",Nasdaq,,pending
-0000890821,ENVB,"Enveric Biosciences, Inc.",Nasdaq,,pending
-0001716621,VTAK,"Catheter Precision, Inc.",NYSE,,pending
-0001855485,CLDI,"Calidi Biotherapeutics, Inc.",NYSE,,pending
-0001785056,TRNR,"Interactive Strength, Inc.",Nasdaq,,pending
-0001086745,SBLX,"StableX Technologies, Inc.",Nasdaq,,pending
-0001854963,SHFS,"SHF Holdings, Inc.",Nasdaq,,pending
-0001506492,NUWE,"Nuwellis, Inc.",Nasdaq,,pending
-0001499494,DXF,Eason Technology Ltd,NYSE,,pending
-0001944712,BIYA,Baiya International Group Inc.,Nasdaq,,pending
-0001787740,TIVC,"Tivic Health Systems, Inc.",Nasdaq,,pending
-0001894525,APUS,"Apimeds Pharmaceuticals US, Inc.",NYSE,,pending
-0001513525,ADIL,"ADIAL PHARMACEUTICALS, INC.",Nasdaq,,pending
-0001174940,OGEN,ORAGENICS INC,NYSE,,pending
-0001828673,HCWB,HCW Biologics Inc.,Nasdaq,,pending
-0001603993,AIOS,AIOS Tech Inc.,Nasdaq,,pending
-0001943421,RUBI,Rubico Inc.,Nasdaq,,pending
-0001376321,CNET,ZW Data Action Technologies Inc.,Nasdaq,,pending
-0001857086,TRUG,"TruGolf Holdings, Inc.",Nasdaq,,pending
-0001218683,MIGI,Mawson Infrastructure Group Inc.,Nasdaq,,pending
-0001817760,SMTK,"SmartKem, Inc.",Nasdaq,,pending
-0001611746,SPRC,SciSparc Ltd.,Nasdaq,,pending
-0001754323,XTKG,"X3 Holdings Co., Ltd.",Nasdaq,,pending
-0002023796,FCHL,Fitness Champs Holdings Ltd,Nasdaq,,pending
-0001951067,CISS,C3is Inc.,Nasdaq,,pending
-0001705402,AGMH,"AGM GROUP HOLDINGS, INC.",Nasdaq,,pending
-0001211805,MYSZ,"My Size, Inc.",Nasdaq,,pending
-0001668438,IMTE,Integrated Media Technology Ltd,Nasdaq,,pending
-0001419554,BBLG,Bone Biologics Corp,Nasdaq,,pending
-0001880613,DRCT,"Direct Digital Holdings, Inc.",Nasdaq,,pending
-0001924482,IBG,Innovation Beverage Group Ltd,Nasdaq,,pending
-0001813783,VMAR,Vision Marine Technologies Inc.,Nasdaq,,pending
-0001704287,BJDX,"Bluejay Diagnostics, Inc.",Nasdaq,,pending
-0001674227,WORX,SCWorx Corp.,Nasdaq,,pending
-0001470683,AEHL,Antelope Enterprise Holdings Ltd,Nasdaq,,pending
-0001716947,ENSC,"Ensysce Biosciences, Inc.",Nasdaq,,pending
-0001611747,SCNI,Scinai Immunotherapeutics Ltd.,Nasdaq,,pending
-0001728328,INM,InMed Pharmaceuticals Inc.,Nasdaq,,pending
-0001976908,JDZG,JIADE Ltd,Nasdaq,,pending
-0001830072,IPW,iPower Inc.,Nasdaq,,pending
-0001935172,AIXI,Xiao-I Corp,Nasdaq,,pending
-0001892500,CMND,Clearmind Medicine Inc.,Nasdaq,,pending
-0001517681,PPCB,"Propanc Biopharma, Inc.",Nasdaq,,pending
-0001801834,PRFX,PRF Technologies Ltd.,Nasdaq,,pending
-0001742341,HKIT,HiTek Global Inc.,Nasdaq,,pending
-0001931717,CCTG,CCSC Technology International Holdings Ltd,Nasdaq,,pending
-0001648087,AREB,AMERICAN REBEL HOLDINGS INC,Nasdaq,,pending
-0001879403,LRHC,La Rosa Holdings Corp.,Nasdaq,,pending
-0001809616,UPC,Universe Pharmaceuticals INC,Nasdaq,,pending
-0001912884,RPGL,Republic Power Group Ltd,Nasdaq,,pending
-0001929783,WOK,WORK Medical Technology Group LTD,Nasdaq,,pending
-0001948099,MTEN,Mingteng International Corp Inc.,Nasdaq,,pending
-0001527541,WHLR,"Wheeler Real Estate Investment Trust, Inc.",Nasdaq,,pending
-0001901215,BNRG,Brenmiller Energy Ltd.,Nasdaq,,pending
-0001885408,JFBR,Jeffs' Brands Ltd,Nasdaq,,pending
-0001825875,RAYA,Erayak Power Solution Group Inc.,Nasdaq,,pending
-0001729427,CNSP,"CNS Pharmaceuticals, Inc.",Nasdaq,,pending
-0001558569,ISPC,iSpecimen Inc.,Nasdaq,,pending
-0001888014,AKAN,AKANDA CORP.,Nasdaq,,pending
-0001985337,YYGH,YY Group Holding Ltd.,Nasdaq,,pending
-0001896212,CDT,CDT Equity Inc.,Nasdaq,,pending
-0001651721,GIPR,"GENERATION INCOME PROPERTIES, INC.",Nasdaq,,pending
-0001782107,ONCO,"Onconetix, Inc.",Nasdaq,,pending
-0001425627,SOBR,"SOBR Safe, Inc.",Nasdaq,,pending
-0001816172,JZXN,"Jiuzi Holdings, Inc.",Nasdaq,,pending
-0001939780,UCAR,U Power Ltd,Nasdaq,,pending
-0001347858,XXII,"22nd Century Group, Inc.",Nasdaq,,pending
-0001885827,VRAX,Virax Biolabs Group Ltd,Nasdaq,,pending
-0001553788,SBEV,"SPLASH BEVERAGE GROUP, INC.",NYSE,,pending
-0001624512,BOXL,Boxlight Corp,Nasdaq,,pending
-0001928581,GMEX,GMEX Robotics Corp,Nasdaq,,pending
-0001836875,NVVE,Nuvve Holding Corp.,Nasdaq,,pending
-0001892274,GV,Visionary Holdings Inc.,Nasdaq,,pending
-0001723980,SXTC,"China SXT Pharmaceuticals, Inc.",Nasdaq,,pending
-0001989930,FGL,Founder Group Ltd,Nasdaq,,pending
-0001981662,NIVF,NewGenIvf Group Ltd,Nasdaq,,pending
-0001506983,GCTK,"Glucotrack, Inc.",Nasdaq,,pending
-0001841675,ARBK,Argo Blockchain Plc,Nasdaq,,pending
-0001840563,ELAB,PMGC Holdings Inc.,Nasdaq,,pending
-0001592560,VSA,VisionSys AI Inc,Nasdaq,,pending
-0001856084,RDGT,Ridgetech Inc.,Nasdaq,,pending
-0001809750,EDBL,Edible Garden AG Inc,Nasdaq,,pending
-0001751876,PAVS,Paranovus Entertainment Technology Ltd.,Nasdaq,,pending
-0001859807,PFSA,"Profusa, Inc.",Nasdaq,,pending
-0001729214,XRTX,XORTX Therapeutics Inc.,Nasdaq,,pending
-0001643918,BDRX,Biodexa Pharmaceuticals Plc,Nasdaq,,pending
-0001726711,ADTX,"Aditxt, Inc.",Nasdaq,,pending
-0001342958,KUST,"KUSTOM ENTERTAINMENT, INC.",Nasdaq,,pending
-0001806524,LGHL,Lion Group Holding Ltd,Nasdaq,,pending
-0001905660,HUBC,Hub Cyber Security Ltd.,Nasdaq,,pending
-0001972074,LNKS,Linkers Industries Ltd,Nasdaq,,pending
-0001896425,LBGJ,Li Bang International Corp Inc.,Nasdaq,,pending
-0000068622,CTBB,QWEST CORP,NYSE,,pending
-0000070502,NRUC,NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORP /DC/,NYSE,,pending
-0000823277,CHSCP,CHS INC,Nasdaq,,pending
-0000894556,CITR,CitroTech Inc.,NYSE,,pending
-0001046179,TSM,TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD,NYSE,,pending
-0001254699,QVCD,QVC INC,NYSE,,pending
-0001267332,IPB,MERRILL LYNCH DEPOSITOR INC INDEXPLUS TRUST SERIES 2003-1,NYSE,,pending
-0001283337,KTN,STRUCTURED PRODUCTS CORP CRED ENHANCE CORTS TR FOR AON CAP A,NYSE,,pending
-0001283464,KTH,STRUCTURED PRODUCTS CORP CORTS TR FOR PECO ENERGY CAP TR III,NYSE,,pending
-0001284143,JBK,LEHMAN ABS CORP GOLDMAN SACHS CAP 1 SEC BACKED SER 2004-6,NYSE,,pending
-0001286405,GJH,STRATS SM TRUST FOR U S CELL CORP SEC SERIES 2004 6,NYSE,,pending
-0001294808,PYT,PPLUS Trust Series GSC-2,NYSE,,pending
-0001340909,GJO,"STRATS SM TRUST FOR WAL-MART STORES, INC. SECURITIES, SERIES 2005-4",NYSE,,pending
-0001343491,GJP,"STRATS(SM) TRUST FOR DOMINION RESOURCES, INC. SECURITIES, SERIES 2005-6",NYSE,,pending
-0001348952,ELC,"ENTERGY LOUISIANA, LLC",NYSE,,pending
-0001353226,GJR,"STRATS(SM) Trust for Procter & Gamble Securities, Series 2006-1",NYSE,,pending
-0001353611,FXB,Invesco CurrencyShares British Pound Sterling Trust,NYSE,,pending
-0001353612,FXC,Invesco CurrencyShares Canadian Dollar Trust,NYSE,,pending
-0001353614,FXA,Invesco CurrencyShares Australian Dollar Trust,NYSE,,pending
-0001353615,FXF,Invesco CurrencyShares Swiss Franc Trust,NYSE,,pending
-0001356284,GJS,"STRATS(SM) Trust for Goldman Sachs Group Securities, Series 2006-2",NYSE,,pending
-0001357660,GJT,"STRATS(SM) Trust for Allstate Corp Securities, Series 2006-3",NYSE,,pending
-0001383149,UDN,INVESCO DB US DOLLAR INDEX BEARISH FUND,NYSE,,pending
-0001383151,UUP,Invesco DB US Dollar Index Bullish Fund,NYSE,,pending
-0001396878,UGA,"United States Gasoline Fund, LP",NYSE,,pending
-0001403528,OAK-PA,"Brookfield Oaktree Holdings, LLC",NYSE,,pending
-0001405513,UNL,"United States 12 Month Natural Gas Fund, LP",NYSE,,pending
-0001405528,USL,"United States 12 Month Oil Fund, LP",NYSE,,pending
-0001427437,ETI-P,"ENTERGY TEXAS, INC.",NYSE,,pending
-0001450922,SIVR,abrdn Silver ETF Trust,NYSE,,pending
-0001450923,SGOL,abrdn Gold ETF Trust,NYSE,,pending
-0001459862,PALL,abrdn Palladium ETF Trust,NYSE,,pending
-0001460235,PPLT,abrdn Platinum ETF Trust,NYSE,,pending
-0001460702,AIXC,"AIxCrypto Holdings, Inc.",Nasdaq,,pending
-0001464343,ATLCP,Atlanticus Holdings Corp,Nasdaq,,pending
-0001472494,BNO,"United States Brent Oil Fund, LP",NYSE,,pending
-0001479247,USCI,United States Commodity Index Funds Trust,NYSE,,pending
-0001483386,GLTR,abrdn Precious Metals Basket ETF Trust,NYSE,,pending
-0001546652,OUNZ,VanEck Merk Gold ETF,NYSE,,pending
-0001551047,BPRE,Bluerock Private Real Estate Fund,NYSE,,pending
-0001561032,NHPAP,"National Healthcare Properties, Inc.",Nasdaq,,pending
-0001577134,TFSA,"Terra Income Fund 6, LLC",NYSE,,pending
-0001610940,BDRY,Amplify Commodity Trust,NYSE,,pending
-0001618181,GLDM,World Gold Trust,NYSE,,pending
-0001674356,TPTA,"Terra Property Trust, Inc.",NYSE,,pending
-0001681348,VIVO,VivoPower PLC,Nasdaq,,pending
-0001690012,ICR-PA,"InPoint Commercial Real Estate Income, Inc.",NYSE,,pending
-0001690437,BAR,GraniteShares Gold Trust,NYSE,,pending
-0001690842,PLTM,GraniteShares Platinum Trust,NYSE,,pending
-0001702780,OPTU,"Optimum Communications, Inc.",NYSE,,pending
-0001723788,BITW,Bitwise 10 Crypto Index ETF,NYSE,,pending
-0001725210,ETHE,Grayscale Ethereum Staking ETF,NYSE,,pending
-0001759124,IAUM,iShares Gold Trust Micro,NYSE,,pending
-0001763415,BITB,Bitwise Bitcoin ETF,NYSE,,pending
-0001767057,OBTC,Osprey Bitcoin Trust,Nasdaq,,pending
-0001784930,MAKO,Mako Mining Corp.,Nasdaq,,pending
-0001841175,BRRR,CoinShares Bitcoin ETF,Nasdaq,,pending
-0001841644,PICS,PicS N.V.,Nasdaq,,pending
-0001852025,GLNK,Grayscale Chainlink Trust ETF,NYSE,,pending
-0001858258,FGDL,Franklin Templeton Holdings Trust,NYSE,,pending
-0001867090,VCX,"Fundrise Innovation Fund, LLC",NYSE,,pending
-0001896036,EIIA,Eagle Point Institutional Income Fund,NYSE,,pending
-0001896677,GSOL,Grayscale Solana Staking ETF,NYSE,,pending
-0001958928,CTWO,COTWO ADVISORS PHYSICAL EUROPEAN CARBON ALLOWANCE TRUST,NYSE,,pending
-0001980994,IBIT,iShares Bitcoin Trust ETF,Nasdaq,,pending
-0001985840,DEFI,Hashdex Commodities Trust,NYSE,,pending
-0002000638,ETHA,iShares Ethereum Trust ETF,Nasdaq,,pending
-0002013744,ETHW,Bitwise Ethereum ETF,NYSE,,pending
-0002015034,BTC,Grayscale Bitcoin Mini Trust ETF,NYSE,,pending
-0002020455,ETH,Grayscale Ethereum Staking Mini ETF,NYSE,,pending
-0002028707,MRLN,"Merlin, Inc.",Nasdaq,,pending
-0002031069,NCIQ,Hashdex Nasdaq CME Crypto Index ETF,Nasdaq,,pending
-0002034012,GSUI,Grayscale Sui Staking ETF,NYSE,,pending
-0002035053,GAVA,Grayscale Avalanche Staking ETF,Nasdaq,,pending
-0002037427,GXRP,Grayscale XRP Trust ETF,NYSE,,pending
-0002039525,XRP,Bitwise XRP ETF,NYSE,,pending
-0002041869,SOLC,Canary Marinade Solana ETF,Nasdaq,,pending
-0002045872,BSOL,Bitwise Solana Staking ETF,NYSE,,pending
-0002053791,BWOW,Bitwise Dogecoin ETF,NYSE,,pending
-0002055510,GDOG,Grayscale Dogecoin Trust ETF,NYSE,,pending
-0002057388,SOEZ,Franklin Solana Trust,NYSE,,pending
-0002059438,XRPZ,Franklin XRP Trust,NYSE,,pending
-0002060703,SUIS,Canary Staked SUI ETF,Nasdaq,,pending
-0002060717,VAVX,VanEck Avalanche ETF,Nasdaq,,pending
-0002061626,TSUI,21Shares Sui ETF,Nasdaq,,pending
-0002063380,FSOL,Fidelity Solana Fund,NYSE,,pending
-0002064314,TDOG,21Shares Dogecoin ETF,Nasdaq,,pending
-0002065812,FSSL,FS Specialty Lending Fund,NYSE,,pending
-0002070542,AIB,"BlockchAIn Digital Infrastructure, Inc.",NYSE,,pending
-0002075320,PLYX,"Polaryx Therapeutics, Inc.",Nasdaq,,pending
-0002076427,LATA,Galata Acquisition Corp. II,Nasdaq,,pending
-0002078653,RNGT,Range Capital Acquisition Corp II,Nasdaq,,pending
-0002082889,CLNK,Bitwise Chainlink ETF,NYSE,,pending
-0002083910,ARCI,Archimedes Tech SPAC Partners III Co.,Nasdaq,,pending
-0002085091,RVI,Robinhood Ventures Fund I,NYSE,,pending
-0002087450,LEGO,Legato Merger Corp. IV,NYSE,,pending
-0002088103,XFLH,XFLH Capital Corp,NYSE,,pending
-0002091024,CLBR,Colombier Acquisition Corp. III,NYSE,,pending
-0002097163,XNDU,Xanadu Quantum Technologies Ltd,Nasdaq,,pending
-0002098242,SVIV,Spring Valley Acquisition Corp. IV,Nasdaq,,pending
-0002099103,ETHB,iShares Staked Ethereum Trust ETF,Nasdaq,,pending
-0002100125,CAQ,Cambridge Acquisition Corp.,Nasdaq,,pending
-0002100805,JAN,"Janus Living, Inc.",NYSE,,pending
-0002102713,KCAC-UN,Kensington Capital Acquisition Corp. VI,NYSE,,pending
-0000030554,CTA-PB,"EIDP, Inc.",NYSE,,pending
-0000797468,OXY,OCCIDENTAL PETROLEUM CORP /DE/,NYSE,,pending
-0001124140,EXAS,EXACT SCIENCES CORP,Nasdaq,,pending
-0001527469,ATH-PA,Athene Holding Ltd.,NYSE,,pending
-0000800166,NGD,New Gold Inc. /FI,NYSE,,pending
-0000039899,TGNA,TEGNA INC,NYSE,,pending
-0001660734,TRTN-PA,Triton International Ltd,NYSE,,pending
-0001267395,AHL-PE,ASPEN INSURANCE HOLDINGS LTD,NYSE,,pending
-0001412100,MHLA,"Maiden Holdings, Ltd.",NYSE,,pending
-0001598655,GLOP-PB,GasLog Partners LP,NYSE,,pending
-0001542028,DVS,DOLLY VARDEN SILVER CORP,NYSE,,pending
-0000761648,CDR-PC,"CEDAR REALTY TRUST, INC.",NYSE,,pending
-0001301236,SOHOO,Sotherly Hotels Inc.,Nasdaq,,pending
-0002037431,PELI,Pelican Acquisition Corp,Nasdaq,,pending
-0001945422,OAKU,Oak Woods Acquisition Corp,Nasdaq,,pending
-0000911216,PTN,PALATIN TECHNOLOGIES INC,NYSE,,pending
-0001934945,TBMC,Trailblazer Merger Corp I,Nasdaq,,pending
-0001376986,TVE,Tennessee Valley Authority,NYSE,,pending
-0001738177,CMBM,Cambium Networks Corp,Nasdaq,,pending
-0001659323,ITRM,Iterum Therapeutics plc,Nasdaq,,pending
-0001949478,DTCK,DAVIS COMMODITIES Ltd,Nasdaq,,pending
-0000092103,SCE-PG,SOUTHERN CALIFORNIA EDISON Co,NYSE,,pending
-0000099070,TCPA,TRANSCANADA PIPELINES LTD,NYSE,,pending
-0000312070,DJP,BARCLAYS BANK PLC,NYSE,,pending
-0001039828,ANG-PD,American National Group Inc.,NYSE,,pending
-0001053092,GLDI,CREDIT SUISSE AG,Nasdaq,,pending
-0001114446,AMUB,UBS AG,NYSE,,pending
-0001308106,SEAL-PA,Seapeak LLC,NYSE,,pending
-0001415311,AGQ,ProShares Trust II,NYSE,,pending
-0001471824,CANE,Teucrium Commodity Trust,NYSE,,pending
-0001554625,PRIF-PD,"Priority Income Fund, Inc.",NYSE,,pending
-0001606268,VIASP,"Via Renewables, Inc.",Nasdaq,,pending
-0001818643,PHXE-P,"Phoenix Energy One, LLC",NYSE,,pending
-0002054174,CHACR,Crane Harbor Acquisition Corp.,Nasdaq,,pending
-0002078008,VGNT-WI,Versigent Ltd,NYSE,,pending
-0002082847,BWIV-UN,Blue Water Acquisition Corp. IV,NYSE,,pending
-0002083217,QADRU,QDRO Acquisition Corp.,Nasdaq,,pending
-0002083946,WLIIU,Willow Lane Acquisition Corp. II,Nasdaq,,pending
-0002085485,TRAD-UN,APEX Tech Acquisition Inc.,NYSE,,pending
-0002087446,PAACU,Proem Acquisition Corp. I,Nasdaq,,pending
-0002089982,HACQU,HCM IV Acquisition Corp.,Nasdaq,,pending
-0002091176,IACOU,Idea Acquisition Corp.,Nasdaq,,pending
-0002091484,GLED-UN,GalaxyEdge Acquisition Corp,NYSE,,pending
-0002094073,CTAAU,Clearthink 1 Acquisition Corp.,Nasdaq,,pending
-0002096900,ACAAU,Averin Capital Acquisition Corp.,Nasdaq,,pending
-0002097288,BHAVU,BHAV Acquisition Corp,Nasdaq,,pending
-0002097364,TMTSU,Spartacus Acquisition Corp. II,Nasdaq,,pending
-0002097376,MZYX-UN,MOZAYYX Acquisition Corp.,NYSE,,pending
-0002098780,TRGSU,TRG Latin America Acquisitions Corp.,Nasdaq,,pending
-0002099232,FMACU,Future Money Acquisition Corp,Nasdaq,,pending
-0002099906,AACOU,Abony Acquisition Corp. I,Nasdaq,,pending
-0002101135,ILLUU,Illumination Acquisition Corp. I,Nasdaq,,pending
-0002101562,PALOU,PALOMA ACQUISITION CORP I,Nasdaq,,pending
-0002102041,IPFXU,Inflection Point Acquisition Corp. VI,Nasdaq,,pending
-0002105838,SUMAU,SUMA Acquisition Corp,Nasdaq,,pending
-0002107724,MTAL-UN,Metals Acquisition Corp. II,NYSE,,pending
-0002108164,PONOU,"Pono Capital Four, Inc.",Nasdaq,,pending
+0001759186,COEP,"Coeptis Therapeutics Holdings, Inc.",Nasdaq,2026-04-06 09:33:19,done
+0001954594,HAO,Haoxi Health Technology Ltd,Nasdaq,2026-04-06 08:59:06,done
+0001818844,DWTX,"Dogwood Therapeutics, Inc.",Nasdaq,2026-04-06 08:59:06,done
+0001708688,IFRX,InflaRx N.V.,Nasdaq,2026-04-06 08:59:07,done
+0001765850,AURE,Aurelion Inc.,Nasdaq,2026-04-06 08:59:08,done
+0001504678,LOOP,"Loop Industries, Inc.",Nasdaq,2026-04-06 08:59:09,done
+0001755058,ZBAI,ATIF Holdings Ltd,Nasdaq,2026-04-06 08:59:10,done
+0001993727,SNT,Senstar Technologies Corp,Nasdaq,2026-04-06 08:59:10,done
+0000814676,CPSH,CPS TECHNOLOGIES CORP/DE/,Nasdaq,2026-04-06 08:59:11,done
+0000847411,CXH,MFS INVESTMENT GRADE MUNICIPAL TRUST,NYSE,2026-04-06 08:59:12,done
+0001272842,AIRG,AIRGAIN INC,Nasdaq,2026-04-06 08:59:12,done
+0000864240,SYPR,SYPRIS SOLUTIONS INC,Nasdaq,2026-04-06 08:59:14,done
+0002030277,LFS,"LEIFRAS Co., Ltd.",Nasdaq,2026-04-06 08:59:14,done
+0001484612,OM,"Outset Medical, Inc.",Nasdaq,2026-04-06 08:59:15,done
+0001534708,BLNE,"Beeline Holdings, Inc.",Nasdaq,2026-04-06 08:59:16,done
+0001713863,RFL,"Rafael Holdings, Inc.",NYSE,2026-04-06 08:59:17,done
+0001677940,BYSI,BeyondSpring Inc.,Nasdaq,2026-04-06 08:59:18,done
+0000791718,EEA,"EUROPEAN EQUITY FUND, INC / MD",NYSE,2026-04-06 08:59:18,done
+0001455365,CGTX,COGNITION THERAPEUTICS INC,Nasdaq,2026-04-06 08:59:19,done
+0001889123,FLD,"Fold Holdings, Inc.",Nasdaq,2026-04-06 10:41:13,done
+0001494891,SRTS,"Sensus Healthcare, Inc.",Nasdaq,2026-04-06 08:59:21,done
+0000846671,VLT,Invesco High Income Trust II,NYSE,2026-04-06 08:59:21,done
+0001274737,XGN,EXAGEN INC.,Nasdaq,2026-04-06 08:59:22,done
+0000806172,SOTK,SONO TEK CORP,Nasdaq,2026-04-06 08:59:23,done
+0001883814,SLND,"Southland Holdings, Inc.",NYSE,2026-04-06 10:41:08,done
+0001877333,THCH,TH International Ltd,Nasdaq,2026-04-06 08:59:24,done
+0001738699,WKEY,Wisekey International Holding S.A.,Nasdaq,2026-04-06 08:59:25,done
+0001604868,GRWG,GrowGeneration Corp.,Nasdaq,2026-04-06 08:59:26,done
+0001965473,CCG,Cheche Group Inc.,Nasdaq,2026-04-06 10:44:06,done
+0000883107,SLSN,"SOLESENCE, INC.",Nasdaq,2026-04-06 08:59:27,done
+0001829280,FORA,Forian Inc.,Nasdaq,2026-04-06 08:59:28,done
+0001156041,AGIG,"ABUNDIA GLOBAL IMPACT GROUP, INC.",NYSE,2026-04-06 08:59:29,done
+0001547546,LFT,"Lument Finance Trust, Inc.",NYSE,2026-04-06 09:17:25,done
+0001288855,OPHC,"OptimumBank Holdings, Inc.",NYSE,2026-04-06 08:59:31,done
+0002048271,WSHP,WeShop Holdings Ltd,Nasdaq,2026-04-06 08:59:31,done
+0001378950,PRTS,"CarParts.com, Inc.",Nasdaq,2026-04-06 08:59:32,done
+0000881787,CRT,CROSS TIMBERS ROYALTY TRUST,NYSE,2026-04-06 08:59:33,done
+0001822523,AFCG,Advanced Flower Capital Inc.,Nasdaq,2026-04-06 08:59:33,done
+0001828161,FTCI,"FTC Solar, Inc.",Nasdaq,2026-04-06 08:59:34,done
+0002009312,AGH,Aureus Greenway Holdings Inc,Nasdaq,2026-04-06 08:59:35,done
+0001557523,PGZ,Principal Real Estate Income Fund,NYSE,2026-04-06 08:59:35,done
+0001516899,YTRA,"Yatra Online, Inc.",Nasdaq,2026-04-06 08:59:36,done
+0001006837,VATE,INNOVATE Corp.,NYSE,2026-04-06 08:59:37,done
+0001891856,GENK,"GEN Restaurant Group, Inc.",Nasdaq,2026-04-06 08:59:38,done
+0001602409,FNGR,"FingerMotion, Inc.",Nasdaq,2026-04-06 08:59:39,done
+0001133311,TZOO,TRAVELZOO,Nasdaq,2026-04-06 08:59:40,done
+0001720580,ACET,"Adicet Bio, Inc.",Nasdaq,2026-04-06 08:59:40,done
+0001939965,SLMT,Brera Holdings PLC,Nasdaq,2026-04-06 08:59:41,done
+0001505413,VOC,VOC Energy Trust,NYSE,2026-04-06 08:59:41,done
+0001520048,PVL,Permianville Royalty Trust,NYSE,2026-04-06 08:59:42,done
+0001436229,BTCS,BTCS Inc.,Nasdaq,2026-04-06 08:59:42,done
+0001644771,RSF,"RiverNorth Capital & Income Fund, Inc.",NYSE,2026-04-06 08:59:43,done
+0001831096,GEG,"Great Elm Group, Inc.",Nasdaq,2026-04-06 10:39:34,done
+0001533998,DRIO,DarioHealth Corp.,Nasdaq,2026-04-06 08:59:44,done
+0001998781,IBAC,IB Acquisition Corp.,Nasdaq,2026-04-06 10:44:17,done
+0001420720,IBIO,"iBio, Inc.",Nasdaq,2026-04-06 08:59:46,done
+0001131343,ATHE,ALTERITY THERAPEUTICS LTD,Nasdaq,2026-04-06 08:59:46,done
+0001580864,VRM,"Vroom, Inc.",Nasdaq,2026-04-06 08:59:47,done
+0001967631,NAMI,Jinxin Technology Holding Co,Nasdaq,2026-04-06 08:59:48,done
+0001454938,TEAD,Teads Holding Co.,Nasdaq,2026-04-06 08:59:48,done
+0001943802,FSEA,"First Seacoast Bancorp, Inc.",Nasdaq,2026-04-06 08:59:49,done
+0001757840,INDO,Indonesia Energy Corp Ltd,NYSE,2026-04-06 08:59:50,done
+0001834105,IBO,IMPACT BIOMEDICAL INC.,NYSE,2026-04-06 08:59:50,done
+0001495231,IZEA,"IZEA Worldwide, Inc.",Nasdaq,2026-04-06 08:59:51,done
+0001874875,HOUR,"Hour Loop, Inc",Nasdaq,2026-04-06 08:59:52,done
+0002010788,EXOZ,EXOZYMES INC.,Nasdaq,2026-04-06 08:59:52,done
+0000707605,ASRV,AMERISERV FINANCIAL INC /PA/,Nasdaq,2026-04-06 08:59:53,done
+0001082324,VHC,VirnetX Holding Corp,Nasdaq,2026-04-06 08:59:54,done
+0001971115,RYDE,Ryde Group Ltd,NYSE,2026-04-06 08:59:55,done
+0000716643,RGS,REGIS CORP,Nasdaq,2026-04-06 08:59:56,done
+0000353184,AIRT,AIR T INC,Nasdaq,2026-04-06 09:14:38,done
+0001930021,HOVR,New Horizon Aircraft Ltd.,Nasdaq,2026-04-06 10:43:57,done
+0001856031,SEAT,Vivid Seats Inc.,Nasdaq,2026-04-06 10:40:10,done
+0001940177,PODC,"PodcastOne, Inc.",Nasdaq,2026-04-06 08:59:59,done
+0000027367,DXR,DAXOR CORP,Nasdaq,2026-04-06 09:00:00,done
+0000811641,ICCC,IMMUCELL CORP /DE/,Nasdaq,2026-04-06 09:00:01,done
+0001898643,MOB,Mobilicom Ltd,Nasdaq,2026-04-06 09:15:47,done
+0001509745,CYPH,CYPHERPUNK TECHNOLOGIES INC.,Nasdaq,2026-04-06 09:00:02,done
+0000005981,AVD,AMERICAN VANGUARD CORP,NYSE,2026-04-06 09:00:03,done
+0002014955,SDM,Smart Digital Group Ltd,Nasdaq,2026-04-06 09:00:04,done
+0002032950,HSPT,Horizon Space Acquisition II Corp.,Nasdaq,2026-04-06 10:49:11,done
+0001877939,CTM,"Castellum, Inc.",NYSE,2026-04-06 09:00:05,done
+0001817004,NXXT,"NEXTNRG, INC.",Nasdaq,2026-04-06 09:00:06,done
+0001904501,ZTEK,Zentek Ltd.,Nasdaq,2026-04-06 09:00:07,done
+0000012040,BDL,FLANIGANS ENTERPRISES INC,NYSE,2026-04-06 09:00:08,done
+0001823878,MYPS,"PLAYSTUDIOS, Inc.",Nasdaq,2026-04-06 10:39:32,done
+0001974044,MNY,MoneyHero Ltd,Nasdaq,2026-04-06 10:44:09,done
+0002014254,KBSX,FST Corp.,Nasdaq,2026-04-06 09:00:10,done
+0001026980,APWC,ASIA PACIFIC WIRE & CABLE CORP LTD,Nasdaq,2026-04-06 09:00:11,done
+0001994214,NOMA,Nomadar Corp.,Nasdaq,2026-04-06 09:00:11,done
+0001031235,SELF,"Global Self Storage, Inc.",Nasdaq,2026-04-06 09:00:12,done
+0001819253,BTMD,biote Corp.,Nasdaq,2026-04-06 09:00:13,done
+0001731388,EDRY,EuroDry Ltd.,Nasdaq,2026-04-06 09:00:14,done
+0001769697,FNUC,Frontier Nuclear & Minerals Inc.,Nasdaq,2026-04-06 09:00:14,done
+0001477845,ANVS,"Annovis Bio, Inc.",NYSE,2026-04-06 09:00:15,done
+0001753673,SJ,Scienjoy Holding Corp,Nasdaq,2026-04-06 09:00:16,done
+0001881592,NSTS,"NSTS Bancorp, Inc.",Nasdaq,2026-04-06 09:00:16,done
+0001928948,HTCO,High-Trend International Group,Nasdaq,2026-04-06 09:00:17,done
+0001822359,DCGO,DocGo Inc.,Nasdaq,2026-04-06 09:00:18,done
+0001868395,YIBO,Planet Image International Ltd,Nasdaq,2026-04-06 09:00:19,done
+0001907184,ELBM,Electra Battery Materials Corp,Nasdaq,2026-04-06 09:00:19,done
+0001783328,TCRX,"TScan Therapeutics, Inc.",Nasdaq,2026-04-06 09:00:20,done
+0001024672,ELTK,ELTEK LTD,Nasdaq,2026-04-06 09:00:21,done
+0000910406,HAIN,HAIN CELESTIAL GROUP INC,Nasdaq,2026-04-06 09:00:22,done
+0001835579,IMA,"ImageneBio, Inc.",Nasdaq,2026-04-06 09:00:22,done
+0000101984,UEIC,UNIVERSAL ELECTRONICS INC,Nasdaq,2026-04-06 09:00:23,done
+0002000530,GMHS,Gamehaus Holdings Inc.,Nasdaq,2026-04-06 09:00:24,done
+0001491419,LVO,"LiveOne, Inc.",Nasdaq,2026-04-06 09:00:25,done
+0000863900,MXE,MEXICO EQUITY & INCOME FUND INC,NYSE,2026-04-06 09:00:25,done
+0000849146,LFVN,Lifevantage Corp,Nasdaq,2026-04-06 09:00:26,done
+0001822791,CLNN,Clene Inc.,Nasdaq,2026-04-06 09:00:27,done
+0001313536,SOHOB,SOTHERLY HOTELS LP,Nasdaq,2026-04-06 09:00:27,done
+0001738827,KLXE,"KLX Energy Services Holdings, Inc.",Nasdaq,2026-04-06 09:00:28,done
+0001399520,STKS,"ONE Group Hospitality, Inc.",Nasdaq,2026-04-06 09:00:29,done
+0000101594,USEG,US ENERGY CORP,Nasdaq,2026-04-06 09:00:30,done
+0001637715,OKUR,"OnKure Therapeutics, Inc.",Nasdaq,2026-04-06 09:00:30,done
+0002000410,EURK,Eureka Acquisition Corp,Nasdaq,2026-04-06 10:44:19,done
+0001888654,FEAM,"5E Advanced Materials, Inc.",Nasdaq,2026-04-06 09:00:32,done
+0001275158,NDLS,NOODLES & Co,Nasdaq,2026-04-06 09:00:33,done
+0001738906,YI,"111, Inc.",Nasdaq,2026-04-06 09:00:34,done
+0001467761,FIEE,"FiEE, Inc.",Nasdaq,2026-04-06 09:00:35,done
+0000838131,JMM,Nuveen Multi-Market Income Fund,NYSE,2026-04-06 09:00:35,done
+0000018255,CATO,CATO CORP,NYSE,2026-04-06 09:00:36,done
+0001784254,MDIA,Mediaco Holding Inc.,Nasdaq,2026-04-06 09:00:37,done
+0001500375,HFBL,"Home Federal Bancorp, Inc. of Louisiana",Nasdaq,2026-04-06 09:00:38,done
+0001574094,RNXT,"RenovoRx, Inc.",Nasdaq,2026-04-06 09:00:38,done
+0002053456,TGE,Generation Essentials Group,NYSE,2026-04-06 10:49:16,done
+0001953021,MPU,Mega Matrix Inc,NYSE,2026-04-06 09:00:40,done
+0001789769,TIL,"Instil Bio, Inc.",Nasdaq,2026-04-06 09:00:40,done
+0001775898,UCL,uCloudlink Group Inc.,Nasdaq,2026-04-06 09:00:41,done
+0001719714,MREO,Mereo BioPharma Group plc,Nasdaq,2026-04-06 09:00:42,done
+0001992818,ZOOZ,ZOOZ Strategy Ltd.,Nasdaq,2026-04-06 10:44:15,done
+0001808110,DDC,DDC Enterprise Ltd,NYSE,2026-04-06 09:00:43,done
+0001535955,LPCN,Lipocine Inc.,Nasdaq,2026-04-06 09:00:44,done
+0001666071,CDLX,"Cardlytics, Inc.",Nasdaq,2026-04-06 09:00:45,done
+0001781174,ACRV,"Acrivon Therapeutics, Inc.",Nasdaq,2026-04-06 09:00:45,done
+0001972234,VHUB,"VenHub Global, Inc.",Nasdaq,2026-04-06 09:00:46,done
+0000732026,TRT,TRIO-TECH INTERNATIONAL,NYSE,2026-04-06 09:00:47,done
+0001506184,IMMP,IMMUTEP Ltd,Nasdaq,2026-04-06 09:00:48,done
+0001997201,PSIG,PS International Group Ltd.,Nasdaq,2026-04-06 09:00:48,done
+0001839530,XBP,"XBP Global Holdings, Inc.",Nasdaq,2026-04-06 10:39:35,done
+0001638097,ENTX,Entera Bio Ltd.,Nasdaq,2026-04-06 09:00:50,done
+0001840229,INKT,"MiNK Therapeutics, Inc.",Nasdaq,2026-04-06 09:00:50,done
+0000889348,CVU,CPI AEROSTRUCTURES INC,NYSE,2026-04-06 09:00:51,done
+0001841761,GROV,"Grove Collaborative Holdings, Inc.",NYSE,2026-04-06 09:00:52,done
+0001951667,CTNT,CHEETAH NET SUPPLY CHAIN SERVICE INC.,Nasdaq,2026-04-06 09:00:52,done
+0001849466,TCBS,"Texas Community Bancshares, Inc.",Nasdaq,2026-04-06 09:00:53,done
+0000728385,BCHT,Birchtech Corp.,NYSE,2026-04-06 09:00:54,done
+0001173204,CNVS,Cineverse Corp.,Nasdaq,2026-04-06 09:00:55,done
+0001723935,STG,Sunlands Technology Group,NYSE,2026-04-06 09:00:56,done
+0001690080,FRMM,FORUM MARKETS Inc,Nasdaq,2026-04-06 09:00:56,done
+0001886190,GGR,Gogoro Inc.,Nasdaq,2026-04-06 10:41:11,done
+0001826397,AVX,AVAX ONE TECHNOLOGY LTD.,Nasdaq,2026-04-06 09:00:58,done
+0001080340,LOAN,"MANHATTAN BRIDGE CAPITAL, INC",Nasdaq,2026-04-06 09:00:59,done
+0000896493,GPUS,"Hyperscale Data, Inc.",NYSE,2026-04-06 09:15:59,done
+0001847806,GNS,Genius Group Ltd,NYSE,2026-04-06 09:01:00,done
+0000933972,SCWO,374Water Inc.,Nasdaq,2026-04-06 09:01:01,done
+0001715925,HYFT,MindWalk Holdings Corp.,Nasdaq,2026-04-06 09:01:01,done
+0001901336,ALCY,Alchemy Investments Acquisition Corp 1,Nasdaq,2026-04-06 10:41:18,done
+0001785279,MGX,"Metagenomi Therapeutics, Inc.",Nasdaq,2026-04-06 09:01:02,done
+0001795091,OSTX,OS Therapies Inc,NYSE,2026-04-06 09:01:03,done
+0001805521,FFAI,FARADAY FUTURE INTELLIGENT ELECTRIC INC.,Nasdaq,2026-04-06 10:39:30,done
+0000946936,DSWL,DESWELL INDUSTRIES INC,Nasdaq,2026-04-06 09:01:04,done
+0000008177,AAME,ATLANTIC AMERICAN CORP,Nasdaq,2026-04-06 09:01:05,done
+0001127537,LUNG,Pulmonx Corp,Nasdaq,2026-04-06 09:01:06,done
+0001652935,ACTU,"ACTUATE THERAPEUTICS, INC.",Nasdaq,2026-04-06 09:01:07,done
+0001682241,MATH,Metalpha Technology Holding Ltd,Nasdaq,2026-04-06 09:01:07,done
+0001132105,SPWH,"SPORTSMAN'S WAREHOUSE HOLDINGS, INC.",Nasdaq,2026-04-06 09:01:08,done
+0001319183,FMY,FIRST TRUST MORTGAGE INCOME FUND,NYSE,2026-04-06 09:01:08,done
+0001840877,COCH,"Envoy Medical, Inc.",Nasdaq,2026-04-06 10:39:36,done
+0002029471,HMR,Heidmar Maritime Holdings Corp.,Nasdaq,2026-04-06 09:01:10,done
+0001540159,EDSA,"Edesa Biotech, Inc.",Nasdaq,2026-04-06 09:01:10,done
+0001718500,AXIL,"Axil Brands, Inc.",NYSE,2026-04-06 09:01:11,done
+0001560258,ECOR,"electroCore, Inc.",Nasdaq,2026-04-06 09:01:12,done
+0002000775,BKHA,Black Hawk Acquisition Corp,Nasdaq,2026-04-06 10:44:22,done
+0001171759,RRGB,RED ROBIN GOURMET BURGERS INC,Nasdaq,2026-04-06 09:01:13,done
+0002032341,CYAB,"CYABRA, INC.",Nasdaq,2026-04-06 09:01:13,done
+0002000230,BRIA,BrilliA Inc,NYSE,2026-04-06 09:01:14,done
+0001040130,PETS,PETMED EXPRESS INC,Nasdaq,2026-04-06 09:01:15,done
+0000880984,ACFN,"ACORN ENERGY, INC.",Nasdaq,2026-04-06 09:01:16,done
+0001888525,UBXG,U-BX Technology Ltd.,Nasdaq,2026-04-06 09:01:16,done
+0001842556,EONR,EON Resources Inc.,NYSE,2026-04-06 10:39:37,done
+0001833498,MDAI,"Spectral AI, Inc.",Nasdaq,2026-04-06 10:39:35,done
+0000828146,LINK,INTERLINK ELECTRONICS INC,Nasdaq,2026-04-06 09:01:18,done
+0000849145,HGBL,Heritage Global Inc.,Nasdaq,2026-04-06 09:01:19,done
+0002028201,COLA,Columbus Acquisition Corp/Cayman Islands,Nasdaq,2026-04-06 10:48:09,done
+0001933021,PLUT,Plutus Financial Group Ltd,Nasdaq,2026-04-06 09:01:20,done
+0001867834,BRAG,Bragg Gaming Group Inc.,Nasdaq,2026-04-06 09:01:21,done
+0001676047,NTRB,NutriBand Inc.,Nasdaq,2026-04-06 09:17:32,done
+0001682220,SACH,Sachem Capital Corp.,NYSE,2026-04-06 09:33:17,done
+0001769256,XHG,XChange TEC.INC,Nasdaq,2026-04-06 09:01:23,done
+0001918661,ESHA,ESH Acquisition Corp.,Nasdaq,2026-04-06 10:43:56,done
+0001805651,MKTW,"MARKETWISE, INC.",Nasdaq,2026-04-06 09:01:24,done
+0002001794,CIGL,Concorde International Group Ltd.,Nasdaq,2026-04-06 09:01:24,done
+0000827187,SNBR,Sleep Number Corp,Nasdaq,2026-04-06 09:01:25,done
+0001881551,STI,Solidion Technology Inc.,Nasdaq,2026-04-06 09:01:26,done
+0001005101,MGLD,"Marygold Companies, Inc.",NYSE,2026-04-06 09:01:27,done
+0001087294,CPIX,CUMBERLAND PHARMACEUTICALS INC,Nasdaq,2026-04-06 09:01:28,done
+0001640043,PXS,Pyxis Tankers Inc.,Nasdaq,2026-04-06 09:01:28,done
+0000012239,DOMH,Dominari Holdings Inc.,Nasdaq,2026-04-06 09:01:29,done
+0001779372,BEAT,"HeartBeam, Inc.",Nasdaq,2026-04-06 09:33:20,done
+0000798528,OMEX,ODYSSEY MARINE EXPLORATION INC,Nasdaq,2026-04-06 09:01:30,done
+0001138723,ARAY,ACCURAY INC,Nasdaq,2026-04-06 09:01:31,done
+0001737995,STSS,Sharps Technology Inc.,Nasdaq,2026-04-06 09:33:19,done
+0001708527,ELUT,ELUTIA INC.,Nasdaq,2026-04-06 09:01:32,done
+0001120370,BWEN,"BROADWIND, INC.",Nasdaq,2026-04-06 09:01:33,done
+0001034760,WYY,WIDEPOINT CORP,NYSE,2026-04-06 09:01:34,done
+0001775734,BENF,Beneficient,Nasdaq,2026-04-06 09:33:20,done
+0001043961,PRPO,"Precipio, Inc.",Nasdaq,2026-04-06 09:01:36,done
+0002034520,GIBO,GIBO HOLDINGS Ltd,Nasdaq,2026-04-06 10:49:12,done
+0001849380,ONMD,OneMedNet Corp,Nasdaq,2026-04-06 10:39:47,done
+0002067767,OTH,OFF THE HOOK YS INC.,NYSE,2026-04-06 09:01:38,done
+0001873875,IXHL,Incannex Healthcare Inc.,Nasdaq,2026-04-06 09:01:38,done
+0000320017,LSTA,"LISATA THERAPEUTICS, INC.",Nasdaq,2026-04-06 09:01:39,done
+0001903382,BHM,"Bluerock Homes Trust, Inc.",NYSE,2026-04-06 09:01:40,done
+0001518461,AMPG,"AmpliTech Group, Inc.",Nasdaq,2026-04-06 09:17:23,done
+0001645666,KZR,"Kezar Life Sciences, Inc.",Nasdaq,2026-04-06 09:01:41,done
+0001851484,CTOR,"CITIUS ONCOLOGY, INC.",Nasdaq,2026-04-06 09:01:42,done
+0001820190,SCLX,Scilex Holding Co,Nasdaq,2026-04-06 10:39:32,done
+0000884269,APT,ALPHA PRO TECH LTD,NYSE,2026-04-06 09:01:43,done
+0001844417,ESLA,"Estrella Immunopharma, Inc.",Nasdaq,2026-04-06 10:39:38,done
+0001808220,GOCO,"GoHealth, Inc.",Nasdaq,2026-04-06 09:01:45,done
+0002051820,MLCI,Mount Logan Capital Inc.,Nasdaq,2026-04-06 10:49:16,done
+0001962481,BOF,BranchOut Food Inc.,Nasdaq,2026-04-06 09:01:46,done
+0002046656,HCHL,Happy City Holdings Ltd,Nasdaq,2026-04-06 09:01:46,done
+0000722572,FKWL,FRANKLIN WIRELESS CORP,Nasdaq,2026-04-06 09:01:47,done
+0001140215,REED,"REED'S, INC.",NYSE,2026-04-06 09:01:48,done
+0001866501,WBX,Wallbox N.V.,NYSE,2026-04-06 09:01:49,done
+0002033515,SORA,AsiaStrategy,Nasdaq,2026-04-06 09:01:50,done
+0002063863,ELWT,"Elauwit Connection, Inc.",Nasdaq,2026-04-06 09:01:51,done
+0001978528,QETA,Quetta Acquisition Corp,Nasdaq,2026-04-06 10:44:10,done
+0001739410,RLYB,Rallybio Corp,Nasdaq,2026-04-06 09:01:53,done
+0001487197,BRFH,BARFRESH FOOD GROUP INC.,Nasdaq,2026-04-06 09:01:54,done
+0002027360,RCT,RedCloud Holdings plc,Nasdaq,2026-04-06 09:01:55,done
+0001904286,MIRA,"MIRA PHARMACEUTICALS, INC.",Nasdaq,2026-04-06 09:01:56,done
+0001971532,TELO,"Telomir Pharmaceuticals, Inc.",Nasdaq,2026-04-06 09:01:56,done
+0001487918,OFS,OFS Capital Corp,Nasdaq,2026-04-06 09:17:22,done
+0001471727,SRXH,"SRx Health Solutions, Inc.",NYSE,2026-04-06 09:02:00,done
+0002031009,SKBL,Skyline Builders Group Holding Ltd,Nasdaq,2026-04-06 09:02:01,done
+0001085243,VTSI,"VirTra, Inc",Nasdaq,2026-04-06 09:02:02,done
+0001725332,ALAR,Alarum Technologies Ltd.,Nasdaq,2026-04-06 09:02:03,done
+0002000756,KWM,K Wave Media Ltd.,Nasdaq,2026-04-06 10:44:20,done
+0001737339,JG,Aurora Mobile Ltd,Nasdaq,2026-04-06 09:02:04,done
+0001750593,DUO,Fangdd Network Group Ltd.,Nasdaq,2026-04-06 09:02:05,done
+0001499780,GLBS,GLOBUS MARITIME LTD,Nasdaq,2026-04-06 09:02:06,done
+0000876717,FCO,"ABRDN GLOBAL INCOME FUND, INC.",NYSE,2026-04-06 09:02:06,done
+0001952853,MAMO,Massimo Group,Nasdaq,2026-04-06 09:02:07,done
+0001857030,INCR,Intercure Ltd.,Nasdaq,2026-04-06 09:02:08,done
+0001095981,PSTV,"PLUS THERAPEUTICS, INC.",Nasdaq,2026-04-06 09:02:09,done
+0001799448,ALGS,"Aligos Therapeutics, Inc.",Nasdaq,2026-04-06 09:02:09,done
+0001800637,RYM,"RYTHM, Inc.",Nasdaq,2026-04-06 09:02:10,done
+0001045742,LIVE,LIVE VENTURES Inc,Nasdaq,2026-04-06 09:02:11,done
+0001383395,SQNS,SEQUANS COMMUNICATIONS,NYSE,2026-04-06 09:02:12,done
+0001488039,ATOS,"ATOSSA THERAPEUTICS, INC.",Nasdaq,2026-04-06 09:02:13,done
+0001619544,JFU,9F Inc.,Nasdaq,2026-04-06 09:02:14,done
+0000911147,CNTY,CENTURY CASINOS INC /CO/,Nasdaq,2026-04-06 09:02:15,done
+0001262104,LITS,"Lite Strategy, Inc.",Nasdaq,2026-04-06 09:02:16,done
+0001724009,PRT,PermRock Royalty Trust,NYSE,2026-04-06 09:02:16,done
+0002019435,BGL,Blue Gold Ltd,Nasdaq,2026-04-06 10:47:56,done
+0001975641,ZYBT,Zhengye Biotechnology Holding Ltd,Nasdaq,2026-04-06 09:02:17,done
+0001389545,NBY,"NovaBay Pharmaceuticals, Inc.",NYSE,2026-04-06 09:02:18,done
+0001835385,MBBC,"Marathon Bancorp, Inc. /MD/",Nasdaq,2026-04-06 09:02:19,done
+0001780731,EPOW,E-Power Inc.,Nasdaq,2026-04-06 09:02:20,done
+0001982960,KNRX,KNOREX LTD.,NYSE,2026-04-06 09:02:21,done
+0000061004,LGL,LGL GROUP INC,NYSE,2026-04-06 09:02:22,done
+0001333493,EHTH,"eHealth, Inc.",Nasdaq,2026-04-06 09:02:23,done
+0000850027,GRF,"EAGLE CAPITAL GROWTH FUND, INC.",NYSE,2026-04-06 09:02:23,done
+0000716634,RDI,READING INTERNATIONAL INC,Nasdaq,2026-04-06 09:15:38,done
+0001855467,MOBX,"MOBIX LABS, INC",Nasdaq,2026-04-06 10:40:10,done
+0001979484,ABVE,Above Food Ingredients Inc.,Nasdaq,2026-04-06 10:44:11,done
+0001571934,TAOX,TAO Synergies Inc.,Nasdaq,2026-04-06 09:02:26,done
+0001039280,NTWK,NETSOL TECHNOLOGIES INC,Nasdaq,2026-04-06 09:02:26,done
+0002039273,JAGU,Jaguar Uranium Corp.,NYSE,2026-04-06 09:02:27,done
+0001800392,MLGO,MicroAlgo Inc.,Nasdaq,2026-04-06 09:02:27,done
+0000846913,FTEK,"FUEL TECH, INC.",Nasdaq,2026-04-06 09:02:28,done
+0000008504,UAVS,AgEagle Aerial Systems Inc.,NYSE,2026-04-06 09:02:29,done
+0002018145,RDAC,Rising Dragon Acquisition Corp.,Nasdaq,2026-04-06 10:47:55,done
+0001785530,HOWL,"Werewolf Therapeutics, Inc.",Nasdaq,2026-04-06 09:02:31,done
+0001944885,APLM,Apollomics Inc.,Nasdaq,2026-04-06 09:14:39,done
+0002049187,KMRK,K-TECH SOLUTIONS CO LTD,Nasdaq,2026-04-06 09:02:32,done
+0001210708,STRR,"Star Equity Holdings, Inc.",Nasdaq,2026-04-06 09:17:12,done
+0001604464,ATRA,"Atara Biotherapeutics, Inc.",Nasdaq,2026-04-06 09:02:33,done
+0001993097,MASK,3 E Network Technology Group Ltd,Nasdaq,2026-04-06 09:02:34,done
+0001175151,CTSO,Cytosorbents Corp,Nasdaq,2026-04-06 09:02:35,done
+0001409375,OESX,"ORION ENERGY SYSTEMS, INC.",Nasdaq,2026-04-06 09:02:36,done
+0001500198,NMTC,NEUROONE MEDICAL TECHNOLOGIES Corp,Nasdaq,2026-04-06 09:02:37,done
+0001667313,ZDGE,"Zedge, Inc.",NYSE,2026-04-06 09:02:37,done
+0001519472,SMXT,"SolarMax Technology, Inc.",Nasdaq,2026-04-06 09:02:38,done
+0001696558,JRSH,"Jerash Holdings (US), Inc.",Nasdaq,2026-04-06 09:02:39,done
+0001988776,MRNO,Murano Global Investments Plc,Nasdaq,2026-04-06 10:44:14,done
+0001968043,NCEW,New Century Logistics (BVI) Ltd,Nasdaq,2026-04-06 09:02:40,done
+0001801661,SKLZ,Skillz Inc.,NYSE,2026-04-06 09:02:41,done
+0001270436,COHN,Cohen & Co Inc.,NYSE,2026-04-06 09:02:42,done
+0001523836,LITB,"LightInTheBox Holding Co., Ltd.",NYSE,2026-04-06 09:02:43,done
+0001178253,SCYX,SCYNEXIS INC,Nasdaq,2026-04-06 09:02:44,done
+0001674440,YYAI,AIRWA INC.,Nasdaq,2026-04-06 09:02:45,done
+0001549084,EKSO,"EKSO BIONICS HOLDINGS, INC.",Nasdaq,2026-04-06 09:02:46,done
+0001291855,SPCB,SuperCom Ltd,Nasdaq,2026-04-06 09:02:47,done
+0000788611,NTRP,"NextTrip, Inc.",Nasdaq,2026-04-06 09:02:48,done
+0000718332,RAVE,"RAVE RESTAURANT GROUP, INC.",Nasdaq,2026-04-06 09:02:48,done
+0001951229,RITR,Reitar Logtech Holdings Ltd,Nasdaq,2026-04-06 09:02:49,done
+0001907223,GRML,Greenland Mines Ltd,Nasdaq,2026-04-06 10:41:24,done
+0001661059,NXTC,"NextCure, Inc.",Nasdaq,2026-04-06 09:02:50,done
+0000081955,RAND,RAND CAPITAL CORP,Nasdaq,2026-04-06 09:02:51,done
+0001987189,SLGB,Smart Logistics Global Ltd,Nasdaq,2026-04-06 09:02:51,done
+0001053691,CRVO,CervoMed Inc.,Nasdaq,2026-04-06 09:02:52,done
+0001971828,ENGS,Energys Group Ltd,Nasdaq,2026-04-06 09:02:53,done
+0001356093,CREX,"CREATIVE REALITIES, INC.",Nasdaq,2026-04-06 09:02:54,done
+0001449792,PPSI,"PIONEER POWER SOLUTIONS, INC.",Nasdaq,2026-04-06 09:02:54,done
+0001591890,FGNX,FG Nexus Inc.,Nasdaq,2026-04-06 09:17:27,done
+0000803578,AIFF,"FIREFLY NEUROSCIENCE, INC.",Nasdaq,2026-04-06 09:02:56,done
+0001780201,LVLU,"Lulu's Fashion Lounge Holdings, Inc.",Nasdaq,2026-04-06 09:02:57,done
+0001752828,CELU,Celularity Inc,Nasdaq,2026-04-06 09:33:19,done
+0001843656,RMCO,Royalty Management Holding Corp,Nasdaq,2026-04-06 10:39:38,done
+0001947210,ROLR,"High Roller Technologies, Inc.",NYSE,2026-04-06 09:02:59,done
+0001829802,SNSE,"Sensei Biotherapeutics, Inc.",Nasdaq,2026-04-06 09:02:59,done
+0001504379,CSTE,Caesarstone Ltd.,Nasdaq,2026-04-06 09:03:00,done
+0000723603,CULP,CULP INC,Nasdaq,2026-04-06 09:03:01,done
+0001507957,IPWR,Ideal Power Inc.,Nasdaq,2026-04-06 09:03:02,done
+0002030834,ONEG,OneConstruction Group Ltd,Nasdaq,2026-04-06 09:03:02,done
+0001873454,RYET,Ruanyun Edai Technology Inc.,Nasdaq,2026-04-06 09:03:03,done
+0000766792,CVV,CVD EQUIPMENT CORP,Nasdaq,2026-04-06 09:03:04,done
+0001774675,SKIL,Skillsoft Corp.,NYSE,2026-04-06 09:03:04,done
+0001427925,TLPH,"TALPHERA, INC.",Nasdaq,2026-04-06 09:03:05,done
+0001819438,GWH,"ESS Tech, Inc.",NYSE,2026-04-06 10:39:31,done
+0001041024,RMTI,"ROCKWELL MEDICAL, INC.",Nasdaq,2026-04-06 09:03:07,done
+0002033383,FUSE,Fusemachines Inc.,Nasdaq,2026-04-06 10:49:11,done
+0000056701,KOSS,KOSS CORP,Nasdaq,2026-04-06 09:03:09,done
+0001953984,BCG,"Binah Capital Group, Inc.",Nasdaq,2026-04-06 10:44:00,done
+0001297341,KFFB,Kentucky First Federal Bancorp,Nasdaq,2026-04-06 09:03:11,done
+0001785424,KPLT,"Katapult Holdings, Inc.",Nasdaq,2026-04-06 09:33:21,done
+0001665300,PHUN,"Phunware, Inc.",Nasdaq,2026-04-06 09:03:12,done
+0000863894,VERU,VERU INC.,Nasdaq,2026-04-06 09:03:13,done
+0001846839,STKE,SOL Strategies Inc.,Nasdaq,2026-04-06 09:03:14,done
+0001949257,RADX,Radiopharm Theranostics Ltd,Nasdaq,2026-04-06 09:03:14,done
+0001017303,TACT,TRANSACT TECHNOLOGIES INC,Nasdaq,2026-04-06 09:03:15,done
+0001065078,NTIP,"NETWORK-1 TECHNOLOGIES, INC.",NYSE,2026-04-06 09:03:16,done
+0002010959,AHMA,AMBITIONS ENTERPRISE MANAGEMENT CO. L.L.C,Nasdaq,2026-04-06 09:03:17,done
+0001355848,TOON,"Kartoon Studios, Inc.",NYSE,2026-04-06 09:03:18,done
+0001805833,SST,"System1, Inc.",NYSE,2026-04-06 09:03:18,done
+0001993463,YSXT,"YSX Tech Co., Ltd",Nasdaq,2026-04-06 09:03:19,done
+0001846715,WAVE,Eco Wave Power Global AB (publ),Nasdaq,2026-04-06 09:03:20,done
+0000722313,NSYS,NORTECH SYSTEMS INC,Nasdaq,2026-04-06 09:03:21,done
+0001420565,RNTX,"Rein Therapeutics, Inc.",Nasdaq,2026-04-06 09:03:22,done
+0001928340,GDHG,GOLDEN HEAVEN GROUP HOLDINGS LTD.,Nasdaq,2026-04-06 09:03:22,done
+0001350102,ASTI,"Ascent Solar Technologies, Inc.",Nasdaq,2026-04-06 09:03:24,done
+0000843006,ACCS,ACCESS Newswire Inc.,NYSE,2026-04-06 09:03:25,done
+0000754811,GROW,U S GLOBAL INVESTORS INC,Nasdaq,2026-04-06 09:03:26,done
+0001932737,AIIO,ROBO.AI INC.,Nasdaq,2026-04-06 10:43:57,done
+0001158780,PLUR,Pluri Inc.,Nasdaq,2026-04-06 09:03:28,done
+0001081745,INLX,"INTELLINETICS, INC.",NYSE,2026-04-06 09:03:28,done
+0001969475,BAYA,Bayview Acquisition Corp,Nasdaq,2026-04-06 10:44:08,done
+0001993400,FATN,Fatpipe Inc/UT,Nasdaq,2026-04-06 09:03:30,done
+0000867840,POCI,"PRECISION OPTICS CORPORATION, INC.",Nasdaq,2026-04-06 09:03:31,done
+0001370416,WPRT,WESTPORT FUEL SYSTEMS INC.,Nasdaq,2026-04-06 09:03:31,done
+0001852973,BRLS,Borealis Foods Inc.,Nasdaq,2026-04-06 10:39:55,done
+0001388320,ATNM,"Actinium Pharmaceuticals, Inc.",NYSE,2026-04-06 09:03:33,done
+0001420529,AACG,ATA Creativity Global,Nasdaq,2026-04-06 09:03:34,done
+0001944902,OMH,Ohmyhome Ltd,Nasdaq,2026-04-06 09:03:35,done
+0000912061,NHTC,NATURAL HEALTH TRENDS CORP,Nasdaq,2026-04-06 09:03:36,done
+0001957489,ABLV,Able View Global Inc.,Nasdaq,2026-04-06 10:44:01,done
+0001040161,PXLW,"PIXELWORKS, INC",Nasdaq,2026-04-06 09:03:37,done
+0001328792,TPCS,TECHPRECISION CORP,Nasdaq,2026-04-06 09:03:38,done
+0002009714,TMDE,TMD Energy Ltd,NYSE,2026-04-06 09:03:39,done
+0001575793,WATT,Energous Corp,Nasdaq,2026-04-06 09:03:40,done
+0000900391,NTZ,NATUZZI S P A,NYSE,2026-04-06 09:03:41,done
+0001102993,LPSN,LIVEPERSON INC,Nasdaq,2026-04-06 09:03:42,done
+0002026353,ATHR,"Aether Holdings, Inc.",Nasdaq,2026-04-06 09:03:43,done
+0001005516,BOSC,BOS BETTER ONLINE SOLUTIONS LTD,Nasdaq,2026-04-06 09:03:44,done
+0001088034,USIO,"Usio, Inc.",Nasdaq,2026-04-06 09:03:45,done
+0000793524,REFR,RESEARCH FRONTIERS INC,Nasdaq,2026-04-06 09:03:46,done
+0001712178,NAAS,NaaS Technology Inc.,Nasdaq,2026-04-06 09:03:46,done
+0002016337,PTLE,PTL Ltd,Nasdaq,2026-04-06 09:03:47,done
+0001720893,BTAI,"BioXcel Therapeutics, Inc.",Nasdaq,2026-04-06 09:03:48,done
+0001872525,SWAG,"Stran & Company, Inc.",Nasdaq,2026-04-06 10:41:05,done
+0001196298,NEPH,NEPHROS INC,Nasdaq,2026-04-06 09:03:50,done
+0002032755,PFAI,Pinnacle Food Group Ltd,Nasdaq,2026-04-06 09:03:50,done
+0001871983,ANGH,Anghami Inc,Nasdaq,2026-04-06 10:41:04,done
+0001998056,PC,Premium Catering (Holdings) Ltd,Nasdaq,2026-04-06 09:03:52,done
+0001934642,MDBH,"MDB Capital Holdings, LLC",Nasdaq,2026-04-06 09:03:52,done
+0000880406,HERZ,"Herzfeld Credit Income Fund, Inc",Nasdaq,2026-04-06 09:03:53,done
+0000101295,UG,UNITED GUARDIAN INC,Nasdaq,2026-04-06 09:03:54,done
+0001963439,TURB,"Turbo Energy, S.A.",Nasdaq,2026-04-06 09:03:55,done
+0001561921,TELA,"TELA Bio, Inc.",Nasdaq,2026-04-06 09:03:55,done
+0002029138,SAGT,SAGTEC GLOBAL Ltd,Nasdaq,2026-04-06 09:03:56,done
+0001859199,AIRE,reAlpha Tech Corp.,Nasdaq,2026-04-06 09:03:57,done
+0002013807,FOXX,Foxx Development Holdings Inc.,Nasdaq,2026-04-06 10:47:52,done
+0001711754,INMB,"Inmune Bio, Inc.",Nasdaq,2026-04-06 09:03:58,done
+0001346830,TVRD,"Tvardi Therapeutics, Inc.",Nasdaq,2026-04-06 09:03:59,done
+0001825024,OPAD,Offerpad Solutions Inc.,NYSE,2026-04-06 09:04:00,done
+0001472091,PDSB,PDS Biotechnology Corp,Nasdaq,2026-04-06 09:04:01,done
+0001966678,ZDAI,"DirectBooking Technology Co., Ltd.",Nasdaq,2026-04-06 09:04:01,done
+0001877971,POM,POMDOCTOR Ltd,Nasdaq,2026-04-06 09:04:02,done
+0001788028,JSPR,"Jasper Therapeutics, Inc.",Nasdaq,2026-04-06 09:33:21,done
+0001898766,TPET,Trio Petroleum Corp,NYSE,2026-04-06 09:04:03,done
+0001828253,EVAX,Evaxion A/S,Nasdaq,2026-04-06 09:04:03,done
+0001419951,DTST,Data Storage Corp,Nasdaq,2026-04-06 09:17:18,done
+0000719733,KTCC,KEY TRONIC CORP,Nasdaq,2026-04-06 09:04:05,done
+0001760233,GIFT,"GIFTIFY, INC.",Nasdaq,2026-04-06 09:04:06,done
+0001682639,HYPD,"HYPERION DEFI, INC.",Nasdaq,2026-04-06 09:04:06,done
+0001872090,YXT,YXT.COM GROUP HOLDING Ltd,Nasdaq,2026-04-06 09:04:07,done
+0001818274,ARAI,Arrive AI Inc.,Nasdaq,2026-04-06 09:04:08,done
+0001339005,FEMY,FEMASYS INC,Nasdaq,2026-04-06 09:04:08,done
+0001462223,NIXX,"Nixxy, Inc.",Nasdaq,2026-04-06 09:17:18,done
+0001837607,AEON,"AEON Biopharma, Inc.",NYSE,2026-04-06 09:04:10,done
+0000833021,CIF,MFS INTERMEDIATE HIGH INCOME FUND,NYSE,2026-04-06 09:04:10,done
+0001983550,TDTH,Trident Digital Tech Holdings Ltd,Nasdaq,2026-04-06 09:04:11,done
+0000829323,INUV,"Inuvo, Inc.",NYSE,2026-04-06 09:04:11,done
+0001698530,XCUR,"EXICURE, INC.",Nasdaq,2026-04-06 09:04:12,done
+0000025895,CRWS,CROWN CRAFTS INC,Nasdaq,2026-04-06 09:04:13,done
+0001708599,SER,"Serina Therapeutics, Inc.",NYSE,2026-04-06 09:04:13,done
+0001841209,HOLO,MicroCloud Hologram Inc.,Nasdaq,2026-04-06 10:39:36,done
+0001848275,TOP,TOP Financial Group Ltd,Nasdaq,2026-04-06 09:04:15,done
+0001385818,AYTU,"AYTU BIOPHARMA, INC",Nasdaq,2026-04-06 09:04:16,done
+0001982448,BLIV,BeLive Holdings,Nasdaq,2026-04-06 09:04:16,done
+0001578348,ICMB,"Investcorp Credit Management BDC, Inc.",Nasdaq,2026-04-06 09:04:17,done
+0001967822,CGTL,Creative Global Technology Holdings Ltd,Nasdaq,2026-04-06 09:04:18,done
+0001584371,ICCM,IceCure Medical Ltd.,Nasdaq,2026-04-06 09:04:18,done
+0000034563,FARM,FARMER BROTHERS CO,Nasdaq,2026-04-06 09:04:19,done
+0001733868,CNF,CNFinance Holdings Ltd.,NYSE,2026-04-06 09:04:20,done
+0001610820,BCTX,BriaCell Therapeutics Corp.,Nasdaq,2026-04-06 09:17:27,done
+0000040570,JOB,GEE Group Inc.,NYSE,2026-04-06 09:04:21,done
+0001321834,QCLS,"Q/C TECHNOLOGIES, INC.",Nasdaq,2026-04-06 09:04:22,done
+0001015739,AWRE,AWARE INC /MA/,Nasdaq,2026-04-06 09:04:23,done
+0002001288,PN,Skycorp Solar Group Ltd,Nasdaq,2026-04-06 09:04:23,done
+0001847064,PSQH,"PSQ Holdings, Inc.",NYSE,2026-04-06 10:39:41,done
+0001721484,LGVN,Longeveron Inc.,Nasdaq,2026-04-06 09:04:25,done
+0002060083,FOFO,"Hang Feng Technology Innovation Co., Ltd.",Nasdaq,2026-04-06 09:04:26,done
+0001041657,UONE,"URBAN ONE, INC.",Nasdaq,2026-04-06 09:15:41,done
+0001335105,LIXT,"LIXTE BIOTECHNOLOGY HOLDINGS, INC.",Nasdaq,2026-04-06 09:04:28,done
+0001963088,ATCH,"AtlasClear Holdings, Inc.",NYSE,2026-04-06 09:04:29,done
+0001724542,CLPS,CLPS Inc,Nasdaq,2026-04-06 09:04:29,done
+0000813298,DXLG,"DESTINATION XL GROUP, INC.",Nasdaq,2026-04-06 09:04:30,done
+0001891944,PMEC,Primech Holdings Ltd,Nasdaq,2026-04-06 09:04:31,done
+0001369290,MYO,"MYOMO, INC.",NYSE,2026-04-06 09:04:32,done
+0000862692,CCEL,CRYO CELL INTERNATIONAL INC,NYSE,2026-04-06 09:04:33,done
+0000921299,KYNB,"KYNTRA BIO, INC.",Nasdaq,2026-04-06 09:04:34,done
+0000093314,VNRX,VOLITIONRX LTD,NYSE,2026-04-06 09:04:35,done
+0000725363,CVM,CEL SCI CORP,NYSE,2026-04-06 09:04:36,done
+0001579157,VNCE,VINCE HOLDING CORP.,Nasdaq,2026-04-06 09:04:37,done
+0002027160,VNTG,Vantage Corp (Singapore),NYSE,2026-04-06 09:04:38,done
+0001371782,MVO,MV Oil Trust,NYSE,2026-04-06 09:04:38,done
+0001966750,ZBAO,Zhibao Technology Inc.,Nasdaq,2026-04-06 09:04:39,done
+0001653909,BIRD,"Allbirds, Inc.",Nasdaq,2026-04-06 09:04:40,done
+0000878932,EQS,"EQUUS TOTAL RETURN, INC.",NYSE,2026-04-06 09:04:40,done
+0001806904,EZGO,EZGO Technologies Ltd.,Nasdaq,2026-04-06 09:04:41,done
+0001398805,BEEM,Beam Global,Nasdaq,2026-04-06 09:04:42,done
+0001649739,BAFN,BayFirst Financial Corp.,Nasdaq,2026-04-06 09:04:43,done
+0002012600,RYOJ,"rYojbaba Co., Ltd.",Nasdaq,2026-04-06 09:04:43,done
+0001807389,CPOP,"Pop Culture Group Co., Ltd",Nasdaq,2026-04-06 09:04:44,done
+0002029039,NSRX,Nasus Pharma Ltd,NYSE,2026-04-06 09:04:44,done
+0002021688,UFG,Uni-Fuels Holdings Ltd,Nasdaq,2026-04-06 09:04:45,done
+0001173313,ABVC,"ABVC BIOPHARMA, INC.",Nasdaq,2026-04-06 09:04:46,done
+0002011053,SUUN,POWERBANK Corp,Nasdaq,2026-04-06 09:04:46,done
+0001769484,BIOX,Bioceres Crop Solutions Corp.,Nasdaq,2026-04-06 09:04:47,done
+0002027722,GRAN,Grande Group Ltd/HK,Nasdaq,2026-04-06 09:04:48,done
+0002044327,CFND,C1 Fund Inc.,NYSE,2026-04-06 09:04:48,done
+0001840317,VEEA,VEEA INC.,Nasdaq,2026-04-06 10:39:36,done
+0001996192,LSH,Lakeside Holding Ltd,Nasdaq,2026-04-06 09:04:50,done
+0001326205,IGC,"IGC Pharma, Inc.",NYSE,2026-04-06 09:04:51,done
+0001796898,MAXN,"Maxeon Solar Technologies, Ltd.",Nasdaq,2026-04-06 09:04:52,done
+0001948436,JL,J-Long Group Ltd,Nasdaq,2026-04-06 09:04:52,done
+0001890361,ASPC,ASPAC III Acquisition Corp.,Nasdaq,2026-04-06 10:41:16,done
+0000351998,DAIO,DATA I/O CORP,Nasdaq,2026-04-06 09:04:54,done
+0000779544,ARKR,ARK RESTAURANTS CORP,Nasdaq,2026-04-06 09:04:55,done
+0001442620,RCON,"Recon Technology, Ltd",Nasdaq,2026-04-06 09:04:57,done
+0001782303,BOLD,"Boundless Bio, Inc.",Nasdaq,2026-04-06 09:04:58,done
+0001935418,FMST,Foremost Clean Energy Ltd.,Nasdaq,2026-04-06 10:43:58,done
+0001213809,DYAI,DYADIC INTERNATIONAL INC,Nasdaq,2026-04-06 09:05:02,done
+0001684688,ATCX,ATLAS CRITICAL MINERALS Corp,Nasdaq,2026-04-06 09:05:04,done
+0001875091,NRSN,NeuroSense Therapeutics Ltd.,Nasdaq,2026-04-06 10:41:06,done
+0001709819,FEDU,Four Seasons Education (Cayman) Inc.,NYSE,2026-04-06 09:05:05,done
+0001425287,WKHS,Workhorse Group Inc.,Nasdaq,2026-04-06 09:05:06,done
+0000025743,TXMD,"TherapeuticsMD, Inc.",Nasdaq,2026-04-06 09:05:07,done
+0000899782,NOM,NUVEEN MISSOURI QUALITY MUNICIPAL INCOME FUND,NYSE,2026-04-06 09:05:07,done
+0001007019,JVA,COFFEE HOLDING CO INC,Nasdaq,2026-04-06 09:05:08,done
+0002006986,ADGM,"Adagio Medical Holdings, Inc.",Nasdaq,2026-04-06 09:05:09,done
+0001914805,BANL,CBL International Ltd,Nasdaq,2026-04-06 09:05:10,done
+0001840780,LOCL,Local Bounti Corporation/DE,NYSE,2026-04-06 09:05:10,done
+0001442236,QRHC,Quest Resource Holding Corp,Nasdaq,2026-04-06 09:05:11,done
+0001831979,SDST,Stardust Power Inc.,Nasdaq,2026-04-06 10:39:35,done
+0001119083,MNDO,MIND CTI LTD,Nasdaq,2026-04-06 09:05:14,done
+0001940674,SMX,SMX (Security Matters) Public Ltd Co,Nasdaq,2026-04-06 10:43:58,done
+0001597846,GRNQ,Greenpro Capital Corp.,Nasdaq,2026-04-06 09:05:15,done
+0002064764,PLSM,Pulsenmore Ltd.,Nasdaq,2026-04-06 09:05:16,done
+0001117057,PLAG,Planet Green Holdings Corp.,NYSE,2026-04-06 09:05:17,done
+0001544227,TPST,"Tempest Therapeutics, Inc.",Nasdaq,2026-04-06 09:05:18,done
+0001787518,DFNS,T3 Defense Inc.,Nasdaq,2026-04-06 09:33:21,done
+0001649009,CHAI,"Core AI Holdings, Inc.",Nasdaq,2026-04-06 09:05:19,done
+0001954269,GSIW,Garden Stage Ltd,Nasdaq,2026-04-06 09:05:20,done
+0001753162,FTHM,Fathom Holdings Inc.,Nasdaq,2026-04-06 09:05:21,done
+0001714562,GAME,"GameSquare Holdings, Inc.",Nasdaq,2026-04-06 09:05:22,done
+0001030471,UTSI,UTSTARCOM HOLDINGS CORP.,Nasdaq,2026-04-06 09:05:23,done
+0001645460,CUE,"Cue Biopharma, Inc.",Nasdaq,2026-04-06 09:05:23,done
+0001481241,PSHG,Performance Shipping Inc.,Nasdaq,2026-04-06 09:05:24,done
+0000919567,RCG,"RENN Fund, Inc.",NYSE,2026-04-06 09:05:26,done
+0000066418,MXC,MEXCO ENERGY CORP,NYSE,2026-04-06 09:05:26,done
+0000352955,CKX,"CKX LANDS, INC.",NYSE,2026-04-06 09:05:27,done
+0001411685,VTGN,"Vistagen Therapeutics, Inc.",Nasdaq,2026-04-06 09:05:28,done
+0002028293,RAIN,"Rain Enhancement Technologies Holdco, Inc.",Nasdaq,2026-04-06 10:48:10,done
+0001901799,BTM,Bitcoin Depot Inc.,Nasdaq,2026-04-06 10:41:19,done
+0001602842,ORIO,Orion Digital Corp.,Nasdaq,2026-04-06 09:05:30,done
+0001899005,BMR,Beamr Imaging Ltd.,Nasdaq,2026-04-06 09:05:31,done
+0001191070,NEUP,Neuphoria Therapeutics Inc.,Nasdaq,2026-04-06 09:05:31,done
+0001828185,BRNS,Barinthus Biotherapeutics plc.,Nasdaq,2026-04-06 09:05:32,done
+0001999860,WYHG,Wing Yip Food Holdings Group Ltd,Nasdaq,2026-04-06 09:05:33,done
+0001509646,FENG,Phoenix New Media Ltd,NYSE,2026-04-06 09:05:34,done
+0001828972,BZFD,"BuzzFeed, Inc.",Nasdaq,2026-04-06 10:39:33,done
+0001807887,LASE,Laser Photonics Corp,Nasdaq,2026-04-06 09:05:36,done
+0001074871,MODD,"Modular Medical, Inc.",Nasdaq,2026-04-06 09:05:37,done
+0002024258,POAS,Phaos Technology (Cayman) Holdings Ltd,NYSE,2026-04-06 09:05:37,done
+0001595527,NYC,American Strategic Investment Co.,NYSE,2026-04-06 09:05:39,done
+0001123494,HBIO,HARVARD BIOSCIENCE INC,Nasdaq,2026-04-06 09:05:40,done
+0001649989,OTLK,"Outlook Therapeutics, Inc.",Nasdaq,2026-04-06 09:05:41,done
+0001650696,LSF,"Laird Superfood, Inc.",NYSE,2026-04-06 09:05:41,done
+0001083743,FLUX,"Flux Power Holdings, Inc.",Nasdaq,2026-04-06 09:05:42,done
+0001847846,EUDA,EUDA Health Holdings Ltd,Nasdaq,2026-04-06 10:39:44,done
+0000087050,NEON,Neonode Inc.,Nasdaq,2026-04-06 09:05:44,done
+0001943444,TRSG,Tungray Technologies Inc,Nasdaq,2026-04-06 09:05:45,done
+0001743971,MOGU,MOGU Inc.,NYSE,2026-04-06 09:05:46,done
+0001616262,RMCF,"Rocky Mountain Chocolate Factory, Inc.",Nasdaq,2026-04-06 09:05:46,done
+0001843165,YHC,LQR House Inc.,Nasdaq,2026-04-06 09:05:47,done
+0001563568,EVTV,"Envirotech Vehicles, Inc.",Nasdaq,2026-04-06 09:05:48,done
+0001108205,CRIS,CURIS INC,Nasdaq,2026-04-06 09:05:48,done
+0002032779,EHLD,Euroholdings Ltd.,Nasdaq,2026-04-06 09:05:49,done
+0001734750,MOVE,"Corvex, Inc.",Nasdaq,2026-04-06 09:05:50,done
+0000797542,VBIX,Viewbix Inc.,Nasdaq,2026-04-06 09:05:50,done
+0001401914,DARE,"Dare Bioscience, Inc.",Nasdaq,2026-04-06 09:05:51,done
+0001814215,BURU,"Nuburu, Inc.",NYSE,2026-04-06 09:05:52,done
+0001874097,CYN,Cyngn Inc.,Nasdaq,2026-04-06 09:05:53,done
+0001847986,DFLI,Dragonfly Energy Holdings Corp.,Nasdaq,2026-04-06 10:39:45,done
+0001854270,SNTI,"Senti Biosciences, Inc.",Nasdaq,2026-04-06 09:05:55,done
+0001821175,MSGM,Motorsport Games Inc.,Nasdaq,2026-04-06 09:05:56,done
+0000855683,MLSS,MILESTONE SCIENTIFIC INC.,NYSE,2026-04-06 09:05:57,done
+0001770088,WIMI,WiMi Hologram Cloud Inc.,Nasdaq,2026-04-06 09:05:58,done
+0001787297,PASG,"Passage BIO, Inc.",Nasdaq,2026-04-06 09:05:59,done
+0001821468,YQ,17 Education & Technology Group Inc.,Nasdaq,2026-04-06 09:06:00,done
+0001743340,TC,Token Cat Ltd,Nasdaq,2026-04-06 09:06:00,done
+0001056285,TBHC,"BRAND HOUSE COLLECTIVE, INC.",Nasdaq,2026-04-06 09:06:01,done
+0000946563,RVP,RETRACTABLE TECHNOLOGIES INC,NYSE,2026-04-06 09:06:02,done
+0001707303,DOGZ,Dogness (International) Corp,Nasdaq,2026-04-06 09:06:03,done
+0001991605,YMT,Yimutian Inc.,Nasdaq,2026-04-06 09:06:04,done
+0001886894,SNAL,"Snail, Inc.",Nasdaq,2026-04-06 09:06:05,done
+0001355839,IPM,INTELLIGENT PROTECTION MANAGEMENT CORP.,Nasdaq,2026-04-06 09:06:06,done
+0001802457,ORGN,"Origin Materials, Inc.",Nasdaq,2026-04-06 09:33:21,done
+0001566044,VYNE,VYNE Therapeutics Inc.,Nasdaq,2026-04-06 09:06:08,done
+0001379006,NNVC,"NANOVIRICIDES, INC.",NYSE,2026-04-06 09:06:09,done
+0002002453,STAK,STAK Inc.,Nasdaq,2026-04-06 09:06:09,done
+0001516551,SKYE,"Skye Bioscience, Inc.",Nasdaq,2026-04-06 09:06:10,done
+0001819493,XOS,"Xos, Inc.",Nasdaq,2026-04-06 10:39:32,done
+0000948708,SMSI,"SMITH MICRO SOFTWARE, INC.",Nasdaq,2026-04-06 09:06:12,done
+0001232582,AHT,ASHFORD HOSPITALITY TRUST INC,NYSE,2026-04-06 09:15:40,done
+0001817740,AUST,Austin Gold Corp.,NYSE,2026-04-06 09:06:14,done
+0002038378,ACCL,Acco Group Holdings Ltd,Nasdaq,2026-04-06 09:06:15,done
+0001912847,USEA,United Maritime Corp,Nasdaq,2026-04-06 09:06:16,done
+0001307579,LIQT,LIQTECH INTERNATIONAL INC,Nasdaq,2026-04-06 09:06:16,done
+0001883437,EPSM,Epsium Enterprise Ltd,Nasdaq,2026-04-06 09:06:17,done
+0002044241,THH,TryHard Holdings Ltd,Nasdaq,2026-04-06 09:06:18,done
+0001743905,RVSN,Rail Vision Ltd.,Nasdaq,2026-04-06 09:33:19,done
+0001348362,LEXX,Lexaria Bioscience Corp.,Nasdaq,2026-04-06 09:06:19,done
+0001417926,IVF,"INVO Fertility, Inc.",Nasdaq,2026-04-06 09:06:20,done
+0001282224,DLPN,"Dolphin Entertainment, Inc.",Nasdaq,2026-04-06 09:06:21,done
+0001771885,QNTM,Quantum Biopharma Ltd.,Nasdaq,2026-04-06 09:06:22,done
+0000909724,TLF,TANDY LEATHER FACTORY INC,Nasdaq,2026-04-06 09:06:22,done
+0001534154,AUID,authID Inc.,Nasdaq,2026-04-06 09:06:23,done
+0001712762,BIAF,"bioAffinity Technologies, Inc.",Nasdaq,2026-04-06 09:33:17,done
+0001139685,AIDX,"20/20 Biolabs, Inc.",Nasdaq,2026-04-06 09:06:25,done
+0002017758,LHAI,Linkhome Holdings Inc.,Nasdaq,2026-04-06 09:06:25,done
+0001967478,CAPT,Captivision Inc.,Nasdaq,2026-04-06 10:44:06,done
+0001505155,UPLD,"Upland Software, Inc.",Nasdaq,2026-04-06 09:06:27,done
+0002020737,CABR,"Caring Brands, Inc.",Nasdaq,2026-04-06 09:06:27,done
+0001392694,SURG,"SurgePays, Inc.",Nasdaq,2026-04-06 09:06:28,done
+0001995116,RECT,Rectitude Holdings Ltd.,Nasdaq,2026-04-06 09:06:29,done
+0001862463,AMOD,"ALPHA MODUS HOLDINGS, INC.",Nasdaq,2026-04-06 10:40:18,done
+0001888980,LRE,"LEAD REAL ESTATE CO., LTD",Nasdaq,2026-04-06 09:06:30,done
+0001863990,MSAI,"MultiSensor AI Holdings, Inc.",Nasdaq,2026-04-06 10:40:19,done
+0000736012,INTZ,INTRUSION INC,Nasdaq,2026-04-06 09:06:32,done
+0001860871,TVGN,Tevogen Bio Holdings Inc.,Nasdaq,2026-04-06 10:40:11,done
+0001938109,PAPL,Pineapple Financial Inc.,NYSE,2026-04-06 09:06:34,done
+0001321851,SEED,Origin Agritech LTD,Nasdaq,2026-04-06 09:06:34,done
+0001589061,GYRO,"Gyrodyne, LLC",Nasdaq,2026-04-06 09:06:35,done
+0001844971,GREE,Greenidge Generation Holdings Inc.,Nasdaq,2026-04-06 10:39:38,done
+0001969401,LGCB,Linkage Global Inc,Nasdaq,2026-04-06 09:06:37,done
+0002039060,RBNE,Robin Energy Ltd.,Nasdaq,2026-04-06 09:06:37,done
+0001546383,JXG,JX Luxventure Group Inc.,Nasdaq,2026-04-06 09:06:38,done
+0000787253,NAII,NATURAL ALTERNATIVES INTERNATIONAL INC,Nasdaq,2026-04-06 09:06:39,done
+0001860657,ALLR,"Allarity Therapeutics, Inc.",Nasdaq,2026-04-06 09:06:39,done
+0001701261,FAMI,"Farmmi, Inc.",Nasdaq,2026-04-06 09:06:40,done
+0001841330,KTTA,Pasithea Therapeutics Corp.,Nasdaq,2026-04-06 10:39:36,done
+0001991332,MKDW,MKDWELL Tech Inc.,Nasdaq,2026-04-06 10:44:15,done
+0001006045,IRIX,IRIDEX CORP,Nasdaq,2026-04-06 09:06:42,done
+0002040290,LGPS,LOGPROSTYLE INC.,NYSE,2026-04-06 09:06:43,done
+0001837493,IINN,Inspira Technologies OXY B.H.N. Ltd,Nasdaq,2026-04-06 10:39:35,done
+0001382574,SCNX,"Scienture Holdings, Inc.",Nasdaq,2026-04-06 09:06:44,done
+0001094038,MRKR,"Marker Therapeutics, Inc.",Nasdaq,2026-04-06 09:06:45,done
+0001720161,CTRM,Castor Maritime Inc.,Nasdaq,2026-04-06 09:06:46,done
+0001756064,OBAI,"Our Bond, Inc.",Nasdaq,2026-04-06 09:06:47,done
+0001004989,SGRP,"SPAR Group, Inc.",Nasdaq,2026-04-06 09:06:48,done
+0001472072,CCM,Concord Medical Services Holdings Ltd,NYSE,2026-04-06 09:06:48,done
+0001843588,REE,REE Automotive Ltd.,Nasdaq,2026-04-06 09:06:49,done
+0001791725,HUDI,"Huadi International Group Co., Ltd.",Nasdaq,2026-04-06 09:06:50,done
+0001838716,GNTA,Genenta Science S.p.A.,Nasdaq,2026-04-06 09:06:51,done
+0001778982,HUIZ,Huize Holding Ltd,Nasdaq,2026-04-06 09:06:51,done
+0001916241,PRZO,ParaZero Technologies Ltd.,Nasdaq,2026-04-06 09:06:52,done
+0000045919,HHS,HARTE HANKS INC,Nasdaq,2026-04-06 09:06:53,done
+0002011458,ZGM,Zenta Group Co Ltd,Nasdaq,2026-04-06 09:06:53,done
+0001897532,PASW,"Ping An Biomedical Co., Ltd.",Nasdaq,2026-04-06 09:06:54,done
+0001105101,GIGM,GIGAMEDIA Ltd,Nasdaq,2026-04-06 09:06:54,done
+0001169034,BHV,BLACKROCK VIRGINIA MUNICIPAL BOND TRUST,NYSE,2026-04-06 09:06:55,done
+0001912966,RGNT,REGENTIS BIOMATERIALS LTD.,NYSE,2026-04-06 09:06:55,done
+0001709628,CSAI,"CLOUDASTRUCTURE, INC.",Nasdaq,2026-04-06 09:06:56,done
+0001959994,COOT,Australian Oilseeds Holdings Ltd,Nasdaq,2026-04-06 10:44:03,done
+0001654595,MDRR,"Medalist Diversified, Inc.",Nasdaq,2026-04-06 09:06:57,done
+0001782309,EDTK,Skillful Craftsman Education Technology Ltd,Nasdaq,2026-04-06 09:06:58,done
+0001853044,AERT,"Aeries Technology, Inc.",Nasdaq,2026-04-06 10:40:06,done
+0000102109,UUU,"UNIVERSAL SAFETY PRODUCTS, INC.",NYSE,2026-04-06 09:07:00,done
+0001708441,MYND,"Mynd.ai, Inc.",NYSE,2026-04-06 09:07:00,done
+0001066764,BESS,Bimergen Energy Corp,NYSE,2026-04-06 09:16:04,done
+0001506251,CTXR,"Citius Pharmaceuticals, Inc.",Nasdaq,2026-04-06 09:07:02,done
+0001826660,WETH,Wetouch Technology Inc.,Nasdaq,2026-04-06 09:07:02,done
+0001355096,QVCGA,"QVC Group, Inc.",Nasdaq,2026-04-06 09:17:13,done
+0001716338,JF,J & Friends Holdings Ltd,Nasdaq,2026-04-06 09:07:04,done
+0001735041,GTEC,Greenland Technologies Holding Corp.,Nasdaq,2026-04-06 09:07:05,done
+0001903995,MGIH,Millennium Group International Holdings Ltd,Nasdaq,2026-04-06 09:07:05,done
+0001790169,ZSTK,ZeroStack Corp.,Nasdaq,2026-04-06 09:07:06,done
+0001916416,INTJ,Intelligent Group Ltd,Nasdaq,2026-04-06 09:07:07,done
+0000908311,CMCT,Creative Media & Community Trust Corp,Nasdaq,2026-04-06 09:07:07,done
+0001567264,INTS,"INTENSITY THERAPEUTICS, INC.",Nasdaq,2026-04-06 09:07:08,done
+0001944399,PDC,Perpetuals.com Ltd,Nasdaq,2026-04-06 09:07:09,done
+0000351789,ELSE,ELECTRO SENSORS INC,Nasdaq,2026-04-06 09:07:09,done
+0001990950,SELX,Semilux International Ltd.,Nasdaq,2026-04-06 09:07:10,done
+0001296484,TOPS,TOP SHIPS INC.,NYSE,2026-04-06 09:07:11,done
+0001781446,GAUZ,Gauzy Ltd.,Nasdaq,2026-04-06 09:07:11,done
+0002030522,MWYN,"Marwynn Holdings, Inc.",Nasdaq,2026-04-06 09:07:12,done
+0001427570,HIND,"Vyome Holdings, Inc",Nasdaq,2026-04-06 09:07:13,done
+0001009891,AIRI,AIR INDUSTRIES GROUP,NYSE,2026-04-06 09:07:14,done
+0000010048,BRN,BARNWELL INDUSTRIES INC,NYSE,2026-04-06 09:07:15,done
+0001179821,BGI,BIRKS GROUP INC.,NYSE,2026-04-06 09:07:16,done
+0001777319,CISO,"CISO Global, Inc.",Nasdaq,2026-04-06 09:07:17,done
+0001533040,PHIO,Phio Pharmaceuticals Corp.,Nasdaq,2026-04-06 09:07:18,done
+0001960847,TOPP,Toppoint Holdings Inc.,NYSE,2026-04-06 09:07:19,done
+0001707910,REBN,"Reborn Coffee, Inc.",Nasdaq,2026-04-06 09:07:20,done
+0001412486,COCP,"Cocrystal Pharma, Inc.",Nasdaq,2026-04-06 09:07:21,done
+0001905920,GLXG,Galaxy Payroll Group Ltd,Nasdaq,2026-04-06 09:07:22,done
+0001668010,DBGI,"Digital Brands Group, Inc.",Nasdaq,2026-04-06 09:07:23,done
+0001502292,PRHI,"Presurance Holdings, Inc.",Nasdaq,2026-04-06 09:17:22,done
+0002074123,CCHH,CCH Holdings Ltd,Nasdaq,2026-04-06 09:07:24,done
+0001826011,BNZI,"Banzai International, Inc.",Nasdaq,2026-04-06 10:39:33,done
+0001130598,TRAW,"Traws Pharma, Inc.",Nasdaq,2026-04-06 09:07:25,done
+0001865494,IOBT,"IO Biotech, Inc.",Nasdaq,2026-04-06 09:07:26,done
+0001740279,INAB,"IN8BIO, INC.",Nasdaq,2026-04-06 09:07:27,done
+0001875609,SWVL,Swvl Holdings Corp,Nasdaq,2026-04-06 10:41:07,done
+0002041829,CHOW,ChowChow Cloud International Holdings Ltd,NYSE,2026-04-06 09:07:28,done
+0001816815,BON,Bon Natural Life Ltd,Nasdaq,2026-04-06 09:07:28,done
+0002025942,CURX,Curanex Pharmaceuticals Inc,Nasdaq,2026-04-06 09:07:29,done
+0001562733,SNYR,Synergy CHC Corp.,Nasdaq,2026-04-06 09:07:30,done
+0001517496,SLAI,SOLAI Ltd,NYSE,2026-04-06 09:07:30,done
+0001958777,FBLG,"FibroBiologics, Inc.",Nasdaq,2026-04-06 09:07:31,done
+0001957001,FEBO,Fenbo Holdings Ltd,Nasdaq,2026-04-06 09:07:32,done
+0001847075,SAIH,SAIHEAT Ltd,Nasdaq,2026-04-06 10:39:42,done
+0001997296,MDCX,Medicus Pharma Ltd.,Nasdaq,2026-04-06 10:44:16,done
+0001552670,TAOP,Taoping Inc.,Nasdaq,2026-04-06 09:07:34,done
+0001706524,UGRO,"urban-gro, Inc.",Nasdaq,2026-04-06 09:07:35,done
+0001056358,MTEX,MANNATECH INC,Nasdaq,2026-04-06 09:07:36,done
+0001716166,VVOS,"Vivos Therapeutics, Inc.",Nasdaq,2026-04-06 09:07:37,done
+0001999297,DSY,Big Tree Cloud Holdings Ltd,Nasdaq,2026-04-06 10:44:17,done
+0001659617,MBRX,"Moleculin Biotech, Inc.",Nasdaq,2026-04-06 09:07:39,done
+0000109657,GTBP,"GT Biopharma, Inc.",Nasdaq,2026-04-06 09:07:39,done
+0001948697,SPPL,SIMPPLE LTD.,Nasdaq,2026-04-06 09:07:40,done
+0001826892,BCAB,"BioAtla, Inc.",Nasdaq,2026-04-06 09:07:40,done
+0001058307,NXPL,NextPlat Corp,Nasdaq,2026-04-06 09:16:03,done
+0001760903,BNKK,"BONK, INC.",Nasdaq,2026-04-06 09:07:42,done
+0001684425,PETZ,"TDH Holdings, Inc.",Nasdaq,2026-04-06 09:07:42,done
+0000825324,GTIM,Good Times Restaurants Inc.,Nasdaq,2026-04-06 09:07:43,done
+0001763950,LTRN,Lantern Pharma Inc.,Nasdaq,2026-04-06 09:07:44,done
+0001964946,YAAS,Youxin Technology Ltd,Nasdaq,2026-04-06 09:07:45,done
+0001893645,PLRZ,Polyrizon Ltd.,Nasdaq,2026-04-06 09:07:46,done
+0000838875,WVVI,WILLAMETTE VALLEY VINEYARDS INC,Nasdaq,2026-04-06 09:15:42,done
+0001711786,HOTH,"Hoth Therapeutics, Inc.",Nasdaq,2026-04-06 09:07:48,done
+0002034400,BTTC,Black Titan Corp,Nasdaq,2026-04-06 09:07:48,done
+0001956166,MSW,Ming Shing Group Holdings Ltd,Nasdaq,2026-04-06 09:07:49,done
+0000925741,BCDA,"BioCardia, Inc.",Nasdaq,2026-04-06 09:07:50,done
+0001895618,GXAI,GAXOS.AI INC.,Nasdaq,2026-04-06 09:07:51,done
+0001964314,JBDI,JBDI Holdings Ltd,Nasdaq,2026-04-06 09:07:51,done
+0000314227,TOMZ,"TOMI Environmental Solutions, Inc.",Nasdaq,2026-04-06 09:07:52,done
+0001474167,COSM,Cosmos Health Inc.,Nasdaq,2026-04-06 09:07:53,done
+0001718939,IDAI,T Stamp Inc,Nasdaq,2026-04-06 09:07:54,done
+0001873093,GDTC,CytoMed Therapeutics Ltd,Nasdaq,2026-04-06 09:07:55,done
+0001969863,SUGP,SU Group Holdings Ltd,Nasdaq,2026-04-06 09:07:55,done
+0001679628,JUNS,"JUPITER NEUROSCIENCES, INC.",Nasdaq,2026-04-06 09:07:56,done
+0001926293,GCDT,Green Circle Decarbonize Technology Ltd,NYSE,2026-04-06 09:07:57,done
+0000744825,AMS,AMERICAN SHARED HOSPITAL SERVICES,NYSE,2026-04-06 09:07:57,done
+0001869467,SVRN,OceanPal Inc.,Nasdaq,2026-04-06 09:07:58,done
+0001610590,MBAI,Check-Cap Ltd,Nasdaq,2026-04-06 09:07:58,done
+0001840425,OSRH,"OSR Holdings, Inc.",Nasdaq,2026-04-06 10:39:36,done
+0001972529,BTOC,Armlogi Holding Corp.,Nasdaq,2026-04-06 09:08:00,done
+0002013320,ELOG,Eastern International Ltd.,Nasdaq,2026-04-06 09:08:00,done
+0001804469,GFAI,"Guardforce AI Co., Ltd.",Nasdaq,2026-04-06 09:33:22,done
+0001962011,KAPA,"Kairos Pharma, LTD.",NYSE,2026-04-06 09:08:02,done
+0001852440,JZ,Jianzhi Education Technology Group Co Ltd,Nasdaq,2026-04-06 09:08:02,done
+0001937993,CVKD,"Cadrenal Therapeutics, Inc.",Nasdaq,2026-04-06 09:08:03,done
+0001329606,CETY,"Clean Energy Technologies, Inc.",Nasdaq,2026-04-06 09:08:04,done
+0001279704,CLRB,"Cellectar Biosciences, Inc.",Nasdaq,2026-04-06 09:08:05,done
+0001965143,NVNI,Nvni Group Ltd,Nasdaq,2026-04-06 10:44:05,done
+0001981519,MMA,MIXED MARTIAL ARTS GROUP LTD,NYSE,2026-04-06 09:08:06,done
+0001959726,AZI,Autozi Internet Technology (Global) Ltd.,Nasdaq,2026-04-06 09:08:07,done
+0000062362,MARPS,MARINE PETROLEUM TRUST,Nasdaq,2026-04-06 09:08:08,done
+0001872964,MTEK,Maris Tech Ltd.,Nasdaq,2026-04-06 10:41:05,done
+0000812796,SNGX,"SOLIGENIX, INC.",Nasdaq,2026-04-06 09:08:09,done
+0002009233,AGRZ,Agroz Inc.,Nasdaq,2026-04-06 09:08:10,done
+0000888721,TRIB,TRINITY BIOTECH PLC,Nasdaq,2026-04-06 09:08:11,done
+0001498403,BLRX,BioLineRx Ltd.,Nasdaq,2026-04-06 09:08:12,done
+0002053641,ETS,Elite Express Holding Inc.,Nasdaq,2026-04-06 09:08:13,done
+0001854445,GGRP,"Glimpse Group, Inc.",Nasdaq,2026-04-06 09:08:13,done
+0001948443,RAY,Raytech Holding Ltd,Nasdaq,2026-04-06 09:08:14,done
+0001378590,BLIN,"Bridgeline Digital, Inc.",Nasdaq,2026-04-06 09:08:15,done
+0000007623,ARTW,ARTS WAY MANUFACTURING CO INC,Nasdaq,2026-04-06 09:08:15,done
+0001411690,BNGO,"Bionano Genomics, Inc.",Nasdaq,2026-04-06 09:08:16,done
+0001708341,AGAE,Allied Gaming & Entertainment Inc.,Nasdaq,2026-04-06 09:08:17,done
+0000924168,EFOI,"ENERGY FOCUS, INC/DE",Nasdaq,2026-04-06 09:08:18,done
+0000031667,EDUC,EDUCATIONAL DEVELOPMENT CORP,Nasdaq,2026-04-06 09:08:19,done
+0001621832,AQMS,"Aqua Metals, Inc.",Nasdaq,2026-04-06 09:08:20,done
+0001799290,EBON,Ebang International Holdings Inc.,Nasdaq,2026-04-06 09:08:21,done
+0001784970,NXTT,Next Technology Holding Inc.,Nasdaq,2026-04-06 09:08:22,done
+0002030763,WGRX,"Wellgistics Health, Inc.",Nasdaq,2026-04-06 09:08:22,done
+0001854572,IZM,ICZOOM Group Inc.,Nasdaq,2026-04-06 09:08:23,done
+0001736243,ACXP,"Acurx Pharmaceuticals, Inc.",Nasdaq,2026-04-06 09:08:24,done
+0001534248,CMMB,Chemomab Therapeutics Ltd.,Nasdaq,2026-04-06 09:08:25,done
+0001948294,NWGL,CL Workshop Group Ltd,Nasdaq,2026-04-06 09:08:25,done
+0001831868,ICU,SeaStar Medical Holding Corp,Nasdaq,2026-04-06 10:39:34,done
+0002025218,DLXY,Delixy Holdings Ltd,Nasdaq,2026-04-06 09:08:27,done
+0001864531,VSEE,"VSEE HEALTH, INC.",Nasdaq,2026-04-06 10:40:22,done
+0001671502,QNRX,"Quoin Pharmaceuticals, Ltd.",Nasdaq,2026-04-06 09:08:28,done
+0001781397,EEIQ,EpicQuest Education Group International Ltd,Nasdaq,2026-04-06 09:08:29,done
+0001796514,BTCT,BTC Digital Ltd.,Nasdaq,2026-04-06 09:08:29,done
+0001926792,SFHG,SAMFINE CREATION HOLDINGS GROUP Ltd,Nasdaq,2026-04-06 09:08:30,done
+0001580149,BIVI,BIOVIE INC.,Nasdaq,2026-04-06 09:17:26,done
+0001897245,HWH,HWH International Inc.,Nasdaq,2026-04-06 09:08:31,done
+0001783036,NCEL,NewcelX Ltd.,Nasdaq,2026-04-06 09:08:32,done
+0001803407,OST,"Ostin Technology Group Co., Ltd.",Nasdaq,2026-04-06 09:08:33,done
+0001061069,AWX,AVALON HOLDINGS CORP,NYSE,2026-04-06 09:08:33,done
+0002004489,BMGL,Basel Medical Group Ltd,Nasdaq,2026-04-06 09:08:34,done
+0001096275,WKSP,Worksport Ltd,Nasdaq,2026-04-06 09:08:35,done
+0001718224,BTBD,"BT Brands, Inc.",Nasdaq,2026-04-06 09:33:18,done
+0001707919,CENN,Cenntro Inc.,Nasdaq,2026-04-06 09:08:37,done
+0001333822,LEDS,SemiLEDs Corp,Nasdaq,2026-04-06 09:08:37,done
+0001527728,LNAI,Lunai Bioworks Inc.,Nasdaq,2026-04-06 09:08:38,done
+0001104038,VRME,"VerifyMe, Inc.",Nasdaq,2026-04-06 09:08:39,done
+0001980210,WFF,WF Holding Ltd,Nasdaq,2026-04-06 09:08:40,done
+0001941158,WETO,Wetour Robotics Ltd,Nasdaq,2026-04-06 09:08:40,done
+0001023994,OLOX,OLENOX INDUSTRIES INC.,Nasdaq,2026-04-06 09:08:41,done
+0001969928,TJGC,TJGC GROUP Ltd,Nasdaq,2026-04-06 09:08:42,done
+0001607962,LFWD,Lifeward Ltd.,Nasdaq,2026-04-06 09:08:43,done
+0001970544,ITOC,iTonic Holdings Ltd,Nasdaq,2026-04-06 09:08:44,done
+0000019871,CVR,CHICAGO RIVET & MACHINE CO,NYSE,2026-04-06 09:08:45,done
+0001631282,DTSS,DATASEA INC.,Nasdaq,2026-04-06 09:08:46,done
+0001014763,AIMD,"Ainos, Inc.",Nasdaq,2026-04-06 09:16:00,done
+0001858685,BFRI,Biofrontera Inc.,Nasdaq,2026-04-06 10:40:11,done
+0001673481,SEGG,Sports Entertainment Gaming Global Corp,Nasdaq,2026-04-06 09:17:31,done
+0001821806,LESL,"Leslie's, Inc.",Nasdaq,2026-04-06 09:08:49,done
+0000771999,DSS,"DSS, INC.",NYSE,2026-04-06 09:08:50,done
+0000313364,MTR,MESA ROYALTY TRUST/TX,NYSE,2026-04-06 09:08:51,done
+0001742927,RVPH,"REVIVA PHARMACEUTICALS HOLDINGS, INC.",Nasdaq,2026-04-06 09:08:53,done
+0001861622,JTAI,Jet.AI Inc.,Nasdaq,2026-04-06 09:08:53,done
+0001908705,GLE,Global Engine Group Holding Ltd,Nasdaq,2026-04-06 09:08:54,done
+0001269026,SINT,"Sintx Technologies, Inc.",Nasdaq,2026-04-06 09:08:54,done
+0000082473,IHT,INNSUITES HOSPITALITY TRUST,NYSE,2026-04-06 09:08:55,done
+0001534133,CALC,"CalciMedica, Inc.",Nasdaq,2026-04-06 09:08:56,done
+0001026662,CLWT,EURO TECH HOLDINGS CO LTD,Nasdaq,2026-04-06 09:08:57,done
+0000720154,NOTV,"Inotiv, Inc.",Nasdaq,2026-04-06 09:08:58,done
+0001141284,ASNS,ACTELIS NETWORKS INC,Nasdaq,2026-04-06 09:08:59,done
+0000894158,TOVX,"Theriva Biologics, Inc.",NYSE,2026-04-06 09:09:00,done
+0001713539,KXIN,Kaixin Holdings,Nasdaq,2026-04-06 09:09:01,done
+0000749647,IMNN,"Imunon, Inc.",Nasdaq,2026-04-06 09:09:01,done
+0001836242,TKLF,"Tokyo Lifestyle Co., Ltd.",Nasdaq,2026-04-06 09:09:02,done
+0001083220,XELB,"XCel Brands, Inc.",Nasdaq,2026-04-06 09:09:03,done
+0001687277,RETO,"ReTo Eco-Solutions, Inc.",Nasdaq,2026-04-06 09:09:03,done
+0001759614,YJ,Yunji Inc.,Nasdaq,2026-04-06 09:09:04,done
+0001933951,INEO,INNEOVA Holdings Ltd,Nasdaq,2026-04-06 09:09:05,done
+0001941500,MWG,Multi Ways Holdings Ltd,NYSE,2026-04-06 09:09:05,done
+0000890394,PRSO,Peraso Inc.,Nasdaq,2026-04-06 09:09:06,done
+0001680378,SNES,"SenesTech, Inc.",Nasdaq,2026-04-06 09:09:07,done
+0001840416,SSM,Sono Group N.V.,Nasdaq,2026-04-06 09:09:07,done
+0001346610,SOS,SOS Ltd,NYSE,2026-04-06 09:09:08,done
+0001828098,STKH,Steakholder Foods Ltd.,Nasdaq,2026-04-06 09:09:08,done
+0001927578,NTCL,NetClass Technology Inc,Nasdaq,2026-04-06 09:09:09,done
+0001314196,OLB,"OLB GROUP, INC.",Nasdaq,2026-04-06 09:09:10,done
+0001849221,PMNT,Perfect Moment Ltd.,NYSE,2026-04-06 09:09:10,done
+0001819704,MRM,Medirom Healthcare Technologies Inc.,Nasdaq,2026-04-06 09:09:11,done
+0002004024,LHSW,Lianhe Sowell International Group Ltd,Nasdaq,2026-04-06 09:09:11,done
+0001641281,BOLT,"Bolt Biotherapeutics, Inc.",Nasdaq,2026-04-06 09:09:12,done
+0001961847,INHD,INNO HOLDINGS INC.,Nasdaq,2026-04-06 09:09:13,done
+0001807166,AMST,Amesite Inc.,Nasdaq,2026-04-06 09:09:13,done
+0001911545,GITS,"Global Interactive Technologies, Inc.",Nasdaq,2026-04-06 09:09:14,done
+0002027262,FTRK,Fast Track Group,Nasdaq,2026-04-06 09:09:14,done
+0002018462,PCLA,PicoCELA Inc.,Nasdaq,2026-04-06 09:09:15,done
+0001995704,CUPR,Cuprina Holdings (Cayman) LTD,Nasdaq,2026-04-06 09:09:16,done
+0000840715,CLRO,CLEARONE INC,Nasdaq,2026-04-06 09:09:16,done
+0001660046,IMRN,Immuron Ltd,Nasdaq,2026-04-06 09:09:17,done
+0001815566,IFBD,"Infobird Co., Ltd",Nasdaq,2026-04-06 09:09:18,done
+0001574232,ADXN,Addex Therapeutics Ltd.,Nasdaq,2026-04-06 09:09:18,done
+0001938534,FBGL,FBS Global Ltd,Nasdaq,2026-04-06 09:09:19,done
+0001938186,JYD,Jayud Global Logistics Ltd,Nasdaq,2026-04-06 09:09:20,done
+0001621221,ARTL,"ARTELO BIOSCIENCES, INC.",Nasdaq,2026-04-06 09:09:20,done
+0000022701,SUNE,"SUNation Energy, Inc.",Nasdaq,2026-04-06 09:09:21,done
+0001769768,EJH,E-Home Household Service Holdings Ltd,Nasdaq,2026-04-06 09:09:22,done
+0000032621,MSN,EMERSON RADIO CORP,NYSE,2026-04-06 09:09:22,done
+0001624326,PAVM,PAVmed Inc.,Nasdaq,2026-04-06 09:09:23,done
+0001631487,CLGN,CollPlant Biotechnologies Ltd,Nasdaq,2026-04-06 09:09:24,done
+0001829635,RNAZ,"Transcode Therapeutics, Inc.",Nasdaq,2026-04-06 09:09:24,done
+0002024114,TGHL,GrowHub Ltd,Nasdaq,2026-04-06 09:09:25,done
+0001938046,MGRX,"MANGOCEUTICALS, INC.",Nasdaq,2026-04-06 09:09:25,done
+0001781983,APRE,"Aprea Therapeutics, Inc.",Nasdaq,2026-04-06 09:09:26,done
+0001870600,SBDS,"Solo Brands, Inc.",NYSE,2026-04-06 09:09:27,done
+0001734005,APM,Aptorum Group Ltd,Nasdaq,2026-04-06 09:09:27,done
+0001920092,GELS,Gelteq Ltd,Nasdaq,2026-04-06 09:09:28,done
+0001627282,CWD,CaliberCos Inc.,Nasdaq,2026-04-06 09:09:28,done
+0001819794,HTOO,Fusion Fuel Green PLC,Nasdaq,2026-04-06 09:09:29,done
+0001560293,TNON,"Tenon Medical, Inc.",Nasdaq,2026-04-06 09:17:26,done
+0000875355,TULP,"BLOOMIA HOLDINGS, INC.",Nasdaq,2026-04-06 09:09:30,done
+0001779476,KRKR,36Kr Holdings Inc.,Nasdaq,2026-04-06 09:09:31,done
+0001990251,WCT,Wellchange Holdings Co Ltd,Nasdaq,2026-04-06 09:09:31,done
+0001641631,XAIR,"Beyond Air, Inc.",Nasdaq,2026-04-06 09:09:32,done
+0001157075,PMCB,"PharmaCyte Biotech, Inc.",Nasdaq,2026-04-06 09:09:33,done
+0001644903,YCBD,"cbdMD, Inc.",NYSE,2026-04-06 09:09:33,done
+0001875547,LCFY,Locafy Ltd,Nasdaq,2026-04-06 10:41:07,done
+0001574565,EVGN,Evogene Ltd.,Nasdaq,2026-04-06 09:09:35,done
+0001527352,NXL,"Nexalin Technology, Inc.",Nasdaq,2026-04-06 09:09:35,done
+0002007702,HKPD,"Cellyan Biotechnology Co., Ltd",Nasdaq,2026-04-06 09:09:36,done
+0000885462,GURE,"GULF RESOURCES, INC.",Nasdaq,2026-04-06 09:09:37,done
+0001971387,LIMN,"Liminatus Pharma, Inc.",Nasdaq,2026-04-06 10:44:08,done
+0001604191,GRDX,GridAI Technologies Corp.,Nasdaq,2026-04-06 09:09:38,done
+0001739174,PHGE,BiomX Inc.,NYSE,2026-04-06 09:09:39,done
+0001864943,FGI,FGI Industries Ltd.,Nasdaq,2026-04-06 10:40:23,done
+0001187953,CELZ,"CREATIVE MEDICAL TECHNOLOGY HOLDINGS, INC.",Nasdaq,2026-04-06 09:09:40,done
+0000944075,SCKT,"SOCKET MOBILE, INC.",Nasdaq,2026-04-06 09:09:41,done
+0001958399,HCAI,"Huachen AI Parking Management Technology Holding Co., Ltd",Nasdaq,2026-04-06 09:09:42,done
+0001468492,HSCS,HeartSciences Inc.,Nasdaq,2026-04-06 09:17:19,done
+0001042187,YHGJ,YUNHONG GREEN CTI LTD.,Nasdaq,2026-04-06 09:09:43,done
+0001982012,TLIH,Ten-League International Holdings Ltd,Nasdaq,2026-04-06 09:09:44,done
+0001550913,MKZR,"MacKenzie Realty Capital, Inc.",Nasdaq,2026-04-06 09:09:44,done
+0001820875,CXAI,CXApp Inc.,Nasdaq,2026-04-06 10:39:32,done
+0001930179,ARBB,ARB IOT Group Ltd,Nasdaq,2026-04-06 09:09:45,done
+0001095435,ATON,AlphaTON Capital Corp,Nasdaq,2026-04-06 09:09:46,done
+0002020228,MSGY,Masonglory Ltd,Nasdaq,2026-04-06 09:09:46,done
+0002024656,FMFC,Kandal M Venture Ltd,Nasdaq,2026-04-06 09:09:47,done
+0001527702,IQST,iQSTEL Inc,Nasdaq,2026-04-06 09:09:48,done
+0001976443,SYNX,Silynxcom Ltd.,NYSE,2026-04-06 09:09:48,done
+0001635077,ACON,"Aclarion, Inc.",Nasdaq,2026-04-06 09:17:28,done
+0001785566,ZCMD,Zhongchao Inc.,Nasdaq,2026-04-06 09:09:49,done
+0001648960,MYSE,"Myseum, Inc.",Nasdaq,2026-04-06 09:17:29,done
+0001661053,NVNO,enVVeno Medical Corp,Nasdaq,2026-04-06 09:09:51,done
+0001716770,WAFU,Wah Fu Education Group Ltd,Nasdaq,2026-04-06 09:09:51,done
+0001410428,XWEL,"XWELL, Inc.",Nasdaq,2026-04-06 09:09:52,done
+0001372514,KPRX,KIORA PHARMACEUTICALS INC,Nasdaq,2026-04-06 09:09:53,done
+0001934245,NWTG,"Newton Golf Company, Inc.",Nasdaq,2026-04-06 09:09:53,done
+0002036307,OFAL,OFA Group,Nasdaq,2026-04-06 09:09:54,done
+0001880343,AMZE,"AMAZE HOLDINGS, INC.",NYSE,2026-04-06 09:09:54,done
+0001854480,DEVS,DevvStream Corp.,Nasdaq,2026-04-06 09:09:55,done
+0001536196,CANF,Can-Fite BioPharma Ltd.,NYSE,2026-04-06 09:09:55,done
+0001584831,OXBR,OXBRIDGE RE HOLDINGS Ltd,Nasdaq,2026-04-06 09:15:48,done
+0001817511,SOPA,SOCIETY PASS INCORPORATED.,Nasdaq,2026-04-06 09:09:57,done
+0001671584,APVO,Aptevo Therapeutics Inc.,Nasdaq,2026-04-06 09:09:58,done
+0001711012,AIHS,Senmiao Technology Ltd,Nasdaq,2026-04-06 09:09:58,done
+0001107421,TCRT,"Alaunos Therapeutics, Inc.",Nasdaq,2026-04-06 09:09:59,done
+0001864055,ABTS,Abits Group Inc,Nasdaq,2026-04-06 09:10:00,done
+0001998560,MIMI,Mint Inc Ltd,Nasdaq,2026-04-06 09:10:00,done
+0001905956,TGL,TREASURE GLOBAL INC,Nasdaq,2026-04-06 09:10:01,done
+0001958133,DXST,Decent Holding Inc.,Nasdaq,2026-04-06 09:10:01,done
+0001829247,BFRG,"BullFrog AI Holdings, Inc.",Nasdaq,2026-04-06 10:39:33,done
+0001681682,NDRA,ENDRA Life Sciences Inc.,Nasdaq,2026-04-06 09:10:02,done
+0001505497,BRTX,"BioRestorative Therapies, Inc.",Nasdaq,2026-04-06 09:10:03,done
+0001781162,MNTS,Momentus Inc.,Nasdaq,2026-04-06 09:33:20,done
+0001533743,PCSA,"Processa Pharmaceuticals, Inc.",Nasdaq,2026-04-06 09:10:05,done
+0002058584,DKI,DarkIris Inc.,Nasdaq,2026-04-06 09:10:05,done
+0001419275,RVYL,RYVYL Inc.,Nasdaq,2026-04-06 09:10:06,done
+0000923601,RIME,"Algorhythm Holdings, Inc.",Nasdaq,2026-04-06 09:10:07,done
+0001066923,FTFT,Future FinTech Group Inc.,Nasdaq,2026-04-06 09:10:07,done
+0001995075,MGN,Megan Holdings Ltd.,Nasdaq,2026-04-06 09:10:08,done
+0001534525,XBIO,"Xenetic Biosciences, Inc.",Nasdaq,2026-04-06 09:10:09,done
+0001019034,BKYI,BIO KEY INTERNATIONAL INC,Nasdaq,2026-04-06 09:10:09,done
+0001490161,SOWG,Sow Good Inc.,Nasdaq,2026-04-06 09:10:10,done
+0001614744,PPBT,PURPLE BIOTECH LTD.,Nasdaq,2026-04-06 09:10:11,done
+0001979407,ORKT,ORANGEKLOUD TECHNOLOGY INC.,Nasdaq,2026-04-06 09:10:11,done
+0001894954,XPON,Expion360 Inc.,Nasdaq,2026-04-06 09:10:12,done
+0000073290,BMRA,BIOMERICA INC,Nasdaq,2026-04-06 09:10:13,done
+0001983324,RMSG,Real Messenger Corp,Nasdaq,2026-04-06 10:44:13,done
+0001541157,AKTX,Akari Therapeutics Plc,Nasdaq,2026-04-06 09:10:14,done
+0001099160,BBGI,BEASLEY BROADCAST GROUP INC,Nasdaq,2026-04-06 09:10:14,done
+0001023549,XTLB,XTL BIOPHARMACEUTICALS LTD,Nasdaq,2026-04-06 09:10:15,done
+0002002236,SPHL,SPRINGVIEW HOLDINGS LTD,Nasdaq,2026-04-06 09:10:16,done
+0001879754,EHGO,EShallGo Inc.,Nasdaq,2026-04-06 09:10:16,done
+0002020027,CLIK,Click Holdings Ltd.,Nasdaq,2026-04-06 09:10:17,done
+0000748592,ERNA,Ernexa Therapeutics Inc.,Nasdaq,2026-04-06 09:15:55,done
+0001985062,PBM,PSYENCE BIOMEDICAL LTD.,Nasdaq,2026-04-06 10:44:13,done
+0001557798,CIIT,"Tianci International, Inc.",Nasdaq,2026-04-06 09:10:20,done
+0001709626,NCNA,NuCana plc,Nasdaq,2026-04-06 09:10:21,done
+0000793628,CHNR,CHINA NATURAL RESOURCES INC,Nasdaq,2026-04-06 09:10:22,done
+0001757715,ATER,"Aterian, Inc.",Nasdaq,2026-04-06 09:10:23,done
+0000885307,JCTC,JEWETT CAMERON TRADING CO LTD,Nasdaq,2026-04-06 09:10:24,done
+0001701963,VS,Versus Systems Inc.,Nasdaq,2026-04-06 09:10:24,done
+0001870144,CDIO,"Cardio Diagnostics Holdings, Inc.",Nasdaq,2026-04-06 10:41:03,done
+0002032545,CJMB,CALLAN JMB INC.,Nasdaq,2026-04-06 09:10:26,done
+0001808377,LUCY,Innovative Eyewear Inc,Nasdaq,2026-04-06 10:39:30,done
+0001903595,TBH,"Brag House Holdings, Inc.",Nasdaq,2026-04-06 09:10:27,done
+0001546296,IPDN,"Professional Diversity Network, Inc.",Nasdaq,2026-04-06 09:10:28,done
+0001892322,HTCR,"HeartCore Enterprises, Inc.",Nasdaq,2026-04-06 09:10:28,done
+0002024876,EDHL,Everbright Digital Holding Ltd.,Nasdaq,2026-04-06 09:10:29,done
+0001755237,CYCN,"Cyclerion Therapeutics, Inc.",Nasdaq,2026-04-06 09:10:30,done
+0000887151,CAPS,Capstone Holding Corp.,Nasdaq,2026-04-06 09:10:30,done
+0001494558,AMBO,Ambow Education Holding Ltd.,NYSE,2026-04-06 09:10:31,done
+0001997637,IOTR,iOThree Ltd,Nasdaq,2026-04-06 09:10:32,done
+0001941029,ADVB,Advanced Biomed Inc.,Nasdaq,2026-04-06 09:10:32,done
+0001948864,HCWC,HEALTHY CHOICE WELLNESS CORP.,NYSE,2026-04-06 09:10:33,done
+0001737523,BGLC,BioNexus Gene Lab Corp,Nasdaq,2026-04-06 09:10:34,done
+0001875016,YMAT,"J-Star Holding Co., Ltd.",Nasdaq,2026-04-06 09:10:34,done
+0001874252,QUCY,MAINZ BIOMED N.V.,Nasdaq,2026-04-06 09:10:35,done
+0001770236,MITQ,MOVING iMAGE TECHNOLOGIES INC.,NYSE,2026-04-06 09:10:35,done
+0001680048,MBIO,"MUSTANG BIO, INC.",Nasdaq,2026-04-06 09:10:36,done
+0001932072,LOBO,LOBO TECHNOLOGIES LTD.,Nasdaq,2026-04-06 09:10:37,done
+0001435064,CETX,CEMTREX INC,Nasdaq,2026-04-06 09:10:38,done
+0001936817,HXHX,Haoxin Holdings Ltd,Nasdaq,2026-04-06 09:10:38,done
+0001468929,NXGL,"NEXGEL, INC.",Nasdaq,2026-04-06 09:17:20,done
+0001805594,JWEL,Jowell Global Ltd.,Nasdaq,2026-04-06 09:10:39,done
+0001938865,WAI,Top KingWin Ltd,Nasdaq,2026-04-06 09:10:40,done
+0001905511,JCSE,JE Cleantech Holdings Ltd,Nasdaq,2026-04-06 09:10:41,done
+0001787803,WNW,Meiwu Technology Co Ltd,Nasdaq,2026-04-06 09:10:42,done
+0002033770,DAIC,"CID Holdco, Inc.",Nasdaq,2026-04-06 10:49:12,done
+0001826376,GSUN,Golden Sun Technology Group Ltd.,Nasdaq,2026-04-06 09:10:44,done
+0001881472,MEGL,Magic Empire Global Ltd,Nasdaq,2026-04-06 09:10:44,done
+0001725430,INBS,INTELLIGENT BIO SOLUTIONS INC.,Nasdaq,2026-04-06 09:10:45,done
+0000746210,TWAV,"TaoWeave, Inc.",Nasdaq,2026-04-06 09:10:46,done
+0002003977,CRE,Cre8 Enterprise Ltd,Nasdaq,2026-04-06 09:10:46,done
+0001584547,GP,GREENPOWER MOTOR Co INC.,Nasdaq,2026-04-06 09:10:47,done
+0001810467,SNTG,Sentage Holdings Inc.,Nasdaq,2026-04-06 09:10:48,done
+0001937737,MLEC,Moolec Science SA,Nasdaq,2026-04-06 10:43:58,done
+0001402328,SBFM,Sunshine Biopharma Inc.,Nasdaq,2026-04-06 09:17:14,done
+0001574235,PULM,"Pulmatrix, Inc.",Nasdaq,2026-04-06 09:10:50,done
+0001591956,ANY,Sphere 3D Corp.,Nasdaq,2026-04-06 09:10:50,done
+0001178697,SONM,"DNA X, Inc.",Nasdaq,2026-04-06 09:10:51,done
+0001662774,QNCX,"Quince Therapeutics, Inc.",Nasdaq,2026-04-06 09:10:52,done
+0001789299,WTO,UTime Ltd,Nasdaq,2026-04-06 09:10:53,done
+0001413745,YDKG,Yueda Digital Holding,Nasdaq,2026-04-06 09:10:53,done
+0001514183,SILO,"Silo Pharma, Inc.",Nasdaq,2026-04-06 09:10:54,done
+0001958713,MI,NFT Ltd,NYSE,2026-04-06 09:10:55,done
+0002003061,STFS,Star Fashion Culture Holdings Ltd,Nasdaq,2026-04-06 09:10:55,done
+0001695295,HYFM,"HYDROFARM HOLDINGS GROUP, INC.",Nasdaq,2026-04-06 09:10:56,done
+0001446159,AGPU,Axe Compute Inc.,Nasdaq,2026-04-06 09:10:57,done
+0000105744,GBR,"New Concept Energy, Inc.",NYSE,2026-04-06 09:10:57,done
+0001617867,AMIX,"Autonomix Medical, Inc.",Nasdaq,2026-04-06 09:10:59,done
+0001991261,SKK,SKK Holdings Ltd,Nasdaq,2026-04-06 09:10:59,done
+0002041338,TDIC,Dreamland Ltd,Nasdaq,2026-04-06 09:11:00,done
+0001814963,ILAG,Intelligent Living Application Group Inc.,Nasdaq,2026-04-06 09:11:01,done
+0001640384,LMFA,"LM FUNDING AMERICA, INC.",Nasdaq,2026-04-06 09:11:02,done
+0001892292,MSS,Maison Solutions Inc.,Nasdaq,2026-04-06 09:11:03,done
+0001847345,ASBP,"Aspire Biopharma Holdings, Inc.",Nasdaq,2026-04-06 10:39:43,done
+0001887673,WLDS,Wearable Devices Ltd.,Nasdaq,2026-04-06 10:41:12,done
+0000721693,CREG,Smart Powerr Corp.,Nasdaq,2026-04-06 09:11:06,done
+0001588084,TANH,TANTECH HOLDINGS LTD,Nasdaq,2026-04-06 09:11:07,done
+0001868419,CYCU,"Cycurion, Inc.",Nasdaq,2026-04-06 10:40:29,done
+0001637147,ZSPC,"zSpace, Inc.",Nasdaq,2026-04-06 09:11:08,done
+0001621672,SLE,"Super League Enterprise, Inc.",Nasdaq,2026-04-06 09:11:09,done
+0001853070,SOAR,"Volato Group, Inc.",NYSE,2026-04-06 09:11:10,done
+0002030954,XHLD,"TEN Holdings, Inc.",Nasdaq,2026-04-06 09:11:10,done
+0001497253,VIVS,"VivoSim Labs, INC.",Nasdaq,2026-04-06 09:11:11,done
+0001810560,REVB,"REVELATION BIOSCIENCES, INC.",Nasdaq,2026-04-06 10:39:31,done
+0001793895,CDTG,CDT Environmental Technology Investment Holdings Ltd,Nasdaq,2026-04-06 09:11:12,done
+0001855509,VEEE,"Twin Vee PowerCats, Co.",Nasdaq,2026-04-06 09:11:13,done
+0001898604,VSTD,Vestand Inc.,Nasdaq,2026-04-06 09:11:13,done
+0001622345,POLA,"Polar Power, Inc.",Nasdaq,2026-04-06 09:11:14,done
+0001701478,AZTR,"Azitra, Inc.",NYSE,2026-04-06 09:11:15,done
+0001964664,ORIS,ORIENTAL RISE HOLDINGS Ltd,Nasdaq,2026-04-06 09:11:16,done
+0002022416,SLXN,Silexion Therapeutics Corp,Nasdaq,2026-04-06 10:47:58,done
+0001979610,WXM,WF International Ltd.,Nasdaq,2026-04-06 09:11:17,done
+0001638287,MTVA,MetaVia Inc.,Nasdaq,2026-04-06 09:11:18,done
+0001747661,ZNB,Zeta Network Group,Nasdaq,2026-04-06 09:11:18,done
+0001889823,DFSC,DEFSEC Technologies Inc.,Nasdaq,2026-04-06 10:41:13,done
+0001825452,ONFO,"Onfolio Holdings, Inc",Nasdaq,2026-04-06 10:39:33,done
+0001001907,ASTC,ASTROTECH Corp,Nasdaq,2026-04-06 09:11:21,done
+0001857044,INDP,"Indaptus Therapeutics, Inc.",Nasdaq,2026-04-06 09:11:22,done
+0001738758,CHR,"Cheer Holding, Inc.",Nasdaq,2026-04-06 09:11:23,done
+0001677077,ALZN,"Alzamend Neuro, Inc.",Nasdaq,2026-04-06 09:11:24,done
+0001957413,DCX,Digital Currency X Technology Inc.,Nasdaq,2026-04-06 09:11:24,done
+0001811216,BAOS,Baosheng Media Group Holdings Ltd,Nasdaq,2026-04-06 09:11:25,done
+0001585608,JAGX,"Jaguar Health, Inc.",Nasdaq,2026-04-06 09:11:26,done
+0001853816,DRMA,"Dermata Therapeutics, Inc.",Nasdaq,2026-04-06 10:40:08,done
+0001553846,RDHL,RedHill Biopharma Ltd.,Nasdaq,2026-04-06 09:11:28,done
+0001590418,FCUV,FOCUS UNIVERSAL INC.,Nasdaq,2026-04-06 09:11:29,done
+0001650101,ATXG,ADDENTAX GROUP CORP.,Nasdaq,2026-04-06 09:11:30,done
+0001692415,CODX,"Co-Diagnostics, Inc.",Nasdaq,2026-04-06 09:11:31,done
+0001946563,SXTP,"60 DEGREES PHARMACEUTICALS, INC.",Nasdaq,2026-04-06 10:43:59,done
+0001757499,SHPH,"Shuttle Pharmaceuticals Holdings, Inc.",Nasdaq,2026-04-06 09:11:32,done
+0001814067,LXEH,Lixiang Education Holding Co. Ltd.,Nasdaq,2026-04-06 09:11:33,done
+0001367083,SNOA,"Sonoma Pharmaceuticals, Inc.",Nasdaq,2026-04-06 09:11:34,done
+0001959023,RENX,RenX Enterprises Corp.,Nasdaq,2026-04-06 09:11:34,done
+0000744452,BNBX,BNB PLUS CORP.,Nasdaq,2026-04-06 09:11:35,done
+0001582554,MTNB,"Matinas BioPharma Holdings, Inc.",NYSE,2026-04-06 09:11:36,done
+0001815021,BQ,Boqii Holding Ltd,NYSE,2026-04-06 09:11:36,done
+0001026785,HIHO,HIGHWAY HOLDINGS LTD,Nasdaq,2026-04-06 09:11:37,done
+0001603978,AQB,AQUABOUNTY TECHNOLOGIES INC,Nasdaq,2026-04-06 09:11:38,done
+0001812727,EZRA,"Reliance Global Group, Inc.",Nasdaq,2026-04-06 09:11:39,done
+0001776067,OCG,Oriental Culture Holding LTD,Nasdaq,2026-04-06 09:11:39,done
+0001630212,ALBT,Avalon GloboCare Corp.,Nasdaq,2026-04-06 09:11:40,done
+0001691221,FRSX,Foresight Autonomous Holdings Ltd.,Nasdaq,2026-04-06 09:11:41,done
+0001975940,FLYE,"Fly-E Group, Inc.",Nasdaq,2026-04-06 09:11:41,done
+0001986247,BYAH,"Park Ha Biological Technology Co., Ltd.",Nasdaq,2026-04-06 09:11:42,done
+0000882291,AEMD,AETHLON MEDICAL INC,Nasdaq,2026-04-06 09:11:42,done
+0001735556,BTOG,BIT ORIGIN Ltd,Nasdaq,2026-04-06 09:11:43,done
+0001615219,DCOY,Decoy Therapeutics Inc.,Nasdaq,2026-04-06 09:11:44,done
+0001946703,WBUY,WEBUY GLOBAL LTD,Nasdaq,2026-04-06 09:11:44,done
+0001837254,MEHA,Functional Brands Inc.,Nasdaq,2026-04-06 09:11:45,done
+0001789192,NXTS,Nexentis Technologies Inc.,Nasdaq,2026-04-06 09:11:46,done
+0001595353,GLMD,Galmed Pharmaceuticals Ltd.,Nasdaq,2026-04-06 09:11:46,done
+0001824293,GRI,"GRI Bio, Inc.",Nasdaq,2026-04-06 09:11:47,done
+0001930510,VCIG,VCI Global Ltd,Nasdaq,2026-04-06 09:11:48,done
+0001080657,SQFT,"Presidio Property Trust, Inc.",Nasdaq,2026-04-06 09:16:05,done
+0001469443,RKDA,"Arcadia Biosciences, Inc.",Nasdaq,2026-04-06 09:11:49,done
+0001978527,GVH,Globavend Holdings Ltd,Nasdaq,2026-04-06 09:11:50,done
+0001976695,MNDR,Mobile-health Network Solutions,Nasdaq,2026-04-06 09:11:50,done
+0001923780,NCL,Northann Corp.,NYSE,2026-04-06 09:11:51,done
+0000832489,GOVX,"GeoVax Labs, Inc.",Nasdaq,2026-04-06 09:11:52,done
+0001839285,HCTI,"Healthcare Triangle, Inc.",Nasdaq,2026-04-06 09:11:52,done
+0001743745,GNLN,"Greenlane Holdings, Inc.",Nasdaq,2026-04-06 09:11:53,done
+0001713210,ATPC,Agape ATP Corp,Nasdaq,2026-04-06 09:11:54,done
+0001821424,UK,Ucommune International Ltd,Nasdaq,2026-04-06 09:11:54,done
+0002022308,KIDZ,"Classover Holdings, Inc.",Nasdaq,2026-04-06 10:47:57,done
+0001358190,ITP,"IT TECH PACKAGING, INC.",NYSE,2026-04-06 09:11:56,done
+0001780785,CNEY,CN ENERGY GROUP. INC.,Nasdaq,2026-04-06 09:11:56,done
+0001849820,KITT,"Nauticus Robotics, Inc.",Nasdaq,2026-04-06 10:39:49,done
+0001792030,IMCC,IM Cannabis Corp.,Nasdaq,2026-04-06 09:11:58,done
+0001106644,CPHI,"CHINA PHARMA HOLDINGS, INC.",NYSE,2026-04-06 09:11:58,done
+0002012096,PMAX,Powell Max Ltd,Nasdaq,2026-04-06 09:11:59,done
+0001595248,GNPX,"Genprex, Inc.",Nasdaq,2026-04-06 09:12:00,done
+0001130166,BGMS,"Bio Green Med Solution, Inc.",Nasdaq,2026-04-06 09:12:01,done
+0002018529,NCT,Intercont (Cayman) Ltd,Nasdaq,2026-04-06 09:12:01,done
+0000946644,AIM,AIM ImmunoTech Inc.,NYSE,2026-04-06 09:12:02,done
+0002015691,ELPW,Elong Power Holding Ltd.,Nasdaq,2026-04-06 09:12:02,done
+0001554818,AUUD,AUDDIA INC.,Nasdaq,2026-04-06 09:12:03,done
+0001956741,ZONE,"CleanCore Solutions, Inc.",NYSE,2026-04-06 09:12:04,done
+0002018222,JEM,707 Cayman Holdings Ltd.,Nasdaq,2026-04-06 09:12:04,done
+0001701756,SDOT,Sadot Group Inc.,Nasdaq,2026-04-06 09:12:05,done
+0001422892,SGLY,Singularity Future Technology Ltd.,Nasdaq,2026-04-06 09:12:06,done
+0001788230,IPST,"IP STRATEGY HOLDINGS, INC.",Nasdaq,2026-04-06 09:12:06,done
+0001687542,FRGT,"Freight Technologies, Inc.",Nasdaq,2026-04-06 09:12:07,done
+0001589149,GWAV,"Greenwave Technology Solutions, Inc.",Nasdaq,2026-04-06 09:12:07,done
+0001951294,VSME,VS MEDIA Holdings Ltd,Nasdaq,2026-04-06 09:12:08,done
+0001756180,NCRA,"NOCERA, INC.",Nasdaq,2026-04-06 09:12:09,done
+0001781193,QH,QUHUO Ltd,Nasdaq,2026-04-06 09:12:09,done
+0001414767,NCPL,Netcapital Inc.,Nasdaq,2026-04-06 09:17:14,done
+0001532619,PW,Power REIT,NYSE,2026-04-06 09:17:24,done
+0001397183,IVDA,"Iveda Solutions, Inc.",Nasdaq,2026-04-06 09:17:14,done
+0001995574,ICON,Icon Energy Corp,Nasdaq,2026-04-06 09:12:12,done
+0001326706,FEED,"ENvue Medical, Inc.",Nasdaq,2026-04-06 09:12:13,done
+0000890821,ENVB,"Enveric Biosciences, Inc.",Nasdaq,2026-04-06 09:12:13,done
+0001716621,VTAK,"Catheter Precision, Inc.",NYSE,2026-04-06 09:12:14,done
+0001855485,CLDI,"Calidi Biotherapeutics, Inc.",NYSE,2026-04-06 09:12:15,done
+0001785056,TRNR,"Interactive Strength, Inc.",Nasdaq,2026-04-06 09:12:16,done
+0001086745,SBLX,"StableX Technologies, Inc.",Nasdaq,2026-04-06 09:12:16,done
+0001854963,SHFS,"SHF Holdings, Inc.",Nasdaq,2026-04-06 10:40:09,done
+0001506492,NUWE,"Nuwellis, Inc.",Nasdaq,2026-04-06 09:12:18,done
+0001499494,DXF,Eason Technology Ltd,NYSE,2026-04-06 09:12:18,done
+0001944712,BIYA,Baiya International Group Inc.,Nasdaq,2026-04-06 09:12:19,done
+0001787740,TIVC,"Tivic Health Systems, Inc.",Nasdaq,2026-04-06 09:12:19,done
+0001894525,APUS,"Apimeds Pharmaceuticals US, Inc.",NYSE,2026-04-06 09:12:20,done
+0001513525,ADIL,"ADIAL PHARMACEUTICALS, INC.",Nasdaq,2026-04-06 09:12:20,done
+0001174940,OGEN,ORAGENICS INC,NYSE,2026-04-06 09:12:21,done
+0001828673,HCWB,HCW Biologics Inc.,Nasdaq,2026-04-06 09:12:22,done
+0001603993,AIOS,AIOS Tech Inc.,Nasdaq,2026-04-06 09:12:22,done
+0001943421,RUBI,Rubico Inc.,Nasdaq,2026-04-06 09:12:23,done
+0001376321,CNET,ZW Data Action Technologies Inc.,Nasdaq,2026-04-06 09:12:24,done
+0001857086,TRUG,"TruGolf Holdings, Inc.",Nasdaq,2026-04-06 09:12:25,done
+0001218683,MIGI,Mawson Infrastructure Group Inc.,Nasdaq,2026-04-06 09:12:26,done
+0001817760,SMTK,"SmartKem, Inc.",Nasdaq,2026-04-06 09:12:26,done
+0001611746,SPRC,SciSparc Ltd.,Nasdaq,2026-04-06 09:12:27,done
+0001754323,XTKG,"X3 Holdings Co., Ltd.",Nasdaq,2026-04-06 09:12:27,done
+0002023796,FCHL,Fitness Champs Holdings Ltd,Nasdaq,2026-04-06 09:12:28,done
+0001951067,CISS,C3is Inc.,Nasdaq,2026-04-06 09:12:28,done
+0001705402,AGMH,"AGM GROUP HOLDINGS, INC.",Nasdaq,2026-04-06 09:12:29,done
+0001211805,MYSZ,"My Size, Inc.",Nasdaq,2026-04-06 09:12:30,done
+0001668438,IMTE,Integrated Media Technology Ltd,Nasdaq,2026-04-06 09:12:31,done
+0001419554,BBLG,Bone Biologics Corp,Nasdaq,2026-04-06 09:17:18,done
+0001880613,DRCT,"Direct Digital Holdings, Inc.",Nasdaq,2026-04-06 09:12:32,done
+0001924482,IBG,Innovation Beverage Group Ltd,Nasdaq,2026-04-06 09:12:33,done
+0001813783,VMAR,Vision Marine Technologies Inc.,Nasdaq,2026-04-06 09:12:33,done
+0001704287,BJDX,"Bluejay Diagnostics, Inc.",Nasdaq,2026-04-06 09:12:34,done
+0001674227,WORX,SCWorx Corp.,Nasdaq,2026-04-06 09:12:35,done
+0001470683,AEHL,Antelope Enterprise Holdings Ltd,Nasdaq,2026-04-06 09:12:35,done
+0001716947,ENSC,"Ensysce Biosciences, Inc.",Nasdaq,2026-04-06 09:12:36,done
+0001611747,SCNI,Scinai Immunotherapeutics Ltd.,Nasdaq,2026-04-06 09:12:37,done
+0001728328,INM,InMed Pharmaceuticals Inc.,Nasdaq,2026-04-06 09:12:37,done
+0001976908,JDZG,JIADE Ltd,Nasdaq,2026-04-06 09:12:38,done
+0001830072,IPW,iPower Inc.,Nasdaq,2026-04-06 09:12:39,done
+0001935172,AIXI,Xiao-I Corp,Nasdaq,2026-04-06 09:12:39,done
+0001892500,CMND,Clearmind Medicine Inc.,Nasdaq,2026-04-06 09:12:40,done
+0001517681,PPCB,"Propanc Biopharma, Inc.",Nasdaq,2026-04-06 09:12:41,done
+0001801834,PRFX,PRF Technologies Ltd.,Nasdaq,2026-04-06 09:12:41,done
+0001742341,HKIT,HiTek Global Inc.,Nasdaq,2026-04-06 09:12:42,done
+0001931717,CCTG,CCSC Technology International Holdings Ltd,Nasdaq,2026-04-06 09:12:42,done
+0001648087,AREB,AMERICAN REBEL HOLDINGS INC,Nasdaq,2026-04-06 09:17:28,done
+0001879403,LRHC,La Rosa Holdings Corp.,Nasdaq,2026-04-06 09:12:44,done
+0001809616,UPC,Universe Pharmaceuticals INC,Nasdaq,2026-04-06 09:12:44,done
+0001912884,RPGL,Republic Power Group Ltd,Nasdaq,2026-04-06 09:12:44,done
+0001929783,WOK,WORK Medical Technology Group LTD,Nasdaq,2026-04-06 09:12:45,done
+0001948099,MTEN,Mingteng International Corp Inc.,Nasdaq,2026-04-06 09:12:46,done
+0001527541,WHLR,"Wheeler Real Estate Investment Trust, Inc.",Nasdaq,2026-04-06 09:17:24,done
+0001901215,BNRG,Brenmiller Energy Ltd.,Nasdaq,2026-04-06 09:12:48,done
+0001885408,JFBR,Jeffs' Brands Ltd,Nasdaq,2026-04-06 10:41:10,done
+0001825875,RAYA,Erayak Power Solution Group Inc.,Nasdaq,2026-04-06 09:12:49,done
+0001729427,CNSP,"CNS Pharmaceuticals, Inc.",Nasdaq,2026-04-06 09:12:49,done
+0001558569,ISPC,iSpecimen Inc.,Nasdaq,2026-04-06 09:12:50,done
+0001888014,AKAN,AKANDA CORP.,Nasdaq,2026-04-06 09:12:50,done
+0001985337,YYGH,YY Group Holding Ltd.,Nasdaq,2026-04-06 09:12:51,done
+0001896212,CDT,CDT Equity Inc.,Nasdaq,2026-04-06 10:41:17,done
+0001651721,GIPR,"GENERATION INCOME PROPERTIES, INC.",Nasdaq,2026-04-06 09:17:29,done
+0001782107,ONCO,"Onconetix, Inc.",Nasdaq,2026-04-06 09:12:53,done
+0001425627,SOBR,"SOBR Safe, Inc.",Nasdaq,2026-04-06 09:12:53,done
+0001816172,JZXN,"Jiuzi Holdings, Inc.",Nasdaq,2026-04-06 09:12:54,done
+0001939780,UCAR,U Power Ltd,Nasdaq,2026-04-06 09:12:55,done
+0001347858,XXII,"22nd Century Group, Inc.",Nasdaq,2026-04-06 09:12:55,done
+0001885827,VRAX,Virax Biolabs Group Ltd,Nasdaq,2026-04-06 09:12:56,done
+0001553788,SBEV,"SPLASH BEVERAGE GROUP, INC.",NYSE,2026-04-06 09:12:57,done
+0001624512,BOXL,Boxlight Corp,Nasdaq,2026-04-06 09:12:57,done
+0001928581,GMEX,GMEX Robotics Corp,Nasdaq,2026-04-06 09:12:58,done
+0001836875,NVVE,Nuvve Holding Corp.,Nasdaq,2026-04-06 09:12:58,done
+0001892274,GV,Visionary Holdings Inc.,Nasdaq,2026-04-06 09:12:59,done
+0001723980,SXTC,"China SXT Pharmaceuticals, Inc.",Nasdaq,2026-04-06 09:12:59,done
+0001989930,FGL,Founder Group Ltd,Nasdaq,2026-04-06 09:13:00,done
+0001981662,NIVF,NewGenIvf Group Ltd,Nasdaq,2026-04-06 10:44:12,done
+0001506983,GCTK,"Glucotrack, Inc.",Nasdaq,2026-04-06 09:13:01,done
+0001841675,ARBK,Argo Blockchain Plc,Nasdaq,2026-04-06 09:13:02,done
+0001840563,ELAB,PMGC Holdings Inc.,Nasdaq,2026-04-06 09:13:02,done
+0001592560,VSA,VisionSys AI Inc,Nasdaq,2026-04-06 09:13:03,done
+0001856084,RDGT,Ridgetech Inc.,Nasdaq,2026-04-06 09:13:04,done
+0001809750,EDBL,Edible Garden AG Inc,Nasdaq,2026-04-06 10:39:30,done
+0001751876,PAVS,Paranovus Entertainment Technology Ltd.,Nasdaq,2026-04-06 09:13:05,done
+0001859807,PFSA,"Profusa, Inc.",Nasdaq,2026-04-06 09:13:06,done
+0001729214,XRTX,XORTX Therapeutics Inc.,Nasdaq,2026-04-06 09:13:07,done
+0001643918,BDRX,Biodexa Pharmaceuticals Plc,Nasdaq,2026-04-06 09:13:07,done
+0001726711,ADTX,"Aditxt, Inc.",Nasdaq,2026-04-06 09:13:08,done
+0001342958,KUST,"KUSTOM ENTERTAINMENT, INC.",Nasdaq,2026-04-06 09:13:09,done
+0001806524,LGHL,Lion Group Holding Ltd,Nasdaq,2026-04-06 09:13:10,done
+0001905660,HUBC,Hub Cyber Security Ltd.,Nasdaq,2026-04-06 10:41:20,done
+0001972074,LNKS,Linkers Industries Ltd,Nasdaq,2026-04-06 09:13:11,done
+0001896425,LBGJ,Li Bang International Corp Inc.,Nasdaq,2026-04-06 09:13:12,done
+0000068622,CTBB,QWEST CORP,NYSE,2026-04-06 09:15:50,done
+0000070502,NRUC,NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORP /DC/,NYSE,2026-04-06 09:13:15,done
+0000823277,CHSCP,CHS INC,Nasdaq,2026-04-06 09:15:58,done
+0000894556,CITR,CitroTech Inc.,NYSE,2026-04-06 09:13:16,done
+0001046179,TSM,TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD,NYSE,2026-04-06 09:13:17,done
+0001254699,QVCD,QVC INC,NYSE,2026-04-06 09:17:12,done
+0001267332,IPB,MERRILL LYNCH DEPOSITOR INC INDEXPLUS TRUST SERIES 2003-1,NYSE,2026-04-06 09:13:18,done
+0001283337,KTN,STRUCTURED PRODUCTS CORP CRED ENHANCE CORTS TR FOR AON CAP A,NYSE,2026-04-06 09:13:18,done
+0001283464,KTH,STRUCTURED PRODUCTS CORP CORTS TR FOR PECO ENERGY CAP TR III,NYSE,2026-04-06 09:13:19,done
+0001284143,JBK,LEHMAN ABS CORP GOLDMAN SACHS CAP 1 SEC BACKED SER 2004-6,NYSE,2026-04-06 09:13:19,done
+0001286405,GJH,STRATS SM TRUST FOR U S CELL CORP SEC SERIES 2004 6,NYSE,2026-04-06 09:13:20,done
+0001294808,PYT,PPLUS Trust Series GSC-2,NYSE,2026-04-06 09:13:21,done
+0001340909,GJO,"STRATS SM TRUST FOR WAL-MART STORES, INC. SECURITIES, SERIES 2005-4",NYSE,2026-04-06 09:13:21,done
+0001343491,GJP,"STRATS(SM) TRUST FOR DOMINION RESOURCES, INC. SECURITIES, SERIES 2005-6",NYSE,2026-04-06 09:13:22,done
+0001348952,ELC,"ENTERGY LOUISIANA, LLC",NYSE,2026-04-06 09:13:22,done
+0001353226,GJR,"STRATS(SM) Trust for Procter & Gamble Securities, Series 2006-1",NYSE,2026-04-06 09:13:23,done
+0001353611,FXB,Invesco CurrencyShares British Pound Sterling Trust,NYSE,2026-04-06 09:13:23,done
+0001353612,FXC,Invesco CurrencyShares Canadian Dollar Trust,NYSE,2026-04-06 09:13:24,done
+0001353614,FXA,Invesco CurrencyShares Australian Dollar Trust,NYSE,2026-04-06 09:13:24,done
+0001353615,FXF,Invesco CurrencyShares Swiss Franc Trust,NYSE,2026-04-06 09:13:25,done
+0001356284,GJS,"STRATS(SM) Trust for Goldman Sachs Group Securities, Series 2006-2",NYSE,2026-04-06 09:13:26,done
+0001357660,GJT,"STRATS(SM) Trust for Allstate Corp Securities, Series 2006-3",NYSE,2026-04-06 09:13:26,done
+0001383149,UDN,INVESCO DB US DOLLAR INDEX BEARISH FUND,NYSE,2026-04-06 09:13:27,done
+0001383151,UUP,Invesco DB US Dollar Index Bullish Fund,NYSE,2026-04-06 09:13:28,done
+0001396878,UGA,"United States Gasoline Fund, LP",NYSE,2026-04-06 09:13:29,done
+0001403528,OAK-PA,"Brookfield Oaktree Holdings, LLC",NYSE,2026-04-06 09:14:30,done
+0001405513,UNL,"United States 12 Month Natural Gas Fund, LP",NYSE,2026-04-06 09:13:30,done
+0001405528,USL,"United States 12 Month Oil Fund, LP",NYSE,2026-04-06 09:13:31,done
+0001427437,ETI-P,"ENTERGY TEXAS, INC.",NYSE,2026-04-06 09:13:31,done
+0001450922,SIVR,abrdn Silver ETF Trust,NYSE,2026-04-06 09:13:32,done
+0001450923,SGOL,abrdn Gold ETF Trust,NYSE,2026-04-06 09:13:33,done
+0001459862,PALL,abrdn Palladium ETF Trust,NYSE,2026-04-06 09:13:34,done
+0001460235,PPLT,abrdn Platinum ETF Trust,NYSE,2026-04-06 09:13:35,done
+0001460702,AIXC,"AIxCrypto Holdings, Inc.",Nasdaq,2026-04-06 09:13:36,done
+0001464343,ATLCP,Atlanticus Holdings Corp,Nasdaq,2026-04-06 09:17:19,done
+0001472494,BNO,"United States Brent Oil Fund, LP",NYSE,2026-04-06 09:13:38,done
+0001479247,USCI,United States Commodity Index Funds Trust,NYSE,2026-04-06 09:17:21,done
+0001483386,GLTR,abrdn Precious Metals Basket ETF Trust,NYSE,2026-04-06 09:13:39,done
+0001546652,OUNZ,VanEck Merk Gold ETF,NYSE,2026-04-06 09:13:40,done
+0001551047,BPRE,Bluerock Private Real Estate Fund,NYSE,2026-04-06 09:13:40,done
+0001561032,NHPAP,"National Healthcare Properties, Inc.",Nasdaq,2026-04-06 09:17:26,done
+0001577134,TFSA,"Terra Income Fund 6, LLC",NYSE,2026-04-06 09:13:42,done
+0001610940,BDRY,Amplify Commodity Trust,NYSE,2026-04-06 09:17:28,done
+0001618181,GLDM,World Gold Trust,NYSE,2026-04-06 09:13:44,done
+0001674356,TPTA,"Terra Property Trust, Inc.",NYSE,2026-04-06 09:13:45,done
+0001681348,VIVO,VivoPower PLC,Nasdaq,2026-04-06 09:13:46,done
+0001690012,ICR-PA,"InPoint Commercial Real Estate Income, Inc.",NYSE,2026-04-06 09:13:47,done
+0001690437,BAR,GraniteShares Gold Trust,NYSE,2026-04-06 09:13:47,done
+0001690842,PLTM,GraniteShares Platinum Trust,NYSE,2026-04-06 09:13:48,done
+0001702780,OPTU,"Optimum Communications, Inc.",NYSE,2026-04-06 09:13:49,done
+0001723788,BITW,Bitwise 10 Crypto Index ETF,NYSE,2026-04-06 09:13:49,done
+0001725210,ETHE,Grayscale Ethereum Staking ETF,NYSE,2026-04-06 09:13:50,done
+0001759124,IAUM,iShares Gold Trust Micro,NYSE,2026-04-06 09:13:51,done
+0001763415,BITB,Bitwise Bitcoin ETF,NYSE,2026-04-06 09:13:51,done
+0001767057,OBTC,Osprey Bitcoin Trust,Nasdaq,2026-04-06 09:13:52,done
+0001784930,MAKO,Mako Mining Corp.,Nasdaq,2026-04-06 09:13:55,done
+0001841175,BRRR,CoinShares Bitcoin ETF,Nasdaq,2026-04-06 09:13:55,done
+0001841644,PICS,PicS N.V.,Nasdaq,2026-04-06 09:13:56,done
+0001852025,GLNK,Grayscale Chainlink Trust ETF,NYSE,2026-04-06 09:13:56,done
+0001858258,FGDL,Franklin Templeton Holdings Trust,NYSE,2026-04-06 09:13:57,done
+0001867090,VCX,"Fundrise Innovation Fund, LLC",NYSE,2026-04-06 09:13:58,done
+0001896036,EIIA,Eagle Point Institutional Income Fund,NYSE,2026-04-06 09:13:58,done
+0001896677,GSOL,Grayscale Solana Staking ETF,NYSE,2026-04-06 09:13:59,done
+0001958928,CTWO,COTWO ADVISORS PHYSICAL EUROPEAN CARBON ALLOWANCE TRUST,NYSE,2026-04-06 09:14:00,done
+0001980994,IBIT,iShares Bitcoin Trust ETF,Nasdaq,2026-04-06 09:14:00,done
+0001985840,DEFI,Hashdex Commodities Trust,NYSE,2026-04-06 09:14:01,done
+0002000638,ETHA,iShares Ethereum Trust ETF,Nasdaq,2026-04-06 09:14:01,done
+0002013744,ETHW,Bitwise Ethereum ETF,NYSE,2026-04-06 09:14:02,done
+0002015034,BTC,Grayscale Bitcoin Mini Trust ETF,NYSE,2026-04-06 09:14:02,done
+0002020455,ETH,Grayscale Ethereum Staking Mini ETF,NYSE,2026-04-06 09:14:03,done
+0002028707,MRLN,"Merlin, Inc.",Nasdaq,2026-04-06 09:14:03,done
+0002031069,NCIQ,Hashdex Nasdaq CME Crypto Index ETF,Nasdaq,2026-04-06 09:14:04,done
+0002034012,GSUI,Grayscale Sui Staking ETF,NYSE,2026-04-06 09:14:04,done
+0002035053,GAVA,Grayscale Avalanche Staking ETF,Nasdaq,2026-04-06 09:14:05,done
+0002037427,GXRP,Grayscale XRP Trust ETF,NYSE,2026-04-06 09:14:05,done
+0002039525,XRP,Bitwise XRP ETF,NYSE,2026-04-06 09:14:06,done
+0002041869,SOLC,Canary Marinade Solana ETF,Nasdaq,2026-04-06 09:14:07,done
+0002045872,BSOL,Bitwise Solana Staking ETF,NYSE,2026-04-06 09:14:07,done
+0002053791,BWOW,Bitwise Dogecoin ETF,NYSE,2026-04-06 09:14:08,done
+0002055510,GDOG,Grayscale Dogecoin Trust ETF,NYSE,2026-04-06 09:14:08,done
+0002057388,SOEZ,Franklin Solana Trust,NYSE,2026-04-06 09:14:09,done
+0002059438,XRPZ,Franklin XRP Trust,NYSE,2026-04-06 09:14:10,done
+0002060703,SUIS,Canary Staked SUI ETF,Nasdaq,2026-04-06 09:14:10,done
+0002060717,VAVX,VanEck Avalanche ETF,Nasdaq,2026-04-06 09:14:11,done
+0002061626,TSUI,21Shares Sui ETF,Nasdaq,2026-04-06 09:14:11,done
+0002063380,FSOL,Fidelity Solana Fund,NYSE,2026-04-06 09:14:12,done
+0002064314,TDOG,21Shares Dogecoin ETF,Nasdaq,2026-04-06 09:14:13,done
+0002065812,FSSL,FS Specialty Lending Fund,NYSE,2026-04-06 09:14:13,done
+0002070542,AIB,"BlockchAIn Digital Infrastructure, Inc.",NYSE,2026-04-06 09:14:14,done
+0002075320,PLYX,"Polaryx Therapeutics, Inc.",Nasdaq,2026-04-06 09:14:14,done
+0002076427,LATA,Galata Acquisition Corp. II,Nasdaq,2026-04-06 10:49:20,done
+0002078653,RNGT,Range Capital Acquisition Corp II,Nasdaq,2026-04-06 10:49:21,done
+0002082889,CLNK,Bitwise Chainlink ETF,NYSE,2026-04-06 09:14:16,done
+0002083910,ARCI,Archimedes Tech SPAC Partners III Co.,Nasdaq,2026-04-06 10:49:22,done
+0002085091,RVI,Robinhood Ventures Fund I,NYSE,2026-04-06 09:14:18,done
+0002087450,LEGO,Legato Merger Corp. IV,NYSE,2026-04-06 10:49:26,done
+0002088103,XFLH,XFLH Capital Corp,NYSE,2026-04-06 10:49:28,done
+0002091024,CLBR,Colombier Acquisition Corp. III,NYSE,2026-04-06 10:49:29,done
+0002097163,XNDU,Xanadu Quantum Technologies Ltd,Nasdaq,2026-04-06 09:14:21,done
+0002098242,SVIV,Spring Valley Acquisition Corp. IV,Nasdaq,2026-04-06 10:49:34,done
+0002099103,ETHB,iShares Staked Ethereum Trust ETF,Nasdaq,2026-04-06 09:14:22,done
+0002100125,CAQ,Cambridge Acquisition Corp.,Nasdaq,2026-04-06 10:49:37,done
+0002100805,JAN,"Janus Living, Inc.",NYSE,2026-04-06 09:14:24,done
+0002102713,KCAC-UN,Kensington Capital Acquisition Corp. VI,NYSE,2026-04-06 09:14:24,done
+0000030554,CTA-PB,"EIDP, Inc.",NYSE,2026-04-06 09:14:27,done
+0000797468,OXY,OCCIDENTAL PETROLEUM CORP /DE/,NYSE,2026-04-06 09:15:56,done
+0001124140,EXAS,EXACT SCIENCES CORP,Nasdaq,2026-04-06 09:14:28,done
+0001527469,ATH-PA,Athene Holding Ltd.,NYSE,2026-04-06 09:17:24,done
+0000800166,NGD,New Gold Inc. /FI,NYSE,2026-04-06 09:14:29,done
+0000039899,TGNA,TEGNA INC,NYSE,2026-04-06 09:14:31,done
+0001660734,TRTN-PA,Triton International Ltd,NYSE,2026-04-06 09:17:30,done
+0001267395,AHL-PE,ASPEN INSURANCE HOLDINGS LTD,NYSE,2026-04-06 09:17:12,done
+0001412100,MHLA,"Maiden Holdings, Ltd.",NYSE,2026-04-06 09:17:14,done
+0001598655,GLOP-PB,GasLog Partners LP,NYSE,2026-04-06 09:14:36,done
+0001542028,DVS,DOLLY VARDEN SILVER CORP,NYSE,2026-04-06 09:14:39,done
+0000761648,CDR-PC,"CEDAR REALTY TRUST, INC.",NYSE,2026-04-06 09:15:38,done
+0001301236,SOHOO,Sotherly Hotels Inc.,Nasdaq,2026-04-06 09:15:41,done
+0002037431,PELI,Pelican Acquisition Corp,Nasdaq,2026-04-06 10:49:13,done
+0001945422,OAKU,Oak Woods Acquisition Corp,Nasdaq,2026-04-06 10:43:59,done
+0000911216,PTN,PALATIN TECHNOLOGIES INC,NYSE,2026-04-06 09:15:42,done
+0001934945,TBMC,Trailblazer Merger Corp I,Nasdaq,2026-04-06 10:43:57,done
+0001376986,TVE,Tennessee Valley Authority,NYSE,2026-04-06 09:15:44,done
+0001738177,CMBM,Cambium Networks Corp,Nasdaq,2026-04-06 09:15:45,done
+0001659323,ITRM,Iterum Therapeutics plc,Nasdaq,2026-04-06 09:15:46,done
+0001949478,DTCK,DAVIS COMMODITIES Ltd,Nasdaq,2026-04-06 09:15:46,done
+0000092103,SCE-PG,SOUTHERN CALIFORNIA EDISON Co,NYSE,2026-04-06 09:15:52,done
+0000099070,TCPA,TRANSCANADA PIPELINES LTD,NYSE,2026-04-06 09:15:52,done
+0000312070,DJP,BARCLAYS BANK PLC,NYSE,2026-04-06 09:15:54,done
+0001039828,ANG-PD,American National Group Inc.,NYSE,2026-04-06 09:16:01,done
+0001053092,GLDI,CREDIT SUISSE AG,Nasdaq,2026-04-06 09:16:03,done
+0001114446,AMUB,UBS AG,NYSE,2026-04-06 09:17:11,done
+0001308106,SEAL-PA,Seapeak LLC,NYSE,2026-04-06 09:17:13,done
+0001415311,AGQ,ProShares Trust II,NYSE,2026-04-06 09:17:17,done
+0001471824,CANE,Teucrium Commodity Trust,NYSE,2026-04-06 09:17:21,done
+0001554625,PRIF-PD,"Priority Income Fund, Inc.",NYSE,2026-04-06 09:17:26,done
+0001606268,VIASP,"Via Renewables, Inc.",Nasdaq,2026-04-06 09:17:27,done
+0001818643,PHXE-P,"Phoenix Energy One, LLC",NYSE,2026-04-06 10:39:31,done
+0002054174,CHACR,Crane Harbor Acquisition Corp.,Nasdaq,2026-04-06 10:49:17,done
+0002078008,VGNT-WI,Versigent Ltd,NYSE,2026-04-06 10:49:20,done
+0002082847,BWIV-UN,Blue Water Acquisition Corp. IV,NYSE,2026-04-06 10:49:21,done
+0002083217,QADRU,QDRO Acquisition Corp.,Nasdaq,2026-04-06 10:49:21,done
+0002083946,WLIIU,Willow Lane Acquisition Corp. II,Nasdaq,2026-04-06 10:49:22,done
+0002085485,TRAD-UN,APEX Tech Acquisition Inc.,NYSE,2026-04-06 10:49:24,done
+0002087446,PAACU,Proem Acquisition Corp. I,Nasdaq,2026-04-06 10:49:25,done
+0002089982,HACQU,HCM IV Acquisition Corp.,Nasdaq,2026-04-06 10:49:28,done
+0002091176,IACOU,Idea Acquisition Corp.,Nasdaq,2026-04-06 10:49:30,done
+0002091484,GLED-UN,GalaxyEdge Acquisition Corp,NYSE,2026-04-06 10:49:30,done
+0002094073,CTAAU,Clearthink 1 Acquisition Corp.,Nasdaq,2026-04-06 10:49:31,done
+0002096900,ACAAU,Averin Capital Acquisition Corp.,Nasdaq,2026-04-06 10:49:31,done
+0002097288,BHAVU,BHAV Acquisition Corp,Nasdaq,2026-04-06 10:49:32,done
+0002097364,TMTSU,Spartacus Acquisition Corp. II,Nasdaq,2026-04-06 10:49:33,done
+0002097376,MZYX-UN,MOZAYYX Acquisition Corp.,NYSE,2026-04-06 10:49:33,done
+0002098780,TRGSU,TRG Latin America Acquisitions Corp.,Nasdaq,2026-04-06 10:49:35,done
+0002099232,FMACU,Future Money Acquisition Corp,Nasdaq,2026-04-06 10:49:35,done
+0002099906,AACOU,Abony Acquisition Corp. I,Nasdaq,2026-04-06 10:49:36,done
+0002101135,ILLUU,Illumination Acquisition Corp. I,Nasdaq,2026-04-06 10:49:38,done
+0002101562,PALOU,PALOMA ACQUISITION CORP I,Nasdaq,2026-04-06 10:49:38,done
+0002102041,IPFXU,Inflection Point Acquisition Corp. VI,Nasdaq,2026-04-06 10:49:39,done
+0002105838,SUMAU,SUMA Acquisition Corp,Nasdaq,2026-04-06 10:49:39,done
+0002107724,MTAL-UN,Metals Acquisition Corp. II,NYSE,2026-04-06 10:49:40,done
+0002108164,PONOU,"Pono Capital Four, Inc.",Nasdaq,2026-04-06 10:49:42,done
