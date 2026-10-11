@@ -440940,3 +440940,9 @@ id,cik,ticker,company_name,fiscal_year,statement_type,field_name,value,unit
 725021,0002100125,CAQUW,Cambridge Acquisition Corp.,2025,balance,total_equity,0.0,USD
 725022,0002100125,CAQUW,Cambridge Acquisition Corp.,2025,balance,retained_earnings,-63178.0,USD
 725023,0002100125,CAQUW,Cambridge Acquisition Corp.,2025,cashflow,operating_cf,0.0,USD
+725024,0002039505,XRPC,Canary XRP ETF,2025,income,net_income,-70111041.0,USD
+725025,0002039505,XRPC,Canary XRP ETF,2025,balance,total_assets,322967103.0,USD
+725026,0002039505,XRPC,Canary XRP ETF,2025,balance,total_liabilities,147378.0,USD
+725027,0002039505,XRPC,Canary XRP ETF,2025,balance,total_equity,322819725.0,USD
+725028,0002039505,XRPC,Canary XRP ETF,2025,balance,retained_earnings,-70111041.0,USD
+725029,0002039505,XRPC,Canary XRP ETF,2025,balance,shares_outstanding,16490000.0,shares
