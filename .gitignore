@@ -205,3 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# 연도별로 쪼개 올린다(financial_data_YYYY.csv). 통합 파일은 114MB 로 GitHub
+# 한도 100MB 를 넘어 2026-10-14 이후 푸시를 11 일간 전부 막았다.
+data/*/financial_data.csv
