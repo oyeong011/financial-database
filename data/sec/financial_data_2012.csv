@@ -57906,3 +57906,22 @@ id,cik,ticker,company_name,fiscal_year,statement_type,field_name,value,unit
 2065878,0001054905,IOSP,INNOSPEC INC.,2012,cashflow,financing_cf,-44700000.0,USD
 2065893,0001054905,IOSP,INNOSPEC INC.,2012,cashflow,dividends_paid,46700000.0,USD
 2065910,0001054905,IOSP,INNOSPEC INC.,2012,cashflow,share_buyback,1400000.0,USD
+2066349,0001011060,NORD,Nordicus Partners Corp,2012,income,revenue,2195000.0,USD
+2066360,0001011060,NORD,Nordicus Partners Corp,2012,income,gross_profit,1382000.0,USD
+2066375,0001011060,NORD,Nordicus Partners Corp,2012,income,operating_expenses,2053000.0,USD
+2066389,0001011060,NORD,Nordicus Partners Corp,2012,income,rd_expense,444000.0,USD
+2066398,0001011060,NORD,Nordicus Partners Corp,2012,income,sga_expense,1609000.0,USD
+2066405,0001011060,NORD,Nordicus Partners Corp,2012,income,interest_expense,340000.0,USD
+2066423,0001011060,NORD,Nordicus Partners Corp,2012,income,net_income,-1011000.0,USD
+2066460,0001011060,NORD,Nordicus Partners Corp,2012,balance,total_assets,3122000.0,USD
+2066474,0001011060,NORD,Nordicus Partners Corp,2012,balance,current_assets,720000.0,USD
+2066497,0001011060,NORD,Nordicus Partners Corp,2012,balance,inventories,258000.0,USD
+2066505,0001011060,NORD,Nordicus Partners Corp,2012,balance,ppe_net,2299000.0,USD
+2066517,0001011060,NORD,Nordicus Partners Corp,2012,balance,total_liabilities,2499000.0,USD
+2066531,0001011060,NORD,Nordicus Partners Corp,2012,balance,current_liabilities,425000.0,USD
+2066547,0001011060,NORD,Nordicus Partners Corp,2012,balance,non_current_liabilities,2074000.0,USD
+2066554,0001011060,NORD,Nordicus Partners Corp,2012,balance,total_equity,623000.0,USD
+2066568,0001011060,NORD,Nordicus Partners Corp,2012,balance,retained_earnings,-37381000.0,USD
+2066591,0001011060,NORD,Nordicus Partners Corp,2012,cashflow,operating_cf,-484000.0,USD
+2066605,0001011060,NORD,Nordicus Partners Corp,2012,cashflow,investing_cf,-10000.0,USD
+2066613,0001011060,NORD,Nordicus Partners Corp,2012,cashflow,financing_cf,113000.0,USD
