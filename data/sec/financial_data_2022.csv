@@ -112653,3 +112653,16 @@ id,cik,ticker,company_name,fiscal_year,statement_type,field_name,value,unit
 2066587,0001011060,NORD,Nordicus Partners Corp,2022,balance,shares_outstanding,5682782.0,shares
 2066601,0001011060,NORD,Nordicus Partners Corp,2022,cashflow,operating_cf,-368347.0,USD
 2066623,0001011060,NORD,Nordicus Partners Corp,2022,cashflow,financing_cf,128886.0,USD
+2066629,0001815974,ANEB,"Anebulo Pharmaceuticals, Inc.",2022,income,operating_income,-6831174.0,USD
+2066634,0001815974,ANEB,"Anebulo Pharmaceuticals, Inc.",2022,income,operating_expenses,6831174.0,USD
+2066639,0001815974,ANEB,"Anebulo Pharmaceuticals, Inc.",2022,income,rd_expense,2961538.0,USD
+2066648,0001815974,ANEB,"Anebulo Pharmaceuticals, Inc.",2022,income,net_income,-6825619.0,USD
+2066653,0001815974,ANEB,"Anebulo Pharmaceuticals, Inc.",2022,income,eps,0.29,USD/shares
+2066657,0001815974,ANEB,"Anebulo Pharmaceuticals, Inc.",2022,income,diluted_eps,0.29,USD/shares
+2066663,0001815974,ANEB,"Anebulo Pharmaceuticals, Inc.",2022,balance,total_assets,15579431.0,USD
+2066675,0001815974,ANEB,"Anebulo Pharmaceuticals, Inc.",2022,balance,total_liabilities,512531.0,USD
+2066680,0001815974,ANEB,"Anebulo Pharmaceuticals, Inc.",2022,balance,accounts_payable,380828.0,USD
+2066686,0001815974,ANEB,"Anebulo Pharmaceuticals, Inc.",2022,balance,total_equity,15066900.0,USD
+2066692,0001815974,ANEB,"Anebulo Pharmaceuticals, Inc.",2022,balance,retained_earnings,-45469703.0,USD
+2066698,0001815974,ANEB,"Anebulo Pharmaceuticals, Inc.",2022,balance,shares_outstanding,23344567.0,shares
+2066703,0001815974,ANEB,"Anebulo Pharmaceuticals, Inc.",2022,cashflow,operating_cf,-5437174.0,USD

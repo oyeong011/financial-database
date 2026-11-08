@@ -95204,3 +95204,8 @@ id,cik,ticker,company_name,fiscal_year,statement_type,field_name,value,unit
 2066585,0001011060,NORD,Nordicus Partners Corp,2020,balance,shares_outstanding,566773.0,shares
 2066599,0001011060,NORD,Nordicus Partners Corp,2020,cashflow,operating_cf,-323000.0,USD
 2066621,0001011060,NORD,Nordicus Partners Corp,2020,cashflow,financing_cf,-5087000.0,USD
+2066661,0001815974,ANEB,"Anebulo Pharmaceuticals, Inc.",2020,balance,total_assets,3028480.0,USD
+2066673,0001815974,ANEB,"Anebulo Pharmaceuticals, Inc.",2020,balance,total_liabilities,223865.0,USD
+2066684,0001815974,ANEB,"Anebulo Pharmaceuticals, Inc.",2020,balance,total_equity,-171137.0,USD
+2066690,0001815974,ANEB,"Anebulo Pharmaceuticals, Inc.",2020,balance,retained_earnings,-183137.0,USD
+2066696,0001815974,ANEB,"Anebulo Pharmaceuticals, Inc.",2020,balance,shares_outstanding,12000000.0,shares
