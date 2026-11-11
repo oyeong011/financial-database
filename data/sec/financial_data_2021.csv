@@ -101068,3 +101068,4 @@ id,cik,ticker,company_name,fiscal_year,statement_type,field_name,value,unit
 2066697,0001815974,ANEB,"Anebulo Pharmaceuticals, Inc.",2021,balance,shares_outstanding,23344567.0,shares
 2066702,0001815974,ANEB,"Anebulo Pharmaceuticals, Inc.",2021,cashflow,operating_cf,-4871189.0,USD
 2066707,0001815974,ANEB,"Anebulo Pharmaceuticals, Inc.",2021,cashflow,financing_cf,21831854.0,USD
+2066795,0001964979,ALUR,"ALLURION TECHNOLOGIES, INC.",2021,balance,total_equity,4837000.0,USD
