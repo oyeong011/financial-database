@@ -117430,3 +117430,23 @@ id,cik,ticker,company_name,fiscal_year,statement_type,field_name,value,unit
 2066813,0001964979,ALUR,"ALLURION TECHNOLOGIES, INC.",2023,cashflow,investing_cf,-1606000.0,USD
 2066816,0001964979,ALUR,"ALLURION TECHNOLOGIES, INC.",2023,cashflow,capex,1606000.0,USD
 2066819,0001964979,ALUR,"ALLURION TECHNOLOGIES, INC.",2023,cashflow,financing_cf,95986000.0,USD
+2066824,0001994624,STAI,ScanTech AI Systems Inc.,2023,income,operating_income,-9559329.0,USD
+2066826,0001994624,STAI,ScanTech AI Systems Inc.,2023,income,operating_expenses,9559329.0,USD
+2066828,0001994624,STAI,ScanTech AI Systems Inc.,2023,income,rd_expense,3238925.0,USD
+2066830,0001994624,STAI,ScanTech AI Systems Inc.,2023,income,net_income,-35532791.0,USD
+2066832,0001994624,STAI,ScanTech AI Systems Inc.,2023,income,eps,-0.2,USD/shares
+2066834,0001994624,STAI,ScanTech AI Systems Inc.,2023,income,diluted_eps,-0.2,USD/shares
+2066836,0001994624,STAI,ScanTech AI Systems Inc.,2023,balance,total_assets,1349213.0,USD
+2066838,0001994624,STAI,ScanTech AI Systems Inc.,2023,balance,current_assets,1267175.0,USD
+2066840,0001994624,STAI,ScanTech AI Systems Inc.,2023,balance,cash,43949.0,USD
+2066843,0001994624,STAI,ScanTech AI Systems Inc.,2023,balance,inventories,249844.0,USD
+2066845,0001994624,STAI,ScanTech AI Systems Inc.,2023,balance,total_liabilities,133847699.0,USD
+2066847,0001994624,STAI,ScanTech AI Systems Inc.,2023,balance,current_liabilities,133847699.0,USD
+2066849,0001994624,STAI,ScanTech AI Systems Inc.,2023,balance,accounts_payable,3173677.0,USD
+2066851,0001994624,STAI,ScanTech AI Systems Inc.,2023,balance,retained_earnings,-159184883.0,USD
+2066853,0001994624,STAI,ScanTech AI Systems Inc.,2023,cashflow,operating_cf,-5433936.0,USD
+2066855,0001994624,STAI,ScanTech AI Systems Inc.,2023,cashflow,investing_cf,-5232.0,USD
+2066857,0001994624,STAI,ScanTech AI Systems Inc.,2023,cashflow,capex,5232.0,USD
+2066859,0001994624,STAI,ScanTech AI Systems Inc.,2023,cashflow,financing_cf,5679277.0,USD
+2066861,0001994624,STAI,ScanTech AI Systems Inc.,2023,cashflow,debt_issued,6216732.0,USD
+2066863,0001994624,STAI,ScanTech AI Systems Inc.,2023,cashflow,debt_repaid,520688.0,USD

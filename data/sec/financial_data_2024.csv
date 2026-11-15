@@ -120917,3 +120917,25 @@ id,cik,ticker,company_name,fiscal_year,statement_type,field_name,value,unit
 2066814,0001964979,ALUR,"ALLURION TECHNOLOGIES, INC.",2024,cashflow,investing_cf,-611000.0,USD
 2066817,0001964979,ALUR,"ALLURION TECHNOLOGIES, INC.",2024,cashflow,capex,611000.0,USD
 2066820,0001964979,ALUR,"ALLURION TECHNOLOGIES, INC.",2024,cashflow,financing_cf,20208000.0,USD
+2066822,0001994624,STAI,ScanTech AI Systems Inc.,2024,income,revenue,542166.0,USD
+2066823,0001994624,STAI,ScanTech AI Systems Inc.,2024,income,cost_of_revenue,448095.0,USD
+2066825,0001994624,STAI,ScanTech AI Systems Inc.,2024,income,operating_income,-8917732.0,USD
+2066827,0001994624,STAI,ScanTech AI Systems Inc.,2024,income,operating_expenses,9011803.0,USD
+2066829,0001994624,STAI,ScanTech AI Systems Inc.,2024,income,rd_expense,3400021.0,USD
+2066831,0001994624,STAI,ScanTech AI Systems Inc.,2024,income,net_income,-23065795.0,USD
+2066833,0001994624,STAI,ScanTech AI Systems Inc.,2024,income,eps,-0.08,USD/shares
+2066835,0001994624,STAI,ScanTech AI Systems Inc.,2024,income,diluted_eps,-0.08,USD/shares
+2066837,0001994624,STAI,ScanTech AI Systems Inc.,2024,balance,total_assets,2152777.0,USD
+2066839,0001994624,STAI,ScanTech AI Systems Inc.,2024,balance,current_assets,2065057.0,USD
+2066841,0001994624,STAI,ScanTech AI Systems Inc.,2024,balance,cash,0.0,USD
+2066842,0001994624,STAI,ScanTech AI Systems Inc.,2024,balance,accounts_receivable,287448.0,USD
+2066844,0001994624,STAI,ScanTech AI Systems Inc.,2024,balance,inventories,1426140.0,USD
+2066846,0001994624,STAI,ScanTech AI Systems Inc.,2024,balance,total_liabilities,157734053.0,USD
+2066848,0001994624,STAI,ScanTech AI Systems Inc.,2024,balance,current_liabilities,157734053.0,USD
+2066850,0001994624,STAI,ScanTech AI Systems Inc.,2024,balance,accounts_payable,4733031.0,USD
+2066852,0001994624,STAI,ScanTech AI Systems Inc.,2024,balance,retained_earnings,-184476592.0,USD
+2066854,0001994624,STAI,ScanTech AI Systems Inc.,2024,cashflow,operating_cf,-6622015.0,USD
+2066856,0001994624,STAI,ScanTech AI Systems Inc.,2024,cashflow,investing_cf,-1913.0,USD
+2066858,0001994624,STAI,ScanTech AI Systems Inc.,2024,cashflow,capex,1913.0,USD
+2066860,0001994624,STAI,ScanTech AI Systems Inc.,2024,cashflow,financing_cf,6313161.0,USD
+2066862,0001994624,STAI,ScanTech AI Systems Inc.,2024,cashflow,debt_issued,6397924.0,USD
