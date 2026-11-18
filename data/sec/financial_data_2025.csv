@@ -117840,3 +117840,8 @@ id,cik,ticker,company_name,fiscal_year,statement_type,field_name,value,unit
 2066807,0001964979,ALUR,"ALLURION TECHNOLOGIES, INC.",2025,balance,shares_outstanding,12279181.0,shares
 2066811,0001964979,ALUR,"ALLURION TECHNOLOGIES, INC.",2025,cashflow,operating_cf,-28946000.0,USD
 2066821,0001964979,ALUR,"ALLURION TECHNOLOGIES, INC.",2025,cashflow,financing_cf,18970000.0,USD
+2066864,0002039458,HBR,Canary HBAR ETF,2025,balance,total_assets,50616211.0,USD
+2066865,0002039458,HBR,Canary HBAR ETF,2025,balance,total_liabilities,47398.0,USD
+2066866,0002039458,HBR,Canary HBAR ETF,2025,balance,total_equity,50568813.0,USD
+2066867,0002039458,HBR,Canary HBAR ETF,2025,balance,retained_earnings,-37500759.0,USD
+2066868,0002039458,HBR,Canary HBAR ETF,2025,balance,shares_outstanding,3460000.0,shares
