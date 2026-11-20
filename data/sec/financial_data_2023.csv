@@ -117450,3 +117450,27 @@ id,cik,ticker,company_name,fiscal_year,statement_type,field_name,value,unit
 2066859,0001994624,STAI,ScanTech AI Systems Inc.,2023,cashflow,financing_cf,5679277.0,USD
 2066861,0001994624,STAI,ScanTech AI Systems Inc.,2023,cashflow,debt_issued,6216732.0,USD
 2066863,0001994624,STAI,ScanTech AI Systems Inc.,2023,cashflow,debt_repaid,520688.0,USD
+2066872,0001832487,GUER,"Guerrilla RF, Inc.",2023,income,cost_of_revenue,6473477.0,USD
+2066878,0001832487,GUER,"Guerrilla RF, Inc.",2023,income,gross_profit,8604839.0,USD
+2066884,0001832487,GUER,"Guerrilla RF, Inc.",2023,income,operating_income,-12924591.0,USD
+2066890,0001832487,GUER,"Guerrilla RF, Inc.",2023,income,operating_expenses,21529430.0,USD
+2066896,0001832487,GUER,"Guerrilla RF, Inc.",2023,income,rd_expense,10282635.0,USD
+2066902,0001832487,GUER,"Guerrilla RF, Inc.",2023,income,income_tax,0.0,USD
+2066908,0001832487,GUER,"Guerrilla RF, Inc.",2023,income,net_income,-15966294.0,USD
+2066913,0001832487,GUER,"Guerrilla RF, Inc.",2023,income,eps,-2.25,USD/shares
+2066919,0001832487,GUER,"Guerrilla RF, Inc.",2023,balance,total_assets,19012038.0,USD
+2066925,0001832487,GUER,"Guerrilla RF, Inc.",2023,balance,current_assets,4852334.0,USD
+2066932,0001832487,GUER,"Guerrilla RF, Inc.",2023,balance,accounts_receivable,2079111.0,USD
+2066938,0001832487,GUER,"Guerrilla RF, Inc.",2023,balance,inventories,1533592.0,USD
+2066944,0001832487,GUER,"Guerrilla RF, Inc.",2023,balance,ppe_net,3659084.0,USD
+2066947,0001832487,GUER,"Guerrilla RF, Inc.",2023,balance,intangible_assets,0.0,USD
+2066953,0001832487,GUER,"Guerrilla RF, Inc.",2023,balance,total_liabilities,25807565.0,USD
+2066959,0001832487,GUER,"Guerrilla RF, Inc.",2023,balance,current_liabilities,17338478.0,USD
+2066969,0001832487,GUER,"Guerrilla RF, Inc.",2023,balance,total_equity,-6795527.0,USD
+2066975,0001832487,GUER,"Guerrilla RF, Inc.",2023,balance,retained_earnings,-43039462.0,USD
+2066981,0001832487,GUER,"Guerrilla RF, Inc.",2023,balance,shares_outstanding,7893205.0,shares
+2066987,0001832487,GUER,"Guerrilla RF, Inc.",2023,cashflow,operating_cf,-13454990.0,USD
+2066993,0001832487,GUER,"Guerrilla RF, Inc.",2023,cashflow,depreciation,1592567.0,USD
+2066999,0001832487,GUER,"Guerrilla RF, Inc.",2023,cashflow,investing_cf,-101714.0,USD
+2067005,0001832487,GUER,"Guerrilla RF, Inc.",2023,cashflow,capex,101714.0,USD
+2067011,0001832487,GUER,"Guerrilla RF, Inc.",2023,cashflow,financing_cf,9997615.0,USD

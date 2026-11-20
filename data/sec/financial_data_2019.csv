@@ -86688,3 +86688,4 @@ id,cik,ticker,company_name,fiscal_year,statement_type,field_name,value,unit
 2066598,0001011060,NORD,Nordicus Partners Corp,2019,cashflow,operating_cf,5333000.0,USD
 2066609,0001011060,NORD,Nordicus Partners Corp,2019,cashflow,investing_cf,-16000.0,USD
 2066620,0001011060,NORD,Nordicus Partners Corp,2019,cashflow,financing_cf,49000.0,USD
+2066965,0001832487,GUER,"Guerrilla RF, Inc.",2019,balance,total_equity,-1638661.0,USD
